@@ -1,0 +1,1313 @@
+RecordID,Events,Fighter1,Fighter2,Winner,fighter1_odds,fighter2_odds,F1 or F2,Label,Combine,Favourite,Underdog
+1,UFC 159 - Jones vs. Sonnen,Jon Jones,Chael Sonnen,Jon Jones,1.13,9,1,Favourite,Favourite 1,Jon Jones,Chael Sonnen
+2,UFC 159 - Jones vs. Sonnen,Michael Bisping,Alan Belcher,Michael Bisping,1.57,4.5,1,Favourite,Favourite 1,Michael Bisping,Alan Belcher
+3,UFC 159 - Jones vs. Sonnen,Roy Nelson,Cheick Kongo,Roy Nelson,1.43,3.2,1,Favourite,Favourite 1,Roy Nelson,Cheick Kongo
+4,UFC 159 - Jones vs. Sonnen,Phil Davis,Vinny Magalhaes,Phil Davis,1.36,3.55,1,Favourite,Favourite 1,Phil Davis,Vinny Magalhaes
+5,UFC 159 - Jones vs. Sonnen,Pat Healy,Jim Miller,Pat Healy,3.4,1.4,1,Underdog,Underdog 1,Jim Miller,Pat Healy
+6,UFC 159 - Jones vs. Sonnen,Rustam Khabilov,Yancy Medeiros,Rustam Khabilov,1.54,3.4,1,Favourite,Favourite 1,Rustam Khabilov,Yancy Medeiros
+7,UFC 159 - Jones vs. Sonnen,Ovince St Preux,Gian Villante,Ovince St Preux,1.69,2.4,1,Favourite,Favourite 1,Ovince Saint Preux,Gian Villante
+8,UFC 159 - Jones vs. Sonnen,Sara McMann,Sheila Gaff,Sara McMann,1.18,5.8,1,Favourite,Favourite 1,Sara McMann,Sheila Gaff
+9,UFC 159 - Jones vs. Sonnen,Bryan Caraway,Johnny Bedford,Bryan Caraway,2.15,1.91,1,Underdog,Underdog 1,Johnny Bedford,Bryan Caraway
+10,UFC 159 - Jones vs. Sonnen,Cody McKenzie,Leonard Garcia,Cody McKenzie,2.93,1.53,1,Underdog,Underdog 1,Leonard Garcia,Cody McKenzie
+11,UFC 159 - Jones vs. Sonnen,Steven Siler,Kurt Holobaugh,Steven Siler,1.95,2.06,1,Favourite,Favourite 1,Steven Siler,Kurt Holobaugh
+12,UFC 160 - Velasquez vs. Bigfoot 2,Cain Velasquez,Antonio Silva,Cain Velasquez,1.16,6.75,1,Favourite,Favourite 1,Cain Velasquez,Antonio Silva
+13,UFC 160 - Velasquez vs. Bigfoot 2,Junior dos Santos,Mark Hunt,Junior dos Santos,1.25,5.25,1,Favourite,Favourite 1,Junior Dos Santos,Mark Hunt
+14,UFC 160 - Velasquez vs. Bigfoot 2,Glover Teixeira,James Te Huna,Glover Teixeira,1.33,4.75,1,Favourite,Favourite 1,Glover Teixeira,James Te Huna
+15,UFC 160 - Velasquez vs. Bigfoot 2,T.J. Grant,Gray Maynard,T.J. Grant,2.65,1.74,1,Underdog,Underdog 1,Gray Maynard,TJ Grant
+16,UFC 160 - Velasquez vs. Bigfoot 2,Donald Cerrone,K.J. Noons,Donald Cerrone,1.37,3.48,1,Favourite,Favourite 1,Donald Cerrone,KJ Noons
+17,UFC 160 - Velasquez vs. Bigfoot 2,Mike Pyle,Rick Story,Mike Pyle,2.5,1.67,1,Underdog,Underdog 1,Rick Story,Mike Pyle
+18,UFC 160 - Velasquez vs. Bigfoot 2,Dennis Bermudez,Max Holloway,Dennis Bermudez,1.4,3.65,1,Favourite,Favourite 1,Dennis Bermudez,Max Holloway
+19,UFC 160 - Velasquez vs. Bigfoot 2,Robert Whittaker,Colton Smith,Robert Whittaker,2.75,1.71,1,Underdog,Underdog 1,Colton Smith,Robert Whittaker
+20,UFC 160 - Velasquez vs. Bigfoot 2,Khabib Nurmagomedov,Abel Trujillo,Khabib Nurmagomedov,1.4,3.75,1,Favourite,Favourite 1,Khabib Nurmagomedov,Abel Trujillo
+21,UFC 160 - Velasquez vs. Bigfoot 2,Stephen Thompson,Nah-Shon Burrell,Stephen Thompson,1.63,2.65,1,Favourite,Favourite 1,Stephen Thompson,Nah-Shon Burrell
+22,UFC 160 - Velasquez vs. Bigfoot 2,George Roop,Brian Bowles,George Roop,3.66,1.36,1,Underdog,Underdog 1,Brian Bowles,George Roop
+23,UFC 160 - Velasquez vs. Bigfoot 2,Jeremy Stephens,Estevan Payan,Jeremy Stephens,1.6,2.9,1,Favourite,Favourite 1,Jeremy Stephens,Estevan Payan
+24,UFC on Fox 8 - Johnson vs. Moraga,Demetrious Johnson,John Moraga,Demetrious Johnson,1.25,4.75,1,Favourite,Favourite 1,Demetrious Johnson,John Moraga
+25,UFC on Fox 8 - Johnson vs. Moraga,Rory MacDonald,Jake Ellenberger,Rory MacDonald,1.43,3.14,1,Favourite,Favourite 1,Rory MacDonald,Jake Ellenberger
+26,UFC on Fox 8 - Johnson vs. Moraga,Robbie Lawler,Bobby Voelker,Robbie Lawler,1.29,4.15,1,Favourite,Favourite 1,Robbie Lawler,Bobby Voelker
+27,UFC on Fox 8 - Johnson vs. Moraga,Liz Carmouche,Jessica Andrade,Liz Carmouche,1.2,5.75,1,Favourite,Favourite 1,Liz Carmouche,Jessica Andrade
+28,UFC on Fox 8 - Johnson vs. Moraga,Jorge Masvidal,Michael Chiesa,Jorge Masvidal,1.4,3.55,1,Favourite,Favourite 1,Jorge Masvidal,Michael Chiesa
+29,UFC on Fox 8 - Johnson vs. Moraga,Danny Castillo,Tim Means,Danny Castillo,1.5,3.45,1,Favourite,Favourite 1,Danny Castillo,Tim Means
+30,UFC on Fox 8 - Johnson vs. Moraga,Melvin Guillard,Mac Danzig,Melvin Guillard,1.91,2.45,1,Favourite,Favourite 1,Melvin Guillard,Mac Danzig
+31,UFC on Fox 8 - Johnson vs. Moraga,Daron Cruickshank,Yves Edwards,Daron Cruickshank,1.67,2.75,1,Favourite,Favourite 1,Daron Cruickshank,Yves Edwards
+32,UFC on Fox 8 - Johnson vs. Moraga,Ed Herman,Trevor Smith,Ed Herman,1.57,3,1,Favourite,Favourite 1,Ed Herman,Trevor Smith
+33,UFC on Fox 8 - Johnson vs. Moraga,Germaine de Randamie,Julie Kedzie,Germaine de Randamie,1.63,2.7,1,Favourite,Favourite 1,Germaine de Randamie,Julie Kedzie
+34,UFC on Fox 8 - Johnson vs. Moraga,Justin Salas,Aaron Riley,Justin Salas,1.45,3.2,1,Favourite,Favourite 1,Justin Salas,Aaron Riley
+35,UFC on Fox 8 - Johnson vs. Moraga,Yaotzin Meza,John Albert,Yaotzin Meza,3.3,1.47,1,Underdog,Underdog 1,John Albert,Yaotzin Meza
+36,UFC 163 - Aldo vs. Korean Zombie,Jose Aldo,Chan Sung Jung,Jose Aldo,1.15,8.05,1,Favourite,Favourite 1,Jose Aldo,Chan Sung Jung
+37,UFC 163 - Aldo vs. Korean Zombie,Phil Davis,Lyoto Machida,Phil Davis,1.4,4.05,1,Favourite,Favourite 1,Phil Davis,Lyoto Machida
+38,UFC 163 - Aldo vs. Korean Zombie,Cezar Ferreira,Thiago Santos,Cezar Ferreira,1.22,5.1,1,Favourite,Favourite 1,Cezar Ferreira,Thiago Santos
+39,UFC 163 - Aldo vs. Korean Zombie,Thales Leites,Tom Watson,Thales Leites,1.69,2.5,1,Favourite,Favourite 1,Thales Leites,Tom Watson
+40,UFC 163 - Aldo vs. Korean Zombie,John Lineker,Jose Maria Tome,John Lineker,1.27,4.55,1,Favourite,Favourite 1,John Lineker,Jose Maria
+41,UFC 163 - Aldo vs. Korean Zombie,Anthony Perosh,Vinny Magalhaes,Anthony Perosh,5.35,1.22,1,Underdog,Underdog 1,Vinny Magalhaes,Anthony Perosh
+42,UFC 163 - Aldo vs. Korean Zombie,Amanda Nunes,Sheila Gaff,Amanda Nunes,1.51,3,1,Favourite,Favourite 1,Amanda Nunes,Sheila Gaff
+43,UFC 163 - Aldo vs. Korean Zombie,Sergio Moraes,Neil Magny,Sergio Moraes,1.72,2.51,1,Favourite,Favourite 1,Sergio Moraes,Neil Magny
+44,UFC 163 - Aldo vs. Korean Zombie,Ian McCall,Iliarde Santos,Ian McCall,1.22,5.05,1,Favourite,Favourite 1,Ian McCall,Iliarde Santos
+45,UFC 163 - Aldo vs. Korean Zombie,Rani Yahya,Josh Clopton,Rani Yahya,1.13,9.17,1,Favourite,Favourite 1,Rani Yahya,Josh Clopton
+46,UFC 163 - Aldo vs. Korean Zombie,Francimar Barroso,Ednaldo Oliveira,Francimar Barroso,2.4,1.83,1,Underdog,Underdog 1,Ednaldo Oliveira,Francimar Barroso
+47,UFC 163 - Aldo vs. Korean Zombie,Viscardi Andrade,Bristol Marunde,Viscardi Andrade,1.57,2.77,1,Favourite,Favourite 1,Viscardi Andrade,Bristol Marunde
+48,UFC Fight Night 26 - Shogun vs. Sonnen,Chael Sonnen,Mauricio Rua,Chael Sonnen,2.55,1.67,1,Underdog,Underdog 1,Mauricio Rua,Chael Sonnen
+49,UFC Fight Night 26 - Shogun vs. Sonnen,Travis Browne,Alistair Overeem,Travis Browne,2.7,1.67,1,Underdog,Underdog 1,Alistair Overeem,Travis Browne
+50,UFC Fight Night 26 - Shogun vs. Sonnen,Urijah Faber,Iuri Alcantara,Urijah Faber,1.47,3.05,1,Favourite,Favourite 1,Urijah Faber,Iuri Alcantara
+51,UFC Fight Night 26 - Shogun vs. Sonnen,Matt Brown,Mike Pyle,Matt Brown,1.8,2.3,1,Favourite,Favourite 1,Matt Brown,Mike Pyle
+52,UFC Fight Night 26 - Shogun vs. Sonnen,John Howard,Uriah Hall,John Howard,5.2,1.22,1,Underdog,Underdog 1,Uriah Hall,John Howard
+53,UFC Fight Night 26 - Shogun vs. Sonnen,Michael Johnson,Joe Lauzon,Michael Johnson,3.6,1.42,1,Underdog,Underdog 1,Joe Lauzon,Michael Johnson
+54,UFC Fight Night 26 - Shogun vs. Sonnen,Michael McDonald,Brad Pickett,Michael McDonald,1.33,4.05,1,Favourite,Favourite 1,Michael McDonald,Brad Pickett
+55,UFC Fight Night 26 - Shogun vs. Sonnen,Conor McGregor,Max Holloway,Conor McGregor,1.42,3.85,1,Favourite,Favourite 1,Conor McGregor,Max Holloway
+56,UFC Fight Night 26 - Shogun vs. Sonnen,Steven Siler,Mike Brown,Steven Siler,2.9,1.5,1,Underdog,Underdog 1,Mike Brown,Steven Siler
+57,UFC Fight Night 26 - Shogun vs. Sonnen,Diego Brandao,Daniel Pineda,Diego Brandao,1.57,3,1,Favourite,Favourite 1,Diego Brandao,Daniel Pineda
+58,UFC Fight Night 26 - Shogun vs. Sonnen,Manny Gamburyan,Cole Miller,Manny Gamburyan,1.8,2.31,1,Favourite,Favourite 1,Manvel Gamburyan,Cole Miller
+59,UFC Fight Night 26 - Shogun vs. Sonnen,Ovince St Preux,Cody Donovan,Ovince St Preux,1.31,4.63,1,Favourite,Favourite 1,Ovince Saint Preux,Cody Donovan
+60,UFC Fight Night 26 - Shogun vs. Sonnen,James Vick,Ramsey Nijem,James Vick,2.75,1.57,1,Underdog,Underdog 1,Ramsey Nijem,James Vick
+61,UFC 167 - St. Pierre vs. Hendricks,Georges St. Pierre,Johny Hendricks,Georges St. Pierre,1.54,2.85,1,Favourite,Favourite 1,Georges St-Pierre,Johny Hendricks
+62,UFC 167 - St. Pierre vs. Hendricks,Rashad Evans,Chael Sonnen,Rashad Evans,1.5,3.2,1,Favourite,Favourite 1,Rashad Evans,Chael Sonnen
+63,UFC 167 - St. Pierre vs. Hendricks,Robbie Lawler,Rory MacDonald,Robbie Lawler,4.65,1.26,1,Underdog,Underdog 1,Rory MacDonald,Robbie Lawler
+64,UFC 167 - St. Pierre vs. Hendricks,Tyron Woodley,Josh Koscheck,Tyron Woodley,1.95,2.3,1,Favourite,Favourite 1,Tyron Woodley,Josh Koscheck
+65,UFC 167 - St. Pierre vs. Hendricks,Ali Bagautinov,Tim Elliott,Ali Bagautinov,2.5,1.67,1,Underdog,Underdog 1,Tim Elliott,Ali Bagautinov
+66,UFC 167 - St. Pierre vs. Hendricks,Donald Cerrone,Evan Dunham,Donald Cerrone,1.87,2.15,1,Favourite,Favourite 1,Donald Cerrone,Evan Dunham
+67,UFC 167 - St. Pierre vs. Hendricks,Thales Leites,Ed Herman,Thales Leites,1.61,2.71,1,Favourite,Favourite 1,Thales Leites,Ed Herman
+68,UFC 167 - St. Pierre vs. Hendricks,Rick Story,Brian Ebersole,Rick Story,1.49,3.01,1,Favourite,Favourite 1,Rick Story,Brian Ebersole
+69,UFC 167 - St. Pierre vs. Hendricks,Erik Perez,Edwin Figueroa,Erik Perez,1.24,4.78,1,Favourite,Favourite 1,Erik Perez,Edwin Figueroa
+70,UFC 167 - St. Pierre vs. Hendricks,Jason High,Anthony Lapsley,Jason High,1.32,3.9,1,Favourite,Favourite 1,Jason High,Anthony Lapsley
+71,UFC 167 - St. Pierre vs. Hendricks,Sergio Pettis,Will Campuzano,Sergio Pettis,1.26,4.55,1,Favourite,Favourite 1,Sergio Pettis,Will Campuzano
+72,UFC 167 - St. Pierre vs. Hendricks,Gian Villante,Cody Donovan,Gian Villante,1.31,4.1,1,Favourite,Favourite 1,Gian Villante,Cody Donovan
+73,UFC - The Ultimate Fighter 18 Finale,Nate Diaz,Gray Maynard,Nate Diaz,2.14,1.83,1,Underdog,Underdog 1,Gray Maynard,Nate Diaz
+74,UFC - The Ultimate Fighter 18 Finale,Julianna Pena,Jessica Rakoczy,Julianna Pena,1.36,3.6,1,Favourite,Favourite 1,Julianna Pena,Jessica Rakoczy
+75,UFC - The Ultimate Fighter 18 Finale,Chris Holdsworth,Davey Grant,Chris Holdsworth,1.5,2.95,1,Favourite,Favourite 1,Chris Holdsworth,Davey Grant
+76,UFC - The Ultimate Fighter 18 Finale,Jessamyn Duke,Peggy Morgan,Jessamyn Duke,1.43,3.25,1,Favourite,Favourite 1,Jessamyn Duke,Peggy Morgan
+77,UFC - The Ultimate Fighter 18 Finale,Raquel Pennington,Roxanne Modafferi,Raquel Pennington,1.26,5.16,1,Favourite,Favourite 1,Raquel Pennington,Roxanne Modafferi
+78,UFC - The Ultimate Fighter 18 Finale,Akira Corassani,Maximo Blanco,Akira Corassani,2.77,1.55,1,Underdog,Underdog 1,Maximo Blanco,Akira Corassani
+79,UFC - The Ultimate Fighter 18 Finale,Tom Niinimaki,Rani Yahya,Tom Niinimaki,2,1.95,1,Underdog,Underdog 1,Rani Yahya,Tom Niinimaki
+80,UFC - The Ultimate Fighter 18 Finale,Jared Rosholt,Walt Harris,Jared Rosholt,1.45,3.5,1,Favourite,Favourite 1,Jared Rosholt,Walt Harris
+81,UFC - The Ultimate Fighter 18 Finale,Sean Spencer,Drew Dober,Sean Spencer,1.45,3.1,1,Favourite,Favourite 1,Sean Spencer,Drew Dober
+82,UFC - The Ultimate Fighter 18 Finale,Josh Sampo,Ryan Benoit,Josh Sampo,1.87,2.05,1,Favourite,Favourite 1,Joshua Sampo,Ryan Benoit
+83,UFC Fight Night 33 - Hunt vs. Bigfoot,Mauricio Rua,James Te Huna,Mauricio Rua,2.4,1.75,1,Underdog,Underdog 1,James Te Huna,Mauricio Rua
+84,UFC Fight Night 33 - Hunt vs. Bigfoot,Ryan Bader,Anthony Perosh,Ryan Bader,1.21,5.65,1,Favourite,Favourite 1,Ryan Bader,Anthony Perosh
+85,UFC Fight Night 33 - Hunt vs. Bigfoot,Soa Palelei,Pat Barry,Soa Palelei,2.6,1.59,1,Underdog,Underdog 1,Pat Barry,Soa Palelei
+86,UFC Fight Night 33 - Hunt vs. Bigfoot,Clint Hester,Dylan Andrews,Clint Hester,2.3,1.74,1,Underdog,Underdog 1,Dylan Andrews,Clint Hester
+87,UFC Fight Night 33 - Hunt vs. Bigfoot,Bethe Correia,Julie Kedzie,Bethe Correia,2.6,1.61,1,Underdog,Underdog 1,Julie Kedzie,Bethe Correia
+88,UFC Fight Night 33 - Hunt vs. Bigfoot,Takeya Mizugaki,Nam Phan,Takeya Mizugaki,1.33,4,1,Favourite,Favourite 1,Takeya Mizugaki,Nam Phan
+89,UFC Fight Night 33 - Hunt vs. Bigfoot,Caio Magalhaes,Nick Ring,Caio Magalhaes,2.85,1.57,1,Underdog,Underdog 1,Nick Ring,Caio Magalhaes
+90,UFC Fight Night 33 - Hunt vs. Bigfoot,Justin Scoggins,Richie Vaculik,Justin Scoggins,1.3,4.1,1,Favourite,Favourite 1,Justin Scoggins,Richie Vaculik
+91,UFC Fight Night 33 - Hunt vs. Bigfoot,Krzysztof Jotko,Bruno Santos,Krzysztof Jotko,3.15,1.45,1,Underdog,Underdog 1,Bruno Santos,Krzysztof Jotko
+92,UFC Fight Night 33 - Hunt vs. Bigfoot,Alex Garcia,Ben Wall,Alex Garcia,1.16,6.55,1,Favourite,Favourite 1,Alex Garcia,Ben Wall
+93,UFC Fight Night 34 - Saffiedine vs. Lim,Tarec Saffiedine,Hyun Gyu Lim,Tarec Saffiedine,1.47,3.11,1,Favourite,Favourite 1,Tarec Saffiedine,Hyun Gyu Lim
+94,UFC Fight Night 34 - Saffiedine vs. Lim,Tatsuya Kawajiri,Sean Soriano,Tatsuya Kawajiri,1.98,2.3,1,Favourite,Favourite 1,Tatsuya Kawajiri,Sean Soriano
+95,UFC Fight Night 34 - Saffiedine vs. Lim,Kiichi Kunimoto,Luiz Dutra,Kiichi Kunimoto,2.45,1.67,1,Underdog,Underdog 1,Luiz Dutra,Kiichi Kunimoto
+96,UFC Fight Night 34 - Saffiedine vs. Lim,Kyung Ho Kang,Shunichi Shimizu,Kyung Ho Kang,1.33,3.95,1,Favourite,Favourite 1,Kyung Ho Kang,Shunichi Shimizu
+97,UFC Fight Night 34 - Saffiedine vs. Lim,Max Holloway,Will Chope,Max Holloway,1.43,3.46,1,Favourite,Favourite 1,Max Holloway,Will Chope
+98,UFC Fight Night 34 - Saffiedine vs. Lim,Katsunori Kikuno,Quinn Mulhern,Katsunori Kikuno,1.61,2.7,1,Favourite,Favourite 1,Katsunori Kikuno,Quinn Mulhern
+99,UFC Fight Night 34 - Saffiedine vs. Lim,Royston Wee,Dave Galera,Royston Wee,2.75,1.57,1,Underdog,Underdog 1,Dave Galera,Royston Wee
+100,UFC Fight Night 34 - Saffiedine vs. Lim,Mairbek Taisumov,Tae Hyun Bang,Mairbek Taisumov,1.31,4.2,1,Favourite,Favourite 1,Mairbek Taisumov,Tae Hyun Bang
+101,UFC Fight Night 34 - Saffiedine vs. Lim,Dustin Kimura,Jon delos Reyes,Dustin Kimura,1.36,4.25,1,Favourite,Favourite 1,Dustin Kimura,Jon Delos Reyes
+102,UFC Fight Night 34 - Saffiedine vs. Lim,Russell Doane,Leandro Issa,Russell Doane,2.15,1.83,1,Underdog,Underdog 1,Leandro Issa,Russell Doane
+103,UFC on Fox 10 - Henderson vs. Thomson,Benson Henderson,Josh Thomson,Benson Henderson,1.36,3.8,1,Favourite,Favourite 1,Benson Henderson,Josh Thomson
+104,UFC on Fox 10 - Henderson vs. Thomson,Stipe Miocic,Gabriel Gonzaga,Stipe Miocic,1.4,3.6,1,Favourite,Favourite 1,Stipe Miocic,Gabriel Gonzaga
+105,UFC on Fox 10 - Henderson vs. Thomson,Donald Cerrone,Adriano Martins,Donald Cerrone,1.59,2.62,1,Favourite,Favourite 1,Donald Cerrone,Adriano Martins
+106,UFC on Fox 10 - Henderson vs. Thomson,Jeremy Stephens,Darren Elkins,Jeremy Stephens,1.88,2.15,1,Favourite,Favourite 1,Jeremy Stephens,Darren Elkins
+107,UFC on Fox 10 - Henderson vs. Thomson,Alex Caceres,Sergio Pettis,Alex Caceres,2.9,1.54,1,Underdog,Underdog 1,Sergio Pettis,Alex Caceres
+108,UFC on Fox 10 - Henderson vs. Thomson,Eddie Wineland,Yves Jabouin,Eddie Wineland,1.24,5.26,1,Favourite,Favourite 1,Eddie Wineland,Yves Jabouin
+109,UFC on Fox 10 - Henderson vs. Thomson,Chico Camus,Yaotzin Meza,Chico Camus,1.54,2.8,1,Favourite,Favourite 1,Chico Camus,Yaotzin Meza
+110,UFC on Fox 10 - Henderson vs. Thomson,Hugo Viana,Ramiro Hernandez,Hugo Viana,1.31,3.93,1,Favourite,Favourite 1,Hugo Viana,Junior Hernandez
+111,UFC on Fox 10 - Henderson vs. Thomson,Daron Cruickshank,Mike Rio,Daron Cruickshank,1.43,3.25,1,Favourite,Favourite 1,Daron Cruickshank,Mike Rio
+112,UFC on Fox 10 - Henderson vs. Thomson,George Sullivan,Mike Rhodes,George Sullivan,3.55,1.4,1,Underdog,Underdog 1,Mike Rhodes,George Sullivan
+113,UFC on Fox 10 - Henderson vs. Thomson,Nikita Krylov,Walt Harris,Nikita Krylov,4.55,1.25,1,Underdog,Underdog 1,Walt Harris,Nikita Krylov
+114,UFC 169 - Barao vs. Faber 2,Renan Barao,Urijah Faber,Renan Barao,1.3,4.05,1,Favourite,Favourite 1,Renan Barao,Urijah Faber
+115,UFC 169 - Barao vs. Faber 2,Jose Aldo,Ricardo Lamas,Jose Aldo,1.15,7.01,1,Favourite,Favourite 1,Jose Aldo,Ricardo Lamas
+116,UFC 169 - Barao vs. Faber 2,Alistair Overeem,Frank Mir,Alistair Overeem,1.26,4.75,1,Favourite,Favourite 1,Alistair Overeem,Frank Mir
+117,UFC 169 - Barao vs. Faber 2,Ali Bagautinov,John Lineker,Ali Bagautinov,1.69,2.44,1,Favourite,Favourite 1,Ali Bagautinov,John Lineker
+118,UFC 169 - Barao vs. Faber 2,Abel Trujillo,Jamie Varner,Abel Trujillo,2.1,1.87,1,Underdog,Underdog 1,Jamie Varner,Abel Trujillo
+119,UFC 169 - Barao vs. Faber 2,Alan Patrick,John Makdessi,Alan Patrick,2.4,1.8,1,Underdog,Underdog 1,John Makdessi,Alan Patrick
+120,UFC 169 - Barao vs. Faber 2,Chris Cariaso,Danny Martinez,Chris Cariaso,1.61,2.71,1,Favourite,Favourite 1,Chris Cariaso,Danny Martinez
+121,UFC 169 - Barao vs. Faber 2,Nick Catone,Tom Watson,Nick Catone,2.6,1.83,1,Underdog,Underdog 1,Tom Watson,Nick Catone
+122,UFC 169 - Barao vs. Faber 2,Al Iaquinta,Kevin Lee,Al Iaquinta,1.67,3.1,1,Favourite,Favourite 1,Al Iaquinta,Kevin Lee
+123,UFC 169 - Barao vs. Faber 2,Clint Hester,Andy Enz,Clint Hester,1.57,2.9,1,Favourite,Favourite 1,Clint Hester,Andy Enz
+124,UFC 169 - Barao vs. Faber 2,Rashid Magomedov,Tony Martin,Rashid Magomedov,1.71,3.2,1,Favourite,Favourite 1,Rashid Magomedov,Tony Martin
+125,UFC 169 - Barao vs. Faber 2,Neil Magny,Gasan Umalatov,Neil Magny,2.65,1.69,1,Underdog,Underdog 1,Gasan Umalatov,Neil Magny
+126,UFC Fight Night 36 - Machida vs. Mousasi,Lyoto Machida,Gegard Mousasi,Lyoto Machida,1.5,3,1,Favourite,Favourite 1,Lyoto Machida,Gegard Mousasi
+127,UFC Fight Night 36 - Machida vs. Mousasi,Ronaldo Souza,Francis Carmont,Ronaldo Souza,1.21,5.5,1,Favourite,Favourite 1,Jacare Souza,Francis Carmont
+128,UFC Fight Night 36 - Machida vs. Mousasi,Erick Silva,Takenori Sato,Erick Silva,1.09,10.01,1,Favourite,Favourite 1,Erick Silva,Takenori Sato
+129,UFC Fight Night 36 - Machida vs. Mousasi,Nicholas Musoke,Viscardi Andrade,Nicholas Musoke,2.31,1.74,1,Underdog,Underdog 1,Viscardi Andrade,Nico Musoke
+130,UFC Fight Night 36 - Machida vs. Mousasi,Charles Oliveira,Andy Ogle,Charles Oliveira,1.14,7.38,1,Favourite,Favourite 1,Charles Oliveira,Andy Ogle
+131,UFC Fight Night 36 - Machida vs. Mousasi,Joe Proctor,Cristiano Marcello,Joe Proctor,1.43,3.3,1,Favourite,Favourite 1,Joe Proctor,Cristiano Marcello
+132,UFC Fight Night 36 - Machida vs. Mousasi,Rodrigo Damm,Ivan Jorge,Rodrigo Damm,2.55,1.68,1,Underdog,Underdog 1,Ivan Jorge,Rodrigo Damm
+133,UFC Fight Night 36 - Machida vs. Mousasi,Francisco Trinaldo,Jesse Ronson,Francisco Trinaldo,1.65,2.55,1,Favourite,Favourite 1,Francisco Trinaldo,Jesse Ronson
+134,UFC Fight Night 36 - Machida vs. Mousasi,Iuri Alcantara,Wilson Reis,Iuri Alcantara,1.48,3.2,1,Favourite,Favourite 1,Iuri Alcantara,Wilson Reis
+135,UFC Fight Night 36 - Machida vs. Mousasi,Felipe Arantes,Maximo Blanco,Felipe Arantes,2,2.2,1,Favourite,Favourite 1,Felipe Arantes,Maximo Blanco
+136,UFC Fight Night 36 - Machida vs. Mousasi,Ildemar Alcantara,Albert Tumenov,Ildemar Alcantara,3.05,1.48,1,Underdog,Underdog 1,Albert Tumenov,Ildemar Alcantara
+137,UFC Fight Night 36 - Machida vs. Mousasi,Zubaira Tukhugov,Douglas Silva de Andrade,Zubaira Tukhugov,1.95,2.04,1,Favourite,Favourite 1,Zubaira Tukhugov,Douglas Silva de Andrade
+138,UFC Fight Night 38 - Shogun vs. Henderson 2,Dan Henderson,Mauricio Rua,Dan Henderson,2.55,1.65,1,Underdog,Underdog 1,Mauricio Rua,Dan Henderson
+139,UFC Fight Night 38 - Shogun vs. Henderson 2,C.B. Dollaway,Cezar Ferreira,C.B. Dollaway,4.58,1.3,1,Underdog,Underdog 1,Cezar Ferreira,CB Dollaway
+140,UFC Fight Night 38 - Shogun vs. Henderson 2,Fabio Maldonado,Gian Villante,Fabio Maldonado,3.85,1.57,1,Underdog,Underdog 1,Gian Villante,Fabio Maldonado
+141,UFC Fight Night 38 - Shogun vs. Henderson 2,Michel Prazeres,Mairbek Taisumov,Michel Prazeres,3.85,1.32,1,Underdog,Underdog 1,Mairbek Taisumov,Michel Prazeres
+142,UFC Fight Night 38 - Shogun vs. Henderson 2,Rony Jason,Steven Siler,Rony Jason,1.56,2.7,1,Favourite,Favourite 1,Rony Jason,Steven Siler
+143,UFC Fight Night 38 - Shogun vs. Henderson 2,Thiago Santos,Ronny Markes,Thiago Santos,7.6,1.13,1,Underdog,Underdog 1,Ronny Markes,Thiago Santos
+144,UFC Fight Night 38 - Shogun vs. Henderson 2,Jussier Formiga,Scott Jorgensen,Jussier Formiga,2.75,1.54,1,Underdog,Underdog 1,Scott Jorgensen,Jussier Formiga
+145,UFC Fight Night 38 - Shogun vs. Henderson 2,Kenny Robertson,Thiago de Oliveira Perpetuo,Kenny Robertson,2.27,1.77,1,Underdog,Underdog 1,Thiago Perpetuo,Kenny Robertson
+146,UFC Fight Night 38 - Shogun vs. Henderson 2,Hans Stringer,Francimar Barroso,Hans Stringer,2.27,1.77,1,Underdog,Underdog 1,Francimar Barroso,Hans Stringer
+147,UFC Fight Night 38 - Shogun vs. Henderson 2,Godofredo Castro,Noad Lahat,Godofredo Castro,3.85,1.36,1,Underdog,Underdog 1,Noad Lahat,Godofredo Pepey
+148,UFC - The Ultimate Fighter Nations Finale,Tim Kennedy,Michael Bisping,Tim Kennedy,2.85,1.5,1,Underdog,Underdog 1,Michael Bisping,Tim Kennedy
+149,UFC - The Ultimate Fighter Nations Finale,Patrick Cote,Kyle Noke,Patrick Cote,2.85,1.52,1,Underdog,Underdog 1,Kyle Noke,Patrick Cote
+150,UFC - The Ultimate Fighter Nations Finale,Elias Theodorou,Sheldon Westcott,Elias Theodorou,1.57,2.81,1,Favourite,Favourite 1,Elias Theodorou,Sheldon Westcott
+151,UFC - The Ultimate Fighter Nations Finale,Chad Laprise,Olivier Aubin-Mercier,Chad Laprise,2.45,1.67,1,Underdog,Underdog 1,Olivier Aubin-Mercier,Chad Laprise
+152,UFC - The Ultimate Fighter Nations Finale,Dustin Poirier,Akira Corassani,Dustin Poirier,1.1,9.5,1,Favourite,Favourite 1,Dustin Poirier,Akira Corassani
+153,UFC - The Ultimate Fighter Nations Finale,K.J. Noons,Sam Stout,K.J. Noons,2.04,1.99,1,Underdog,Underdog 1,Sam Stout,KJ Noons
+154,UFC - The Ultimate Fighter Nations Finale,Sarah Kaufman,Leslie Smith,Sarah Kaufman,1.4,3.45,1,Favourite,Favourite 1,Sarah Kaufman,Leslie Smith
+155,UFC - The Ultimate Fighter Nations Finale,Ryan Jimmo,"Sean O'Connell",Ryan Jimmo,1.17,7.15,1,Favourite,Favourite 1,Ryan Jimmo,"Sean O'Connell"
+156,UFC - The Ultimate Fighter Nations Finale,George Roop,Dustin Kimura,George Roop,1.71,2.51,1,Favourite,Favourite 1,George Roop,Dustin Kimura
+157,UFC - The Ultimate Fighter Nations Finale,Mark Bocek,Mike de la Torre,Mark Bocek,1.16,6.7,1,Favourite,Favourite 1,Mark Bocek,Mike de la Torre
+158,UFC - The Ultimate Fighter Nations Finale,Nordine Taleb,Vik Grujic,Nordine Taleb,1.43,3.18,1,Favourite,Favourite 1,Nordine Taleb,Vik Grujic
+159,UFC - The Ultimate Fighter Nations Finale,Rich Walsh,Chris Indich,Rich Walsh,1.44,3.17,1,Favourite,Favourite 1,Richard Walsh,Chris Indich
+160,UFC - The Ultimate Fighter Nations Finale,Mitch Gagnon,Tim Gorman,Mitch Gagnon,1.32,3.9,1,Favourite,Favourite 1,Mitch Gagnon,Tim Gorman
+161,UFC on Fox 11 - Werdum vs. Browne,Fabricio Werdum,Travis Browne,Fabricio Werdum,3.15,1.45,1,Underdog,Underdog 1,Travis Browne,Fabricio Werdum
+162,UFC on Fox 11 - Werdum vs. Browne,Miesha Tate,Liz Carmouche,Miesha Tate,1.56,2.81,1,Favourite,Favourite 1,Miesha Tate,Liz Carmouche
+163,UFC on Fox 11 - Werdum vs. Browne,Donald Cerrone,Edson Barboza,Donald Cerrone,2.62,1.71,1,Underdog,Underdog 1,Edson Barboza,Donald Cerrone
+164,UFC on Fox 11 - Werdum vs. Browne,Yoel Romero,Brad Tavares,Yoel Romero,2.36,1.72,1,Underdog,Underdog 1,Brad Tavares,Yoel Romero
+165,UFC on Fox 11 - Werdum vs. Browne,Khabib Nurmagomedov,Rafael dos Anjos,Khabib Nurmagomedov,1.36,3.75,1,Favourite,Favourite 1,Khabib Nurmagomedov,Rafael Dos Anjos
+166,UFC on Fox 11 - Werdum vs. Browne,Thiago Alves,Seth Baczynski,Thiago Alves,1.24,5.23,1,Favourite,Favourite 1,Thiago Alves,Seth Baczynski
+167,UFC on Fox 11 - Werdum vs. Browne,Jorge Masvidal,Pat Healy,Jorge Masvidal,1.38,3.48,1,Favourite,Favourite 1,Jorge Masvidal,Pat Healy
+168,UFC on Fox 11 - Werdum vs. Browne,Alex White,Estevan Payan,Alex White,2.3,1.87,1,Underdog,Underdog 1,Estevan Payan,Alex White
+169,UFC on Fox 11 - Werdum vs. Browne,Caio Magalhaes,Luke Zachrich,Caio Magalhaes,1.35,3.86,1,Favourite,Favourite 1,Caio Magalhaes,Luke Zachrich
+170,UFC on Fox 11 - Werdum vs. Browne,Jordan Mein,Hernani Perpetuo,Jordan Mein,1.24,4.75,1,Favourite,Favourite 1,Jordan Mein,Hernani Perpetuo
+171,UFC on Fox 11 - Werdum vs. Browne,Dustin Ortiz,Ray Borg,Dustin Ortiz,1.67,2.5,1,Favourite,Favourite 1,Dustin Ortiz,Ray Borg
+172,UFC on Fox 11 - Werdum vs. Browne,Mirsad Bektic,Chas Skelly,Mirsad Bektic,1.74,2.3,1,Favourite,Favourite 1,Mirsad Bektic,Chas Skelly
+173,UFC on Fox 11 - Werdum vs. Browne,Derrick Lewis,Jack May,Derrick Lewis,1.34,3.6,1,Favourite,Favourite 1,Derrick Lewis,Jack May
+174,UFC 172 - Jones vs. Teixeira,Jon Jones,Glover Teixeira,Jon Jones,1.24,5.05,1,Favourite,Favourite 1,Jon Jones,Glover Teixeira
+175,UFC 172 - Jones vs. Teixeira,Anthony Johnson,Phil Davis,Anthony Johnson,3.2,1.47,1,Underdog,Underdog 1,Phil Davis,Anthony Johnson
+176,UFC 172 - Jones vs. Teixeira,Luke Rockhold,Tim Boetsch,Luke Rockhold,1.14,9,1,Favourite,Favourite 1,Luke Rockhold,Tim Boetsch
+177,UFC 172 - Jones vs. Teixeira,Jim Miller,Yancy Medeiros,Jim Miller,1.65,2.8,1,Favourite,Favourite 1,Jim Miller,Yancy Medeiros
+178,UFC 172 - Jones vs. Teixeira,Max Holloway,Andre Fili,Max Holloway,2.25,1.77,1,Underdog,Underdog 1,Andre Fili,Max Holloway
+179,UFC 172 - Jones vs. Teixeira,Joseph Benavidez,Tim Elliott,Joseph Benavidez,1.24,5,1,Favourite,Favourite 1,Joseph Benavidez,Tim Elliott
+180,UFC 172 - Jones vs. Teixeira,Takanori Gomi,Isaac Vallie-Flagg,Takanori Gomi,1.67,2.53,1,Favourite,Favourite 1,Takanori Gomi,Isaac Vallie-Flagg
+181,UFC 172 - Jones vs. Teixeira,Bethe Correia,Jessamyn Duke,Bethe Correia,2.25,1.83,1,Underdog,Underdog 1,Jessamyn Duke,Bethe Correia
+182,UFC 172 - Jones vs. Teixeira,Danny Castillo,Charlie Brenneman,Danny Castillo,1.29,4.2,1,Favourite,Favourite 1,Danny Castillo,Charlie Brenneman
+183,UFC 172 - Jones vs. Teixeira,Chris Beal,Patrick Williams,Chris Beal,1.91,2.21,1,Favourite,Favourite 1,Chris Beal,Patrick Williams
+184,UFC Fight Night 40 - Brown vs. Silva,Matt Brown,Erick Silva,Matt Brown,3.1,1.56,1,Underdog,Underdog 1,Erick Silva,Matt Brown
+185,UFC Fight Night 40 - Brown vs. Silva,Costas Philippou,Lorenz Larkin,Costas Philippou,3.25,1.64,1,Underdog,Underdog 1,Lorenz Larkin,Costas Philippou
+186,UFC Fight Night 40 - Brown vs. Silva,Daron Cruickshank,Erik Koch,Daron Cruickshank,4.05,1.34,1,Underdog,Underdog 1,Erik Koch,Daron Cruickshank
+187,UFC Fight Night 40 - Brown vs. Silva,Neil Magny,Tim Means,Neil Magny,1.36,3.85,1,Favourite,Favourite 1,Neil Magny,Tim Means
+188,UFC Fight Night 40 - Brown vs. Silva,Soa Palelei,Ruan Potts,Soa Palelei,1.33,3.95,1,Favourite,Favourite 1,Soa Palelei,Ruan Potts
+189,UFC Fight Night 40 - Brown vs. Silva,Chris Cariaso,Louis Smolka,Chris Cariaso,2.36,1.69,1,Underdog,Underdog 1,Louis Smolka,Chris Cariaso
+190,UFC Fight Night 40 - Brown vs. Silva,Ed Herman,Rafael Natal,Ed Herman,2.75,1.69,1,Underdog,Underdog 1,Rafael Natal,Ed Herman
+191,UFC Fight Night 40 - Brown vs. Silva,Kyoji Horiguchi,Darrell Montague,Kyoji Horiguchi,1.52,2.9,1,Favourite,Favourite 1,Kyoji Horiguchi,Darrell Montague
+192,UFC Fight Night 40 - Brown vs. Silva,Zak Cummings,Yan Cabral,Zak Cummings,5.75,1.19,1,Underdog,Underdog 1,Yan Cabral,Zak Cummings
+193,UFC Fight Night 40 - Brown vs. Silva,Johnny Eduardo,Eddie Wineland,Johnny Eduardo,8.35,1.13,1,Underdog,Underdog 1,Eddie Wineland,Johnny Eduardo
+194,UFC Fight Night 40 - Brown vs. Silva,Nik Lentz,Manny Gamburyan,Nik Lentz,1.21,5.6,1,Favourite,Favourite 1,Nik Lentz,Manvel Gamburyan
+195,UFC Fight Night 40 - Brown vs. Silva,Justin Salas,Ben Wall,Justin Salas,1.36,3.6,1,Favourite,Favourite 1,Justin Salas,Ben Wall
+196,UFC Fight Night 40 - Brown vs. Silva,Albert Tumenov,Anthony Lapsley,Albert Tumenov,1.4,3.45,1,Favourite,Favourite 1,Albert Tumenov,Anthony Lapsley
+197,UFC Fight Night 42 - Henderson vs. Khabilov,Benson Henderson,Rustam Khabilov,Benson Henderson,1.46,3.17,1,Favourite,Favourite 1,Benson Henderson,Rustam Khabilov
+198,UFC Fight Night 42 - Henderson vs. Khabilov,Diego Sanchez,Ross Pearson,Diego Sanchez,2.4,1.77,1,Underdog,Underdog 1,Ross Pearson,Diego Sanchez
+199,UFC Fight Night 42 - Henderson vs. Khabilov,John Dodson,John Moraga,John Dodson,1.2,5.8,1,Favourite,Favourite 1,John Dodson,John Moraga
+200,UFC Fight Night 42 - Henderson vs. Khabilov,Rafael dos Anjos,Jason High,Rafael dos Anjos,1.38,3.55,1,Favourite,Favourite 1,Rafael Dos Anjos,Jason High
+201,UFC Fight Night 42 - Henderson vs. Khabilov,Piotr Hallmann,Yves Edwards,Piotr Hallmann,1.65,2.5,1,Favourite,Favourite 1,Piotr Hallmann,Yves Edwards
+202,UFC Fight Night 42 - Henderson vs. Khabilov,Bryan Caraway,Erik Perez,Bryan Caraway,2.15,1.83,1,Underdog,Underdog 1,Erik Perez,Bryan Caraway
+203,UFC Fight Night 42 - Henderson vs. Khabilov,Sergio Pettis,Yaotzin Meza,Sergio Pettis,1.18,6.4,1,Favourite,Favourite 1,Sergio Pettis,Yaotzin Meza
+204,UFC Fight Night 42 - Henderson vs. Khabilov,Lance Benoist,Bobby Voelker,Lance Benoist,2,1.95,1,Underdog,Underdog 1,Bobby Voelker,Lance Benoist
+205,UFC Fight Night 42 - Henderson vs. Khabilov,Scott Jorgensen,Danny Martinez,Scott Jorgensen,1.42,3.25,1,Favourite,Favourite 1,Scott Jorgensen,Danny Martinez
+206,UFC Fight Night 42 - Henderson vs. Khabilov,Jon Tuck,Jake Lindsey,Jon Tuck,1.67,2.44,1,Favourite,Favourite 1,Jon Tuck,Jake Lindsey
+207,UFC Fight Night 42 - Henderson vs. Khabilov,Patrick Cummins,Roger Narvaez,Patrick Cummins,1.32,3.85,1,Favourite,Favourite 1,Patrick Cummins,Roger Narvaez
+208,UFC 174 - Johnson vs. Bagautinov,Demetrious Johnson,Ali Bagautinov,Demetrious Johnson,1.18,6.6,1,Favourite,Favourite 1,Demetrious Johnson,Ali Bagautinov
+209,UFC 174 - Johnson vs. Bagautinov,Rory MacDonald,Tyron Woodley,Rory MacDonald,1.95,2.05,1,Favourite,Favourite 1,Rory MacDonald,Tyron Woodley
+210,UFC 174 - Johnson vs. Bagautinov,Ryan Bader,Rafael Cavalcante,Ryan Bader,1.63,2.55,1,Favourite,Favourite 1,Ryan Bader,Rafael Feijao
+211,UFC 174 - Johnson vs. Bagautinov,Andrei Arlovski,Brendan Schaub,Andrei Arlovski,2.4,1.71,1,Underdog,Underdog 1,Brendan Schaub,Andrei Arlovski
+212,UFC 174 - Johnson vs. Bagautinov,Ovince St Preux,Ryan Jimmo,Ovince St Preux,1.62,2.6,1,Favourite,Favourite 1,Ovince Saint Preux,Ryan Jimmo
+213,UFC 174 - Johnson vs. Bagautinov,Kiichi Kunimoto,Daniel Sarafian,Kiichi Kunimoto,5.15,1.22,1,Underdog,Underdog 1,Daniel Sarafian,Kiichi Kunimoto
+214,UFC 174 - Johnson vs. Bagautinov,Valerie Letourneau,Elizabeth Phillips,Valerie Letourneau,2.25,1.83,1,Underdog,Underdog 1,Elizabeth Phillips,Valerie Letourneau
+215,UFC 174 - Johnson vs. Bagautinov,Yves Jabouin,Mike Easton,Yves Jabouin,3,1.47,1,Underdog,Underdog 1,Mike Easton,Yves Jabouin
+216,UFC 174 - Johnson vs. Bagautinov,Tae Hyun Bang,Kajan Johnson,Tae Hyun Bang,2.7,1.56,1,Underdog,Underdog 1,Kajan Johnson,Tae Hyun Bang
+217,UFC 174 - Johnson vs. Bagautinov,Michinori Tanaka,Roland Delorme,Michinori Tanaka,1.67,2.4,1,Favourite,Favourite 1,Michinori Tanaka,Roland Delorme
+218,UFC Fight Night 44 - Swanson vs. Stephens,Cub Swanson,Jeremy Stephens,Cub Swanson,1.47,3.07,1,Favourite,Favourite 1,Cub Swanson,Jeremy Stephens
+219,UFC Fight Night 44 - Swanson vs. Stephens,Kelvin Gastelum,Nicholas Musoke,Kelvin Gastelum,1.36,3.9,1,Favourite,Favourite 1,Kelvin Gastelum,Nico Musoke
+220,UFC Fight Night 44 - Swanson vs. Stephens,Cezar Ferreira,Andrew Craig,Cezar Ferreira,1.38,3.9,1,Favourite,Favourite 1,Cezar Ferreira,Andrew Craig
+221,UFC Fight Night 44 - Swanson vs. Stephens,Ricardo Lamas,Hacran Dias,Ricardo Lamas,1.4,3.48,1,Favourite,Favourite 1,Ricardo Lamas,Hacran Dias
+222,UFC Fight Night 44 - Swanson vs. Stephens,Clint Hester,Antonio Braga Neto,Clint Hester,2.45,1.67,1,Underdog,Underdog 1,Antonio Braga Neto,Clint Hester
+223,UFC Fight Night 44 - Swanson vs. Stephens,Carlos Diego Ferreira,Colton Smith,Carlos Diego Ferreira,1.54,2.75,1,Favourite,Favourite 1,Diego Ferreira,Colton Smith
+224,UFC Fight Night 44 - Swanson vs. Stephens,Cody Gibson,Johnny Bedford,Cody Gibson,2.77,1.59,1,Underdog,Underdog 1,Johnny Bedford,Cody Gibson
+225,UFC Fight Night 44 - Swanson vs. Stephens,Marcelo Guimaraes,Andy Enz,Marcelo Guimaraes,2.95,1.53,1,Underdog,Underdog 1,Andy Enz,Marcelo Guimaraes
+226,UFC Fight Night 44 - Swanson vs. Stephens,Ray Borg,Shane Howell,Ray Borg,1.24,5.1,1,Favourite,Favourite 1,Ray Borg,Shane Howell
+227,UFC Fight Night 44 - Swanson vs. Stephens,Alexey Oleinik,Anthony Hamilton,Alexey Oleinik,1.73,2.3,1,Favourite,Favourite 1,Aleksei Oleinik,Anthony Hamilton
+228,UFC Fight Night 46 - McGregor vs. Brandao,Conor McGregor,Diego Brandao,Conor McGregor,1.18,6.6,1,Favourite,Favourite 1,Conor McGregor,Diego Brandao
+229,UFC Fight Night 46 - McGregor vs. Brandao,Gunnar Nelson,Zak Cummings,Gunnar Nelson,1.16,7.6,1,Favourite,Favourite 1,Gunnar Nelson,Zak Cummings
+230,UFC Fight Night 46 - McGregor vs. Brandao,Ian McCall,Brad Pickett,Ian McCall,1.67,2.5,1,Favourite,Favourite 1,Ian McCall,Brad Pickett
+231,UFC Fight Night 46 - McGregor vs. Brandao,Norman Parke,Naoyuki Kotani,Norman Parke,1.25,5.15,1,Favourite,Favourite 1,Norman Parke,Naoyuki Kotani
+232,UFC Fight Night 46 - McGregor vs. Brandao,Ilir Latifi,Chris Dempsey,Ilir Latifi,1.38,3.65,1,Favourite,Favourite 1,Ilir Latifi,Chris Dempsey
+233,UFC Fight Night 46 - McGregor vs. Brandao,Neil Seery,Phil Harris,Neil Seery,1.65,2.45,1,Favourite,Favourite 1,Neil Seery,Phil Harris
+234,UFC Fight Night 46 - McGregor vs. Brandao,Cathal Pendred,Mike King,Cathal Pendred,1.77,2.3,1,Favourite,Favourite 1,Cathal Pendred,Mike King
+235,UFC Fight Night 46 - McGregor vs. Brandao,Trevor Smith,Tor Troeng,Trevor Smith,2.45,1.65,1,Underdog,Underdog 1,Tor Troeng,Trevor Smith
+236,UFC Fight Night 46 - McGregor vs. Brandao,Nikita Krylov,Cody Donovan,Nikita Krylov,1.87,2.2,1,Favourite,Favourite 1,Nikita Krylov,Cody Donovan
+237,UFC Fight Night 46 - McGregor vs. Brandao,Patrick Holohan,Josh Sampo,Patrick Holohan,3.25,1.44,1,Underdog,Underdog 1,Joshua Sampo,Paddy Holohan
+238,UFC on Fox 12 - Lawler vs. Brown,Robbie Lawler,Matt Brown,Robbie Lawler,1.35,5,1,Favourite,Favourite 1,Robbie Lawler,Matt Brown
+239,UFC on Fox 12 - Lawler vs. Brown,Anthony Johnson,Rogerio Nogueira,Anthony Johnson,1.17,6.4,1,Favourite,Favourite 1,Anthony Johnson,Rogerio Nogueira
+240,UFC on Fox 12 - Lawler vs. Brown,Dennis Bermudez,Clay Guida,Dennis Bermudez,1.62,2.85,1,Favourite,Favourite 1,Dennis Bermudez,Clay Guida
+241,UFC on Fox 12 - Lawler vs. Brown,Bobby Green,Josh Thomson,Bobby Green,4.45,1.31,1,Underdog,Underdog 1,Josh Thomson,Bobby Green
+242,UFC on Fox 12 - Lawler vs. Brown,Jorge Masvidal,Daron Cruickshank,Jorge Masvidal,1.47,3.15,1,Favourite,Favourite 1,Jorge Masvidal,Daron Cruickshank
+243,UFC on Fox 12 - Lawler vs. Brown,Patrick Cummins,Kyle Kingsbury,Patrick Cummins,1.5,3.05,1,Favourite,Favourite 1,Patrick Cummins,Kyle Kingsbury
+244,UFC on Fox 12 - Lawler vs. Brown,Tim Means,Hernani Perpetuo,Tim Means,1.56,3,1,Favourite,Favourite 1,Tim Means,Hernani Perpetuo
+245,UFC on Fox 12 - Lawler vs. Brown,Brian Ortega,Mike de la Torre,Brian Ortega,1.59,2.81,1,Favourite,Favourite 1,Brian Ortega,Mike de la Torre
+246,UFC on Fox 12 - Lawler vs. Brown,Gilbert Burns,Andreas Stahl,Gilbert Burns,1.69,2.47,1,Favourite,Favourite 1,Gilbert Burns,Andreas Stahl
+247,UFC on Fox 12 - Lawler vs. Brown,Joanna Jedrzejczyk,Juliana Lima,Joanna Jedrzejczyk,1.32,3.85,1,Favourite,Favourite 1,Joanna Jedrzejczyk,Juliana Lima
+248,UFC on Fox 12 - Lawler vs. Brown,Noad Lahat,Steven Siler,Noad Lahat,3.07,1.48,1,Underdog,Underdog 1,Steven Siler,Noad Lahat
+249,UFC Fight Night 48 - Bisping vs. Le,Michael Bisping,Cung Le,Michael Bisping,1.43,3.55,1,Favourite,Favourite 1,Michael Bisping,Cung Le
+250,UFC Fight Night 48 - Bisping vs. Le,Tyron Woodley,Dong Hyun Kim,Tyron Woodley,1.55,2.9,1,Favourite,Favourite 1,Tyron Woodley,Dong Hyun Kim
+251,UFC Fight Night 48 - Bisping vs. Le,Lipeng Zhang,"Brendan O'Reilly",Lipeng Zhang,2.4,1.79,1,Underdog,Underdog 1,"Brendan O'Reilly",Zhang Lipeng
+252,UFC Fight Night 48 - Bisping vs. Le,Alberto Mina,Shinsho Anzai,Alberto Mina,1.45,3.31,1,Favourite,Favourite 1,Alberto Mina,Shinsho Anzai
+253,UFC Fight Night 48 - Bisping vs. Le,Yuta Sasaki,Roland Delorme,Yuta Sasaki,1.71,2.35,1,Favourite,Favourite 1,Ulka Sasaki,Roland Delorme
+254,UFC Fight Night 48 - Bisping vs. Le,Colby Covington,Anying Wang,Colby Covington,1.24,5.2,1,Favourite,Favourite 1,Colby Covington,An Ying Wang
+255,UFC Fight Night 48 - Bisping vs. Le,Royston Wee,Zhikui Yao,Royston Wee,1.45,3.4,1,Favourite,Favourite 1,Royston Wee,Yao Zhikui
+256,UFC Fight Night 48 - Bisping vs. Le,Milana Dudieva,Elizabeth Phillips,Milana Dudieva,1.71,2.33,1,Favourite,Favourite 1,Milana Dudieva,Elizabeth Phillips
+257,UFC 177 - Dillashaw vs. Soto,T.J. Dillashaw,Joe Soto,T.J. Dillashaw,1.1,10,1,Favourite,Favourite 1,TJ Dillashaw,Joe Soto
+258,UFC 177 - Dillashaw vs. Soto,Tony Ferguson,Danny Castillo,Tony Ferguson,1.42,3.45,1,Favourite,Favourite 1,Tony Ferguson,Danny Castillo
+259,UFC 177 - Dillashaw vs. Soto,Bethe Correia,Shayna Baszler,Bethe Correia,1.7,2.4,1,Favourite,Favourite 1,Bethe Correia,Shayna Baszler
+260,UFC 177 - Dillashaw vs. Soto,Carlos Diego Ferreira,Ramsey Nijem,Carlos Diego Ferreira,1.56,2.7,1,Favourite,Favourite 1,Diego Ferreira,Ramsey Nijem
+261,UFC 177 - Dillashaw vs. Soto,Yancy Medeiros,Damon Jackson,Yancy Medeiros,1.95,2.05,1,Favourite,Favourite 1,Yancy Medeiros,Damon Jackson
+262,UFC 177 - Dillashaw vs. Soto,Derek Brunson,Lorenz Larkin,Derek Brunson,1.61,2.65,1,Favourite,Favourite 1,Derek Brunson,Lorenz Larkin
+263,UFC 177 - Dillashaw vs. Soto,Anthony Hamilton,Ruan Potts,Anthony Hamilton,1.45,3.05,1,Favourite,Favourite 1,Anthony Hamilton,Ruan Potts
+264,UFC 177 - Dillashaw vs. Soto,Chris Wade,Cain Carrizosa,Chris Wade,1.71,2.38,1,Favourite,Favourite 1,Chris Wade,Cain Carrizosa
+265,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Andrei Arlovski,Antonio Silva,Andrei Arlovski,4.8,1.24,1,Underdog,Underdog 1,Antonio Silva,Andrei Arlovski
+266,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Gleison Tibau,Piotr Hallmann,Gleison Tibau,1.43,3.5,1,Favourite,Favourite 1,Gleison Tibau,Piotr Hallmann
+267,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Leonardo Santos,Efrain Escudero,Leonardo Santos,1.48,3.25,1,Favourite,Favourite 1,Leonardo Santos,Efrain Escudero
+268,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Santiago Ponzinibbio,Wendell Oliveira,Santiago Ponzinibbio,1.95,2,1,Favourite,Favourite 1,Santiago Ponzinibbio,Wendell Oliveira
+269,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Iuri Alcantara,Russell Doane,Iuri Alcantara,1.32,3.85,1,Favourite,Favourite 1,Iuri Alcantara,Russell Doane
+270,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Jessica Andrade,Larissa Pacheco,Jessica Andrade,1.91,2.05,1,Favourite,Favourite 1,Jessica Andrade,Larissa Pacheco
+271,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Godofredo Castro,Dashon Johnson,Godofredo Castro,1.77,2.25,1,Favourite,Favourite 1,Godofredo Pepey,Dashon Johnson
+272,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,George Sullivan,Igor Araujo,George Sullivan,2.35,1.77,1,Underdog,Underdog 1,Igor Araujo,George Sullivan
+273,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Francisco Trinaldo,Leandro Silva,Francisco Trinaldo,1.57,2.71,1,Favourite,Favourite 1,Francisco Trinaldo,Leandro Silva
+274,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Sean Spencer,Paulo Thiago,Sean Spencer,1.5,3.15,1,Favourite,Favourite 1,Sean Spencer,Paulo Thiago
+275,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,Rani Yahya,Johnny Bedford,Rani Yahya,2.25,1.8,1,Underdog,Underdog 1,Johnny Bedford,Rani Yahya
+276,UFC Fight Night - Rockhold vs. Bisping,Michael Bisping,Luke Rockhold,Luke Rockhold,4.76,1.23,2,Favourite,Favourite 2,Luke Rockhold,Michael Bisping
+277,UFC Fight Night - Rockhold vs. Bisping,Ross Pearson,Al Iaquinta,Al Iaquinta,1.67,2.5,2,Underdog,Underdog 2,Ross Pearson,Al Iaquinta
+278,UFC Fight Night - Rockhold vs. Bisping,Soa Palelei,Walt Harris,Soa Palelei,1.67,2.44,1,Favourite,Favourite 1,Soa Palelei,Walt Harris
+279,UFC Fight Night - Rockhold vs. Bisping,Jake Matthews,Vagner Rocha,Jake Matthews,1.28,4.35,1,Favourite,Favourite 1,Jake Matthews,Vagner Rocha
+281,UFC Fight Night - Rockhold vs. Bisping,Dylan Andrews,Sam Alvey,Sam Alvey,1.61,2.5,2,Underdog,Underdog 2,Dylan Andrews,Sam Alvey
+282,UFC Fight Night - Rockhold vs. Bisping,Richie Vaculik,Louis Smolka,Louis Smolka,4,1.32,2,Favourite,Favourite 2,Louis Smolka,Richie Vaculik
+283,UFC Fight Night - Rockhold vs. Bisping,Vik Grujic,Chris Clements,Chris Clements,1.75,2.27,2,Underdog,Underdog 2,Vik Grujic,Chris Clements
+284,UFC Fight Night - Rockhold vs. Bisping,Daniel Kelly,Luke Zachrich,Daniel Kelly,3.57,1.35,1,Underdog,Underdog 1,Luke Zachrich,Daniel Kelly
+285,UFC Fight Night - Rockhold vs. Bisping,Jumabieke Tuerxun,Marcus Brimage,Marcus Brimage,5.56,1.2,2,Favourite,Favourite 2,Marcus Brimage,Jumabieke Tuerxun
+286,UFC Fight Night - Shogun vs. St. Preux,Mauricio Rua,Ovince St Preux,Ovince St Preux,1.54,2.7,2,Underdog,Underdog 2,Mauricio Rua,Ovince Saint Preux
+287,UFC Fight Night - Shogun vs. St. Preux,Warlley Alves,Alan Jouban,Warlley Alves,1.45,3.03,1,Favourite,Favourite 1,Warlley Alves,Alan Jouban
+288,UFC Fight Night - Shogun vs. St. Preux,Claudio Silva,Leon Edwards,Claudio Silva,2.63,1.54,1,Underdog,Underdog 1,Leon Edwards,Claudio Silva
+289,UFC Fight Night - Shogun vs. St. Preux,Dhiego Lima,Jorge Antonio Cezario de Oliveira,Dhiego Lima,1.32,3.7,1,Favourite,Favourite 1,Dhiego Lima,Jorge de Oliveira
+290,UFC Fight Night - Shogun vs. St. Preux,Juliana Lima,Nina Ansaroff,Juliana Lima,2.38,1.69,1,Underdog,Underdog 1,Nina Ansaroff,Juliana Lima
+291,UFC Fight Night - Shogun vs. St. Preux,Caio Magalhaes,Trevor Smith,Caio Magalhaes,1.47,2.94,1,Favourite,Favourite 1,Caio Magalhaes,Trevor Smith
+292,UFC Fight Night - Shogun vs. St. Preux,Leandro Silva,Charlie Brenneman,Leandro Silva,1.64,2.5,1,Favourite,Favourite 1,Leandro Silva,Charlie Brenneman
+293,UFC Fight Night - Shogun vs. St. Preux,Colby Covington,Wagner Silva Gomes,Colby Covington,1.23,4.76,1,Favourite,Favourite 1,Colby Covington,Wagner Silva
+294,UFC 180 - Werdum vs. Hunt,Fabricio Werdum,Mark Hunt,Fabricio Werdum,1.27,4.55,1,Favourite,Favourite 1,Fabricio Werdum,Mark Hunt
+295,UFC 180 - Werdum vs. Hunt,Jake Ellenberger,Kelvin Gastelum,Kelvin Gastelum,2.94,1.47,2,Favourite,Favourite 2,Kelvin Gastelum,Jake Ellenberger
+296,UFC 180 - Werdum vs. Hunt,Ricardo Lamas,Dennis Bermudez,Ricardo Lamas,2.7,1.59,1,Underdog,Underdog 1,Dennis Bermudez,Ricardo Lamas
+297,UFC 180 - Werdum vs. Hunt,Augusto Montano,Chris Heatherly,Augusto Montano,1.47,2.94,1,Favourite,Favourite 1,Augusto Montano,Chris Heatherly
+298,UFC 180 - Werdum vs. Hunt,Edgar Garcia,Hector Urbina,Hector Urbina,1.54,2.78,2,Underdog,Underdog 2,Edgar Garcia,Hector Urbina
+299,UFC 180 - Werdum vs. Hunt,Alejandro Perez,Jose Quinonez,Alejandro Perez,3.03,1.47,1,Underdog,Underdog 1,Jose Quinonez,Alejandro Perez
+300,UFC 180 - Werdum vs. Hunt,Leslie Smith,Jessica Eye,Jessica Eye,3.13,1.43,2,Favourite,Favourite 2,Jessica Eye,Leslie Smith
+301,UFC 180 - Werdum vs. Hunt,Marco Beltran,Marlon Vera,Marco Beltran,3.33,1.39,1,Underdog,Underdog 1,Marlon Vera,Marco Beltran
+302,UFC Fight Night - Edgar vs. Swanson,Cub Swanson,Frankie Edgar,Frankie Edgar,3.03,1.47,2,Favourite,Favourite 2,Frankie Edgar,Cub Swanson
+303,UFC Fight Night - Edgar vs. Swanson,Bobby Green,Edson Barboza,Edson Barboza,2.04,1.96,2,Favourite,Favourite 2,Edson Barboza,Bobby Green
+304,UFC Fight Night - Edgar vs. Swanson,Brad Pickett,Chico Camus,Chico Camus,1.52,3.03,2,Underdog,Underdog 2,Brad Pickett,Chico Camus
+305,UFC Fight Night - Edgar vs. Swanson,Jared Rosholt,Alexey Oleinik,Alexey Oleinik,1.47,3.03,2,Underdog,Underdog 2,Jared Rosholt,Aleksei Oleinik
+306,UFC Fight Night - Edgar vs. Swanson,Joseph Benavidez,Dustin Ortiz,Joseph Benavidez,1.27,4.35,1,Favourite,Favourite 1,Joseph Benavidez,Dustin Ortiz
+307,UFC Fight Night - Edgar vs. Swanson,Isaac Vallie-Flagg,Matt Wiman,Matt Wiman,2.78,1.54,2,Favourite,Favourite 2,Matt Wiman,Isaac Vallie-Flagg
+308,UFC Fight Night - Edgar vs. Swanson,Ruslan Magomedov,Josh Copeland,Ruslan Magomedov,1.49,2.94,1,Favourite,Favourite 1,Ruslan Magomedov,Josh Copeland
+309,UFC Fight Night - Edgar vs. Swanson,Luke Barnatt,Roger Narvaez,Roger Narvaez,1.33,3.57,2,Underdog,Underdog 2,Luke Barnatt,Roger Narvaez
+310,UFC Fight Night - Edgar vs. Swanson,James Vick,Nick Hein,James Vick,1.49,2.78,1,Favourite,Favourite 1,James Vick,Nick Hein
+311,UFC Fight Night - Edgar vs. Swanson,Yves Edwards,Akbarh Arreola,Akbarh Arreola,1.54,2.78,2,Underdog,Underdog 2,Yves Edwards,Akbarh Arreola
+312,UFC Fight Night - Edgar vs. Swanson,Kailin Curran,Paige VanZant,Paige VanZant,2.38,1.69,2,Favourite,Favourite 2,Paige VanZant,Kailin Curran
+313,UFC Fight Night - Edgar vs. Swanson,Doo Ho Choi,Juan Manuel Puig,Doo Ho Choi,1.3,3.85,1,Favourite,Favourite 1,Dooho Choi,Juan Puig
+314,UFC 181 - Hendricks vs. Lawler 2,Robbie Lawler,Johny Hendricks,Robbie Lawler,2.94,1.49,1,Underdog,Underdog 1,Johny Hendricks,Robbie Lawler
+315,UFC 181 - Hendricks vs. Lawler 2,Anthony Pettis,Gilbert Melendez,Anthony Pettis,1.41,3.13,1,Favourite,Favourite 1,Anthony Pettis,Gilbert Melendez
+316,UFC 181 - Hendricks vs. Lawler 2,Travis Browne,Brendan Schaub,Travis Browne,1.32,3.85,1,Favourite,Favourite 1,Travis Browne,Brendan Schaub
+317,UFC 181 - Hendricks vs. Lawler 2,Todd Duffee,Anthony Hamilton,Todd Duffee,1.33,3.7,1,Favourite,Favourite 1,Todd Duffee,Anthony Hamilton
+318,UFC 181 - Hendricks vs. Lawler 2,Tony Ferguson,Abel Trujillo,Tony Ferguson,1.43,3.13,1,Favourite,Favourite 1,Tony Ferguson,Abel Trujillo
+319,UFC 181 - Hendricks vs. Lawler 2,Urijah Faber,Francisco Rivera,Urijah Faber,1.23,5,1,Favourite,Favourite 1,Urijah Faber,Francisco Rivera
+320,UFC 181 - Hendricks vs. Lawler 2,Eddie Gordon,Josh Samman,Josh Samman,1.64,2.44,2,Underdog,Underdog 2,Eddie Gordon,Josh Samman
+321,UFC 181 - Hendricks vs. Lawler 2,Ashlee Evans-Smith,Raquel Pennington,Raquel Pennington,1.54,2.7,2,Underdog,Underdog 2,Ashlee Evans-Smith,Raquel Pennington
+322,UFC 181 - Hendricks vs. Lawler 2,Sergio Pettis,Matt Hobar,Sergio Pettis,1.33,3.7,1,Favourite,Favourite 1,Sergio Pettis,Matt Hobar
+323,UFC 181 - Hendricks vs. Lawler 2,Clay Collard,Alex White,Clay Collard,2.22,1.75,1,Underdog,Underdog 1,Alex White,Clay Collard
+324,UFC - The Ultimate Fighter 20 Finale,Carla Esparza,Rose Namajunas,Carla Esparza,2.63,1.56,1,Underdog,Underdog 1,Rose Namajunas,Carla Esparza
+325,UFC - The Ultimate Fighter 20 Finale,Jeremy Stephens,Charles Oliveira,Charles Oliveira,1.89,2.33,2,Underdog,Underdog 2,Jeremy Stephens,Charles Oliveira
+326,UFC - The Ultimate Fighter 20 Finale,Yancy Medeiros,Joe Proctor,Yancy Medeiros,1.43,3.23,1,Favourite,Favourite 1,Yancy Medeiros,Joe Proctor
+327,UFC - The Ultimate Fighter 20 Finale,Jessica Penne,Randa Markos,Jessica Penne,2,1.92,1,Underdog,Underdog 1,Randa Markos,Jessica Penne
+328,UFC - The Ultimate Fighter 20 Finale,Felice Herrig,Lisa Ellis,Felice Herrig,1.28,4.17,1,Favourite,Favourite 1,Felice Herrig,Lisa Ellis
+329,UFC - The Ultimate Fighter 20 Finale,Bec Rawlings,Heather Clark,Heather Clark,1.56,2.63,2,Underdog,Underdog 2,Bec Rawlings,Heather Jo Clark
+330,UFC - The Ultimate Fighter 20 Finale,Joanne Calderwood,Seo Hee Ham,Joanne Calderwood,1.2,5.88,1,Favourite,Favourite 1,Joanne Calderwood,Seohee Ham
+331,UFC - The Ultimate Fighter 20 Finale,Tecia Torres,Angela Magana,Tecia Torres,1.18,5.88,1,Favourite,Favourite 1,Tecia Torres,Angela Magana
+332,UFC - The Ultimate Fighter 20 Finale,Aisling Daly,Alex Chambers,Aisling Daly,1.49,2.94,1,Favourite,Favourite 1,Aisling Daly,Alex Chambers
+333,UFC - The Ultimate Fighter 20 Finale,Emily Kagan,Angela Hill,Angela Hill,2.5,1.64,2,Favourite,Favourite 2,Angela Hill,Emily Peters Kagan
+334,UFC on Fox 13 - Dos Santos vs. Miocic,Junior dos Santos,Stipe Miocic,Junior dos Santos,1.28,4.55,1,Favourite,Favourite 1,Junior Dos Santos,Stipe Miocic
+335,UFC on Fox 13 - Dos Santos vs. Miocic,Nate Diaz,Rafael dos Anjos,Rafael dos Anjos,3.57,1.41,2,Favourite,Favourite 2,Rafael Dos Anjos,Nate Diaz
+336,UFC on Fox 13 - Dos Santos vs. Miocic,Alistair Overeem,Stefan Struve,Alistair Overeem,1.47,3.23,1,Favourite,Favourite 1,Alistair Overeem,Stefan Struve
+337,UFC on Fox 13 - Dos Santos vs. Miocic,Matt Mitrione,Gabriel Gonzaga,Matt Mitrione,1.79,2.22,1,Favourite,Favourite 1,Matt Mitrione,Gabriel Gonzaga
+338,UFC on Fox 13 - Dos Santos vs. Miocic,Claudia Gadelha,Joanna Jedrzejczyk,Joanna Jedrzejczyk,1.43,3.23,2,Underdog,Underdog 2,Claudia Gadelha,Joanna Jedrzejczyk
+339,UFC on Fox 13 - Dos Santos vs. Miocic,Willie Gates,John Moraga,John Moraga,5.56,1.23,2,Favourite,Favourite 2,John Moraga,Willie Gates
+340,UFC on Fox 13 - Dos Santos vs. Miocic,Ben Saunders,Joe Riggs,Ben Saunders,1.43,3.23,1,Favourite,Favourite 1,Ben Saunders,Joe Riggs
+341,UFC on Fox 13 - Dos Santos vs. Miocic,Jamie Varner,Drew Dober,Drew Dober,1.28,4.35,2,Underdog,Underdog 2,Jamie Varner,Drew Dober
+342,UFC on Fox 13 - Dos Santos vs. Miocic,David Michaud,Garett Whiteley,David Michaud,1.47,2.94,1,Favourite,Favourite 1,David Michaud,Garett Whiteley
+343,UFC on Fox 13 - Dos Santos vs. Miocic,Henry Cejudo,Dustin Kimura,Henry Cejudo,1.45,3.23,1,Favourite,Favourite 1,Henry Cejudo,Dustin Kimura
+344,UFC on Fox 13 - Dos Santos vs. Miocic,Ian Entwistle,Anthony Birchak,Ian Entwistle,3.03,1.47,1,Underdog,Underdog 1,Anthony Birchak,Ian Entwistle
+345,UFC Fight Night - Machida vs. Dollaway,Lyoto Machida,C.B. Dollaway,Lyoto Machida,1.18,5.88,1,Favourite,Favourite 1,Lyoto Machida,CB Dollaway
+346,UFC Fight Night - Machida vs. Dollaway,Renan Barao,Mitch Gagnon,Renan Barao,1.14,7.14,1,Favourite,Favourite 1,Renan Barao,Mitch Gagnon
+347,UFC Fight Night - Machida vs. Dollaway,Patrick Cummins,Antonio Carlos Jr.,Patrick Cummins,1.64,2.56,1,Favourite,Favourite 1,Patrick Cummins,Antonio Carlos Junior
+348,UFC Fight Night - Machida vs. Dollaway,Rashid Magomedov,Elias Silverio,Rashid Magomedov,1.64,2.44,1,Favourite,Favourite 1,Rashid Magomedov,Elias Silverio
+349,UFC Fight Night - Machida vs. Dollaway,Erick Silva,Mike Rhodes,Erick Silva,1.28,4.35,1,Favourite,Favourite 1,Erick Silva,Mike Rhodes
+350,UFC Fight Night - Machida vs. Dollaway,Marcos Rogerio de Lima,Igor Pokrajac,Marcos Rogerio de Lima,1.33,4,1,Favourite,Favourite 1,Marcos Rogerio de Lima,Igor Pokrajac
+351,UFC Fight Night - Machida vs. Dollaway,Tom Niinimaki,Renato Carneiro,Renato Carneiro,1.92,2.04,2,Underdog,Underdog 2,Tom Niinimaki,Roan Carneiro
+352,UFC Fight Night - Machida vs. Dollaway,Hacran Dias,Darren Elkins,Hacran Dias,1.54,2.78,1,Favourite,Favourite 1,Hacran Dias,Darren Elkins
+353,UFC Fight Night - Machida vs. Dollaway,Leandro Issa,Yuta Sasaki,Leandro Issa,5,1.22,1,Underdog,Underdog 1,Ulka Sasaki,Leandro Issa
+354,UFC Fight Night - Machida vs. Dollaway,Tim Means,Marcio Alexandre Jr.,Tim Means,1.47,3.03,1,Favourite,Favourite 1,Tim Means,Marcio Alexandre Junior
+355,UFC Fight Night - Machida vs. Dollaway,Jake Collier,Vitor Miranda,Vitor Miranda,1.59,2.56,2,Underdog,Underdog 2,Jake Collier,Vitor Miranda
+356,UFC 182 - Jones vs. Cormier,Jon Jones,Daniel Cormier,Jon Jones,1.64,2.5,1,Favourite,Favourite 1,Jon Jones,Daniel Cormier
+357,UFC 182 - Jones vs. Cormier,Donald Cerrone,Myles Jury,Donald Cerrone,1.54,2.7,1,Favourite,Favourite 1,Donald Cerrone,Myles Jury
+358,UFC 182 - Jones vs. Cormier,Nate Marquardt,Brad Tavares,Brad Tavares,1.79,2.22,2,Underdog,Underdog 2,Nate Marquardt,Brad Tavares
+359,UFC 182 - Jones vs. Cormier,Kyoji Horiguchi,Louis Gaudinot,Kyoji Horiguchi,1.16,6.67,1,Favourite,Favourite 1,Kyoji Horiguchi,Louis Gaudinot
+360,UFC 182 - Jones vs. Cormier,Hector Lombard,Josh Burkman,Hector Lombard,1.15,7.14,1,Favourite,Favourite 1,Hector Lombard,Joshua Burkman
+361,UFC 182 - Jones vs. Cormier,Danny Castillo,Paul Felder,Paul Felder,1.47,2.94,2,Underdog,Underdog 2,Danny Castillo,Paul Felder
+362,UFC 182 - Jones vs. Cormier,Marcus Brimage,Cody Garbrandt,Cody Garbrandt,1.56,2.7,2,Underdog,Underdog 2,Marcus Brimage,Cody Garbrandt
+363,UFC 182 - Jones vs. Cormier,Shawn Jordan,Jared Cannonier,Shawn Jordan,1.47,3.03,1,Favourite,Favourite 1,Shawn Jordan,Jared Cannonier
+364,UFC 182 - Jones vs. Cormier,Evan Dunham,Rodrigo Damm,Evan Dunham,1.22,5.56,1,Favourite,Favourite 1,Evan Dunham,Rodrigo Damm
+365,UFC 182 - Jones vs. Cormier,Omari Akhmedov,Mats Nilsson,Omari Akhmedov,1.64,2.5,1,Favourite,Favourite 1,Omari Akhmedov,Mats Nilsson
+366,UFC 182 - Jones vs. Cormier,Alexis Dufresne,Marion Reneau,Marion Reneau,1.56,2.7,2,Underdog,Underdog 2,Alexis Dufresne,Marion Reneau
+367,UFC Fight Night - McGregor vs. Siver,Conor McGregor,Dennis Siver,Conor McGregor,1.11,10,1,Favourite,Favourite 1,Conor McGregor,Dennis Siver
+368,UFC Fight Night - McGregor vs. Siver,Donald Cerrone,Benson Henderson,Donald Cerrone,2.22,1.79,1,Underdog,Underdog 1,Benson Henderson,Donald Cerrone
+369,UFC Fight Night - McGregor vs. Siver,Uriah Hall,Ron Stallings,Uriah Hall,1.14,8.33,1,Favourite,Favourite 1,Uriah Hall,Ron Stallings
+370,UFC Fight Night - McGregor vs. Siver,Norman Parke,Gleison Tibau,Gleison Tibau,2.27,1.72,2,Favourite,Favourite 2,Gleison Tibau,Norman Parke
+371,UFC Fight Night - McGregor vs. Siver,Cathal Pendred,Sean Spencer,Cathal Pendred,2.38,1.67,1,Underdog,Underdog 1,Sean Spencer,Cathal Pendred
+372,UFC Fight Night - McGregor vs. Siver,John Howard,Lorenz Larkin,Lorenz Larkin,2.38,1.67,2,Favourite,Favourite 2,Lorenz Larkin,John Howard
+373,UFC Fight Night - McGregor vs. Siver,Lipeng Zhang,Chris Wade,Chris Wade,5.56,1.22,2,Favourite,Favourite 2,Chris Wade,Zhang Lipeng
+374,UFC Fight Night - McGregor vs. Siver,Patrick Holohan,Shane Howell,Patrick Holohan,1.39,3.57,1,Favourite,Favourite 1,Paddy Holohan,Shane Howell
+375,UFC Fight Night - McGregor vs. Siver,Johnny Case,Frankie Perez,Johnny Case,0,0,1,Underdog,Underdog 1,Frankie Perez,Johnny Case
+376,UFC Fight Night - McGregor vs. Siver,Charles Rosa,Sean Soriano,Charles Rosa,1.75,2.22,1,Favourite,Favourite 1,Charles Rosa,Sean Soriano
+377,UFC Fight Night - McGregor vs. Siver,"Sean O'Connell",Matt Van Buren,"Sean O'Connell",1.56,2.78,1,Favourite,Favourite 1,"Sean O'Connell",Matt Van Buren
+378,UFC on Fox 14 - Gustafsson vs. Johnson,Alexander Gustafsson,Anthony Johnson,Anthony Johnson,1.35,3.7,2,Underdog,Underdog 2,Alexander Gustafsson,Anthony Johnson
+379,UFC on Fox 14 - Gustafsson vs. Johnson,Gegard Mousasi,Dan Henderson,Gegard Mousasi,1.2,5.56,1,Favourite,Favourite 1,Gegard Mousasi,Dan Henderson
+380,UFC on Fox 14 - Gustafsson vs. Johnson,Phil Davis,Ryan Bader,Ryan Bader,1.49,3.03,2,Underdog,Underdog 2,Phil Davis,Ryan Bader
+381,UFC on Fox 14 - Gustafsson vs. Johnson,Akira Corassani,Sam Sicilia,Sam Sicilia,1.89,2.08,2,Underdog,Underdog 2,Akira Corassani,Sam Sicilia
+382,UFC on Fox 14 - Gustafsson vs. Johnson,Nicholas Musoke,Albert Tumenov,Albert Tumenov,2.33,1.75,2,Favourite,Favourite 2,Albert Tumenov,Nico Musoke
+383,UFC on Fox 14 - Gustafsson vs. Johnson,Kenny Robertson,Sultan Aliev,Kenny Robertson,2.63,1.61,1,Underdog,Underdog 1,Sultan Aliev,Kenny Robertson
+384,UFC on Fox 14 - Gustafsson vs. Johnson,Makwan Amirkhani,Andy Ogle,Makwan Amirkhani,2.44,1.69,1,Underdog,Underdog 1,Andy Ogle,Makwan Amirkhani
+385,UFC on Fox 14 - Gustafsson vs. Johnson,Nikita Krylov,Stanislav Nedkov,Nikita Krylov,1.82,2.13,1,Favourite,Favourite 1,Nikita Krylov,Stanislav Nedkov
+386,UFC on Fox 14 - Gustafsson vs. Johnson,Mirsad Bektic,Paul Redmond,Mirsad Bektic,1.15,6.67,1,Favourite,Favourite 1,Mirsad Bektic,Paul Redmond
+387,UFC on Fox 14 - Gustafsson vs. Johnson,Chris Beal,Neil Seery,Neil Seery,1.54,2.78,2,Underdog,Underdog 2,Chris Beal,Neil Seery
+388,UFC 183 - Silva vs. Diaz,Anderson Silva,Nick Diaz,Anderson Silva,1.2,5.26,1,Favourite,Favourite 1,Anderson Silva,Nick Diaz
+389,UFC 183 - Silva vs. Diaz,Tyron Woodley,Kelvin Gastelum,Tyron Woodley,2.33,2,1,Underdog,Underdog 1,Kelvin Gastelum,Tyron Woodley
+390,UFC 183 - Silva vs. Diaz,Joe Lauzon,Al Iaquinta,Al Iaquinta,2.78,1.56,2,Favourite,Favourite 2,Al Iaquinta,Joe Lauzon
+391,UFC 183 - Silva vs. Diaz,Tim Boetsch,Thales Leites,Thales Leites,5,1.23,2,Favourite,Favourite 2,Thales Leites,Tim Boetsch
+392,UFC 183 - Silva vs. Diaz,Jordan Mein,Thiago Alves,Thiago Alves,1.75,2.27,2,Underdog,Underdog 2,Jordan Mein,Thiago Alves
+393,UFC 183 - Silva vs. Diaz,Miesha Tate,Sara McMann,Miesha Tate,2.7,1.64,1,Underdog,Underdog 1,Sara McMann,Miesha Tate
+394,UFC 183 - Silva vs. Diaz,Derek Brunson,Ed Herman,Derek Brunson,1.18,5.88,1,Favourite,Favourite 1,Derek Brunson,Ed Herman
+395,UFC 183 - Silva vs. Diaz,Ian McCall,John Lineker,John Lineker,1.43,3.13,2,Underdog,Underdog 2,Ian McCall,John Lineker
+396,UFC 183 - Silva vs. Diaz,Tom Watson,Rafael Natal,Rafael Natal,2.44,1.72,2,Favourite,Favourite 2,Rafael Natal,Tom Watson
+397,UFC 183 - Silva vs. Diaz,Ildemar Alcantara,Richardson Moreira,Ildemar Alcantara,1.61,2.56,1,Favourite,Favourite 1,Ildemar Alcantara,Richardson Moreira
+398,UFC 183 - Silva vs. Diaz,Andy Enz,Thiago Santos,Thiago Santos,2.7,1.59,2,Favourite,Favourite 2,Thiago Santos,Andy Enz
+399,UFC Fight Night - Henderson vs Thatch,Benson Henderson,Brandon Thatch,Benson Henderson,2.38,1.79,1,Underdog,Underdog 1,Brandon Thatch,Benson Henderson
+400,UFC Fight Night - Henderson vs Thatch,Max Holloway,Cole Miller,Max Holloway,1.27,4.76,1,Favourite,Favourite 1,Max Holloway,Cole Miller
+401,UFC Fight Night - Henderson vs Thatch,Neil Magny,Kiichi Kunimoto,Neil Magny,1.18,5.88,1,Favourite,Favourite 1,Neil Magny,Kiichi Kunimoto
+402,UFC Fight Night - Henderson vs Thatch,Patrick Walsh,Daniel Kelly,Daniel Kelly,1.64,2.63,2,Underdog,Underdog 2,Patrick Walsh,Daniel Kelly
+403,UFC Fight Night - Henderson vs Thatch,Michel Prazeres,Kevin Lee,Kevin Lee,2.33,1.69,2,Favourite,Favourite 2,Kevin Lee,Michel Prazeres
+404,UFC Fight Night - Henderson vs Thatch,Chris Kelades,Ray Borg,Ray Borg,7.69,1.14,2,Favourite,Favourite 2,Ray Borg,Chris Kelades
+405,UFC Fight Night - Henderson vs Thatch,Efrain Escudero,Rodrigo Lima,Efrain Escudero,2.13,1.82,1,Underdog,Underdog 1,Rodrigo de Lima,Efrain Escudero
+406,UFC Fight Night - Henderson vs Thatch,Jim Alers,Chas Skelly,Chas Skelly,3.03,1.47,2,Favourite,Favourite 2,Chas Skelly,Jim Alers
+407,UFC Fight Night - Henderson vs Thatch,Tim Elliott,Zach Makovsky,Zach Makovsky,2,1.96,2,Favourite,Favourite 2,Zach Makovsky,Tim Elliott
+408,UFC Fight Night - Henderson vs Thatch,Cody Pfister,James Moontasri,James Moontasri,3.03,1.47,2,Favourite,Favourite 2,James Moontasri,Cody Pfister
+409,UFC Fight Night - Mir vs. Bigfoot,Frank Mir,Antonio Silva,Frank Mir,3.45,1.45,1,Underdog,Underdog 1,Antonio Silva,Frank Mir
+410,UFC Fight Night - Mir vs. Bigfoot,Edson Barboza,Michael Johnson,Michael Johnson,1.59,2.63,2,Underdog,Underdog 2,Edson Barboza,Michael Johnson
+411,UFC Fight Night - Mir vs. Bigfoot,Cezar Ferreira,Sam Alvey,Sam Alvey,1.32,4.17,2,Underdog,Underdog 2,Cezar Ferreira,Sam Alvey
+412,UFC Fight Night - Mir vs. Bigfoot,Rustam Khabilov,Adriano Martins,Adriano Martins,1.2,5.56,2,Underdog,Underdog 2,Rustam Khabilov,Adriano Martins
+413,UFC Fight Night - Mir vs. Bigfoot,Iuri Alcantara,Frankie Saenz,Frankie Saenz,1.14,7.69,2,Underdog,Underdog 2,Iuri Alcantara,Frankie Saenz
+414,UFC Fight Night - Mir vs. Bigfoot,Santiago Ponzinibbio,Sean Strickland,Santiago Ponzinibbio,2.86,1.54,1,Underdog,Underdog 1,Sean Strickland,Santiago Ponzinibbio
+415,UFC Fight Night - Mir vs. Bigfoot,Jessica Andrade,Marion Reneau,Marion Reneau,1.41,3.33,2,Underdog,Underdog 2,Jessica Andrade,Marion Reneau
+416,UFC Fight Night - Mir vs. Bigfoot,Matt Dwyer,William Macario,Matt Dwyer,4.35,1.27,1,Underdog,Underdog 1,William Patolino,Matt Dwyer
+417,UFC Fight Night - Mir vs. Bigfoot,Mike de la Torre,Tiago Trator,Mike de la Torre,3.03,1.47,1,Underdog,Underdog 1,Tiago Trator,Mike de la Torre
+418,UFC Fight Night - Mir vs. Bigfoot,Cody Gibson,Douglas Silva de Andrade,Douglas Silva de Andrade,1.43,3.23,2,Underdog,Underdog 2,Cody Gibson,Douglas Silva de Andrade
+419,UFC Fight Night - Mir vs. Bigfoot,Ivan Jorge,Josh Shockley,Ivan Jorge,1.45,3.13,1,Favourite,Favourite 1,Ivan Jorge,Josh Shockley
+420,UFC 184 - Rousey vs. Zingano,Ronda Rousey,Cat Zingano,Ronda Rousey,1.18,7.14,1,Favourite,Favourite 1,Ronda Rousey,Cat Zingano
+421,UFC 184 - Rousey vs. Zingano,Holly Holm,Raquel Pennington,Holly Holm,1.16,6.25,1,Favourite,Favourite 1,Holly Holm,Raquel Pennington
+422,UFC 184 - Rousey vs. Zingano,Josh Koscheck,Jake Ellenberger,Jake Ellenberger,2.78,1.52,2,Favourite,Favourite 2,Jake Ellenberger,Josh Koscheck
+423,UFC 184 - Rousey vs. Zingano,Alan Jouban,Rich Walsh,Alan Jouban,1.33,3.85,1,Favourite,Favourite 1,Alan Jouban,Richard Walsh
+424,UFC 184 - Rousey vs. Zingano,Tony Ferguson,Gleison Tibau,Tony Ferguson,1.43,3.23,1,Favourite,Favourite 1,Tony Ferguson,Gleison Tibau
+425,UFC 184 - Rousey vs. Zingano,Mark Munoz,Roan Carneiro,Roan Carneiro,1.39,3.45,2,Underdog,Underdog 2,Mark Munoz,Roan Carneiro
+426,UFC 184 - Rousey vs. Zingano,Dhiego Lima,Tim Means,Tim Means,2.33,1.72,2,Favourite,Favourite 2,Tim Means,Dhiego Lima
+427,UFC 184 - Rousey vs. Zingano,Derrick Lewis,Ruan Potts,Derrick Lewis,1.19,5.56,1,Favourite,Favourite 1,Derrick Lewis,Ruan Potts
+428,UFC 184 - Rousey vs. Zingano,James Krause,Valmir Lazaro,Valmir Lazaro,1.59,2.63,2,Underdog,Underdog 2,James Krause,Valmir Lazaro
+429,UFC 185 - Pettis vs. Dos Anjos,Anthony Pettis,Rafael dos Anjos,Rafael dos Anjos,1.27,4.9,2,Underdog,Underdog 2,Anthony Pettis,Rafael Dos Anjos
+430,UFC 185 - Pettis vs. Dos Anjos,Carla Esparza,Joanna Jedrzejczyk,Joanna Jedrzejczyk,1.63,2.48,2,Underdog,Underdog 2,Carla Esparza,Joanna Jedrzejczyk
+431,UFC 185 - Pettis vs. Dos Anjos,Johny Hendricks,Matt Brown,Johny Hendricks,1.3,4.26,1,Favourite,Favourite 1,Johny Hendricks,Matt Brown
+432,UFC 185 - Pettis vs. Dos Anjos,Alistair Overeem,Roy Nelson,Alistair Overeem,1.54,2.8,1,Favourite,Favourite 1,Alistair Overeem,Roy Nelson
+433,UFC 185 - Pettis vs. Dos Anjos,Henry Cejudo,Chris Cariaso,Henry Cejudo,1.2,6.02,1,Favourite,Favourite 1,Henry Cejudo,Chris Cariaso
+434,UFC 185 - Pettis vs. Dos Anjos,Ross Pearson,Sam Stout,Ross Pearson,1.3,4.26,1,Favourite,Favourite 1,Ross Pearson,Sam Stout
+435,UFC 185 - Pettis vs. Dos Anjos,Roger Narvaez,Elias Theodorou,Elias Theodorou,3.94,1.31,2,Favourite,Favourite 2,Elias Theodorou,Roger Narvaez
+436,UFC 185 - Pettis vs. Dos Anjos,Daron Cruickshank,Beneil Dariush,Beneil Dariush,1.73,2.37,2,Underdog,Underdog 2,Daron Cruickshank,Beneil Dariush
+437,UFC 185 - Pettis vs. Dos Anjos,Jared Rosholt,Josh Copeland,Jared Rosholt,1.36,3.73,1,Favourite,Favourite 1,Jared Rosholt,Josh Copeland
+438,UFC 185 - Pettis vs. Dos Anjos,Sergio Pettis,Ryan Benoit,Ryan Benoit,1.22,5.35,2,Underdog,Underdog 2,Sergio Pettis,Ryan Benoit
+439,UFC 185 - Pettis vs. Dos Anjos,Joseph Duffy,Jake Lindsey,Joseph Duffy,1.22,5.62,1,Favourite,Favourite 1,Joe Duffy,Jake Lindsey
+440,UFC Fight Night - Maia vs. LaFlare,Demian Maia,Ryan LaFlare,Demian Maia,2.22,1.79,1,Underdog,Underdog 1,Ryan LaFlare,Demian Maia
+441,UFC Fight Night - Maia vs. LaFlare,Erick Silva,Josh Koscheck,Erick Silva,1.23,5.26,1,Favourite,Favourite 1,Erick Silva,Josh Koscheck
+442,UFC Fight Night - Maia vs. LaFlare,Tony Martin,Leonardo Santos,Leonardo Santos,1.79,2.27,2,Underdog,Underdog 2,Tony Martin,Leonardo Santos
+443,UFC Fight Night - Maia vs. LaFlare,Amanda Nunes,Shayna Baszler,Amanda Nunes,1.23,5,1,Favourite,Favourite 1,Amanda Nunes,Shayna Baszler
+444,UFC Fight Night - Maia vs. LaFlare,Alex Oliveira,Gilbert Burns,Gilbert Burns,6.25,1.18,2,Favourite,Favourite 2,Gilbert Burns,Alex Oliveira
+445,UFC Fight Night - Maia vs. LaFlare,Andre Fili,Godofredo Castro,Godofredo Castro,1.33,3.7,2,Underdog,Underdog 2,Andre Fili,Godofredo Pepey
+446,UFC Fight Night - Maia vs. LaFlare,Akbarh Arreola,Francisco Trinaldo,Francisco Trinaldo,2.86,1.52,2,Favourite,Favourite 2,Francisco Trinaldo,Akbarh Arreola
+447,UFC Fight Night - Maia vs. LaFlare,Katsunori Kikuno,Edimilson Souza,Edimilson Souza,3.23,1.43,2,Favourite,Favourite 2,Kevin Souza,Katsunori Kikuno
+448,UFC Fight Night - Maia vs. LaFlare,Drew Dober,Leandro Silva,Leandro Silva,2.33,1.69,2,Favourite,Favourite 2,Leandro Silva,Drew Dober
+449,UFC Fight Night - Maia vs. LaFlare,Cain Carrizosa,Leonardo Mafra,Leonardo Mafra,2.5,1.64,2,Favourite,Favourite 2,Leonardo Mafra,Cain Carrizosa
+450,UFC Fight Night - Maia vs. LaFlare,Christos Giagos,Jorge Antonio Cezario de Oliveira,Christos Giagos,1.54,2.78,1,Favourite,Favourite 1,Christos Giagos,Jorge de Oliveira
+451,UFC Fight Night - Maia vs. LaFlare,Bentley Syler,Freddy Serrano,Freddy Serrano,2.08,2.33,2,Underdog,Underdog 2,Bentley Syler,Fredy Serrano
+452,UFC Fight Night - Mendes vs. Lamas,Chad Mendes,Ricardo Lamas,Chad Mendes,1.25,4.76,1,Favourite,Favourite 1,Chad Mendes,Ricardo Lamas
+453,UFC Fight Night - Mendes vs. Lamas,Al Iaquinta,Jorge Masvidal,Al Iaquinta,2.17,1.79,1,Underdog,Underdog 1,Jorge Masvidal,Al Iaquinta
+454,UFC Fight Night - Mendes vs. Lamas,Michael Chiesa,Mitch Clarke,Michael Chiesa,1.28,4,1,Favourite,Favourite 1,Michael Chiesa,Mitch Clarke
+455,UFC Fight Night - Mendes vs. Lamas,Julianna Pena,Milana Dudieva,Julianna Pena,1.39,3.33,1,Favourite,Favourite 1,Julianna Pena,Milana Dudieva
+456,UFC Fight Night - Mendes vs. Lamas,Clay Guida,Robbie Peralta,Clay Guida,1.43,3.13,1,Favourite,Favourite 1,Clay Guida,Robert Peralta
+457,UFC Fight Night - Mendes vs. Lamas,Dustin Poirier,Carlos Diego Ferreira,Dustin Poirier,1.56,2.63,1,Favourite,Favourite 1,Dustin Poirier,Diego Ferreira
+458,UFC Fight Night - Mendes vs. Lamas,Lauren Murphy,Liz Carmouche,Liz Carmouche,1.96,1.92,2,Favourite,Favourite 2,Liz Carmouche,Lauren Murphy
+459,UFC Fight Night - Mendes vs. Lamas,Gray Maynard,Alexander Yakovlev,Alexander Yakovlev,2.13,1.82,2,Favourite,Favourite 2,Alexander Yakovlev,Gray Maynard
+460,UFC Fight Night - Mendes vs. Lamas,Timothy Johnson,Shamil Abdurahimov,Timothy Johnson,3.33,1.41,1,Underdog,Underdog 1,Shamil Abdurakhimov,Tim Johnson
+461,UFC Fight Night - Gonzaga vs. Cro Cop 2,Gabriel Gonzaga,Mirko Filipovic,Mirko Filipovic,1.49,2.94,2,Underdog,Underdog 2,Gabriel Gonzaga,Mirko Cro Cop
+462,UFC Fight Night - Gonzaga vs. Cro Cop 2,Jan Blachowicz,Jimi Manuwa,Jimi Manuwa,2.27,1.75,2,Favourite,Favourite 2,Jimi Manuwa,Jan Blachowicz
+463,UFC Fight Night - Gonzaga vs. Cro Cop 2,Pawel Pawlak,Sheldon Westcott,Pawel Pawlak,2.86,1.52,1,Underdog,Underdog 1,Sheldon Westcott,Pawel Pawlak
+464,UFC Fight Night - Gonzaga vs. Cro Cop 2,Joanne Calderwood,Maryna Moroz,Maryna Moroz,1.18,7.14,2,Underdog,Underdog 2,Joanne Calderwood,Maryna Moroz
+465,UFC Fight Night - Gonzaga vs. Cro Cop 2,Seth Baczynski,Leon Edwards,Leon Edwards,2.22,1.89,2,Favourite,Favourite 2,Leon Edwards,Seth Baczynski
+466,UFC Fight Night - Gonzaga vs. Cro Cop 2,Bartosz Fabinski,Garreth McLellan,Bartosz Fabinski,1.82,2.13,1,Favourite,Favourite 1,Bartosz Fabinski,Garreth McLellan
+467,UFC Fight Night - Gonzaga vs. Cro Cop 2,Mickael Lebout,Sergio Moraes,Sergio Moraes,5,1.27,2,Favourite,Favourite 2,Sergio Moraes,Mickael Lebout
+468,UFC Fight Night - Gonzaga vs. Cro Cop 2,Damian Stasiak,Yaotzin Meza,Yaotzin Meza,1.79,2.13,2,Underdog,Underdog 2,Damian Stasiak,Yaotzin Meza
+469,UFC Fight Night - Gonzaga vs. Cro Cop 2,Daniel Omielanczuk,Anthony Hamilton,Anthony Hamilton,1.69,2.33,2,Underdog,Underdog 2,Daniel Omielanczuk,Anthony Hamilton
+470,UFC Fight Night - Gonzaga vs. Cro Cop 2,Marcin Bandel,Stevie Ray,Stevie Ray,2.7,1.59,2,Favourite,Favourite 2,Stevie Ray,Marcin Bandel
+471,UFC Fight Night - Gonzaga vs. Cro Cop 2,Taylor Lapilus,Rocky Lee,Taylor Lapilus,1.52,2.86,1,Favourite,Favourite 1,Taylor Lapilus,Rocky Lee
+472,UFC on Fox 15 - Rockhold vs. Machida,Luke Rockhold,Lyoto Machida,Luke Rockhold,1.64,2.5,1,Favourite,Favourite 1,Luke Rockhold,Lyoto Machida
+473,UFC on Fox 15 - Rockhold vs. Machida,Ronaldo Souza,Chris Camozzi,Ronaldo Souza,1.08,12.5,1,Favourite,Favourite 1,Jacare Souza,Chris Camozzi
+474,UFC on Fox 15 - Rockhold vs. Machida,Cub Swanson,Max Holloway,Max Holloway,1.69,2.33,2,Underdog,Underdog 2,Cub Swanson,Max Holloway
+475,UFC on Fox 15 - Rockhold vs. Machida,Paige VanZant,Felice Herrig,Paige VanZant,1.82,2.13,1,Favourite,Favourite 1,Paige VanZant,Felice Herrig
+476,UFC on Fox 15 - Rockhold vs. Machida,Jim Miller,Beneil Dariush,Beneil Dariush,2.63,1.61,2,Favourite,Favourite 2,Beneil Dariush,Jim Miller
+477,UFC on Fox 15 - Rockhold vs. Machida,Ovince St Preux,Patrick Cummins,Ovince St Preux,2.08,1.85,1,Underdog,Underdog 1,Patrick Cummins,Ovince Saint Preux
+478,UFC on Fox 15 - Rockhold vs. Machida,Corey Anderson,Gian Villante,Gian Villante,1.28,4.35,2,Underdog,Underdog 2,Corey Anderson,Gian Villante
+479,UFC on Fox 15 - Rockhold vs. Machida,Takeya Mizugaki,Aljamain Sterling,Aljamain Sterling,4.17,1.28,2,Favourite,Favourite 2,Aljamain Sterling,Takeya Mizugaki
+480,UFC on Fox 15 - Rockhold vs. Machida,Tim Means,George Sullivan,Tim Means,1.64,2.56,1,Favourite,Favourite 1,Tim Means,George Sullivan
+481,UFC on Fox 15 - Rockhold vs. Machida,Diego Brandao,Jim Hettes,Diego Brandao,1.67,2.44,1,Favourite,Favourite 1,Diego Brandao,Jimy Hettes
+482,UFC on Fox 15 - Rockhold vs. Machida,Chris Dempsey,Eddie Gordon,Chris Dempsey,5,1.23,1,Underdog,Underdog 1,Eddie Gordon,Chris Dempsey
+483,UFC 186 - Johnson vs. Horiguchi,Demetrious Johnson,Kyoji Horiguchi,Demetrious Johnson,1.14,7.69,1,Favourite,Favourite 1,Demetrious Johnson,Kyoji Horiguchi
+484,UFC 186 - Johnson vs. Horiguchi,Quinton Jackson,Fabio Maldonado,Quinton Jackson,1.43,3.33,1,Favourite,Favourite 1,Rampage Jackson,Fabio Maldonado
+485,UFC 186 - Johnson vs. Horiguchi,Michael Bisping,C.B. Dollaway,Michael Bisping,1.69,2.33,1,Favourite,Favourite 1,Michael Bisping,CB Dollaway
+486,UFC 186 - Johnson vs. Horiguchi,Shane Campbell,John Makdessi,John Makdessi,2.5,1.67,2,Favourite,Favourite 2,John Makdessi,Shane Campbell
+487,UFC 186 - Johnson vs. Horiguchi,Thomas Almeida,Yves Jabouin,Thomas Almeida,3.7,1.3,1,Underdog,Underdog 1,Yves Jabouin,Thomas Almeida
+488,UFC 186 - Johnson vs. Horiguchi,Patrick Cote,Joe Riggs,Patrick Cote,1.49,3.03,1,Favourite,Favourite 1,Patrick Cote,Joe Riggs
+489,UFC 186 - Johnson vs. Horiguchi,Sarah Kaufman,Alexis Davis,Alexis Davis,1.52,2.86,2,Underdog,Underdog 2,Sarah Kaufman,Alexis Davis
+490,UFC 186 - Johnson vs. Horiguchi,Chad Laprise,Bryan Barberena,Chad Laprise,1.27,4.55,1,Favourite,Favourite 1,Chad Laprise,Bryan Barberena
+491,UFC 186 - Johnson vs. Horiguchi,Olivier Aubin-Mercier,David Michaud,Olivier Aubin-Mercier,1.3,4.35,1,Favourite,Favourite 1,Olivier Aubin-Mercier,David Michaud
+492,UFC 186 - Johnson vs. Horiguchi,Nordine Taleb,Chris Clements,Nordine Taleb,1.45,3.23,1,Favourite,Favourite 1,Nordine Taleb,Chris Clements
+493,UFC 186 - Johnson vs. Horiguchi,Jessica Rakoczy,Valerie Letourneau,Valerie Letourneau,2.5,1.67,2,Favourite,Favourite 2,Valerie Letourneau,Jessica Rakoczy
+494,UFC 186 - Johnson vs. Horiguchi,Randa Markos,Aisling Daly,Randa Markos,1.39,3.45,1,Favourite,Favourite 1,Randa Markos,Aisling Daly
+495,UFC Fight Night - Hunt vs. Miocic,Mark Hunt,Stipe Miocic,Stipe Miocic,3.13,1.45,2,Favourite,Favourite 2,Stipe Miocic,Mark Hunt
+496,UFC Fight Night - Hunt vs. Miocic,Brad Tavares,Robert Whittaker,Robert Whittaker,1.79,2.33,2,Underdog,Underdog 2,Brad Tavares,Robert Whittaker
+497,UFC Fight Night - Hunt vs. Miocic,Anthony Perosh,"Sean O'Connell","Sean O'Connell",1.72,2.33,2,Underdog,Underdog 2,Anthony Perosh,"Sean O'Connell"
+498,UFC Fight Night - Hunt vs. Miocic,Jake Matthews,James Vick,James Vick,1.59,2.7,2,Underdog,Underdog 2,Jake Matthews,James Vick
+499,UFC Fight Night - Hunt vs. Miocic,Hatsu Hioki,Daniel Hooker,Daniel Hooker,1.35,3.57,2,Underdog,Underdog 2,Hatsu Hioki,Dan Hooker
+500,UFC Fight Night - Hunt vs. Miocic,Kyle Noke,Jonavin Webb,Kyle Noke,1.92,2.04,1,Favourite,Favourite 1,Kyle Noke,Jonavin Webb
+501,UFC Fight Night - Hunt vs. Miocic,Sam Alvey,Daniel Kelly,Sam Alvey,1.27,4.35,1,Favourite,Favourite 1,Sam Alvey,Daniel Kelly
+502,UFC Fight Night - Hunt vs. Miocic,Lisa Ellis,Bec Rawlings,Bec Rawlings,2.7,1.56,2,Favourite,Favourite 2,Bec Rawlings,Lisa Ellis
+503,UFC Fight Night - Hunt vs. Miocic,Dylan Andrews,Brad Scott,Brad Scott,1.92,2,2,Underdog,Underdog 2,Dylan Andrews,Bradley Scott
+504,UFC Fight Night - Hunt vs. Miocic,Alex Chambers,Kailin Curran,Alex Chambers,3.13,1.45,1,Underdog,Underdog 1,Kailin Curran,Alex Chambers
+505,UFC Fight Night - Hunt vs. Miocic,Vik Grujic,"Brendan O'Reilly","Brendan O'Reilly",1.85,2.08,2,Underdog,Underdog 2,Vik Grujic,"Brendan O'Reilly"
+506,UFC Fight Night - Hunt vs. Miocic,Alptekin Ozkilic,Ben Nguyen,Ben Nguyen,1.54,2.78,2,Underdog,Underdog 2,Alptekin Ozkilic,Ben Nguyen
+507,UFC Fight Night - Edgar vs. Faber,Frankie Edgar,Urijah Faber,Frankie Edgar,1.25,5.26,1,Favourite,Favourite 1,Frankie Edgar,Urijah Faber
+508,UFC Fight Night - Edgar vs. Faber,Gegard Mousasi,Costas Philippou,Gegard Mousasi,1.18,5.88,1,Favourite,Favourite 1,Gegard Mousasi,Costas Philippou
+509,UFC Fight Night - Edgar vs. Faber,Mark Munoz,Luke Barnatt,Mark Munoz,2.38,1.75,1,Underdog,Underdog 1,Luke Barnatt,Mark Munoz
+510,UFC Fight Night - Edgar vs. Faber,Neil Magny,Hyun Gyu Lim,Neil Magny,1.85,2.08,1,Favourite,Favourite 1,Neil Magny,Hyun Gyu Lim
+511,UFC Fight Night - Edgar vs. Faber,Phillipe Nover,Yui Chul Nam,Phillipe Nover,2.56,1.61,1,Underdog,Underdog 1,Yui Chul Nam,Phillipe Nover
+512,UFC Fight Night - Edgar vs. Faber,Mark Eddiva,Levan Makashvili,Levan Makashvili,4.55,1.27,2,Favourite,Favourite 2,Levan Makashvili,Mark Eddiva
+513,UFC Fight Night - Edgar vs. Faber,Tae Hyun Bang,Jon Tuck,Jon Tuck,2.33,1.72,2,Favourite,Favourite 2,Jon Tuck,Tae Hyun Bang
+514,UFC Fight Night - Edgar vs. Faber,Kajan Johnson,Lipeng Zhang,Kajan Johnson,2.08,2.13,1,Favourite,Favourite 1,Kajan Johnson,Zhang Lipeng
+515,UFC Fight Night - Edgar vs. Faber,Jingliang Li,Dhiego Lima,Jingliang Li,2.44,1.69,1,Underdog,Underdog 1,Dhiego Lima,Li Jingliang
+516,UFC Fight Night - Edgar vs. Faber,Royston Wee,Guangyou Ning,Guangyou Ning,3.07,1.5,2,Favourite,Favourite 2,Ning Guangyou,Royston Wee
+517,UFC Fight Night - Edgar vs. Faber,Jon delos Reyes,Roldan Sangcha-an,Jon delos Reyes,1.59,2.63,1,Favourite,Favourite 1,Jon Delos Reyes,Roldan Sangcha-an
+518,UFC 187 - Cormier vs. Johnson,Daniel Cormier,Anthony Johnson,Daniel Cormier,1.96,1.96,1,Underdog,Underdog 1,Anthony Johnson,Daniel Cormier
+519,UFC 187 - Cormier vs. Johnson,Chris Weidman,Vitor Belfort,Chris Weidman,1.23,5,1,Favourite,Favourite 1,Chris Weidman,Vitor Belfort
+520,UFC 187 - Cormier vs. Johnson,John Makdessi,Donald Cerrone,Donald Cerrone,5.88,1.18,2,Favourite,Favourite 2,Donald Cerrone,John Makdessi
+521,UFC 187 - Cormier vs. Johnson,Andrei Arlovski,Travis Browne,Andrei Arlovski,4.76,1.25,1,Underdog,Underdog 1,Travis Browne,Andrei Arlovski
+522,UFC 187 - Cormier vs. Johnson,Joseph Benavidez,John Moraga,Joseph Benavidez,1.18,6.25,1,Favourite,Favourite 1,Joseph Benavidez,John Moraga
+523,UFC 187 - Cormier vs. Johnson,John Dodson,Zach Makovsky,John Dodson,1.18,5.88,1,Favourite,Favourite 1,John Dodson,Zach Makovsky
+524,UFC 187 - Cormier vs. Johnson,Josh Burkman,Dong Hyun Kim,Dong Hyun Kim,3.33,1.43,2,Favourite,Favourite 2,Dong Hyun Kim,Joshua Burkman
+525,UFC 187 - Cormier vs. Johnson,Uriah Hall,Rafael Natal,Rafael Natal,1.27,4.35,2,Underdog,Underdog 2,Uriah Hall,Rafael Natal
+526,UFC 187 - Cormier vs. Johnson,Mike Pyle,Colby Covington,Colby Covington,3.45,1.39,2,Favourite,Favourite 2,Colby Covington,Mike Pyle
+527,UFC 187 - Cormier vs. Johnson,Justin Scoggins,Josh Sampo,Justin Scoggins,1.25,4.55,1,Favourite,Favourite 1,Justin Scoggins,Joshua Sampo
+528,UFC Fight Night - Condit vs. Alves,Carlos Condit,Thiago Alves,Carlos Condit,1.43,3.13,1,Favourite,Favourite 1,Carlos Condit,Thiago Alves
+529,UFC Fight Night - Condit vs. Alves,Nik Lentz,Charles Oliveira,Charles Oliveira,3.33,1.41,2,Favourite,Favourite 2,Charles Oliveira,Nik Lentz
+530,UFC Fight Night - Condit vs. Alves,K.J. Noons,Alex Oliveira,Alex Oliveira,2.13,1.79,2,Favourite,Favourite 2,Alex Oliveira,KJ Noons
+531,UFC Fight Night - Condit vs. Alves,Ryan Jimmo,Francimar Barroso,Francimar Barroso,1.39,3.33,2,Underdog,Underdog 2,Ryan Jimmo,Francimar Barroso
+532,UFC Fight Night - Condit vs. Alves,Francisco Trinaldo,Norman Parke,Francisco Trinaldo,2.94,1.47,1,Underdog,Underdog 1,Norman Parke,Francisco Trinaldo
+533,UFC Fight Night - Condit vs. Alves,Rony Jason,Damon Jackson,Rony Jason,1.49,2.7,1,Favourite,Favourite 1,Rony Jason,Damon Jackson
+534,UFC Fight Night - Condit vs. Alves,Jussier Formiga,Wilson Reis,Jussier Formiga,1.67,2.22,1,Favourite,Favourite 1,Jussier Formiga,Wilson Reis
+535,UFC Fight Night - Condit vs. Alves,Nicolas Dalby,Elizeu Zaleski dos Santos,Nicolas Dalby,1.3,3.7,1,Favourite,Favourite 1,Nicolas Dalby,Elizeu Zaleski dos Santos
+536,UFC Fight Night - Condit vs. Alves,Mirsad Bektic,Lucas Martins,Mirsad Bektic,1.3,3.7,1,Favourite,Favourite 1,Mirsad Bektic,Lucas Martins
+537,UFC Fight Night - Condit vs. Alves,Juliana Lima,Ericka Almeida,Juliana Lima,1.49,2.7,1,Favourite,Favourite 1,Juliana Lima,Ericka Almeida
+538,UFC Fight Night - Condit vs. Alves,Tom Breese,Luiz Dutra,Tom Breese,1.69,2.17,1,Favourite,Favourite 1,Tom Breese,Luiz Dutra
+539,UFC Fight Night - Boetsch vs. Henderson,Dan Henderson,Tim Boetsch,Dan Henderson,2.78,1.54,1,Underdog,Underdog 1,Tim Boetsch,Dan Henderson
+540,UFC Fight Night - Boetsch vs. Henderson,Ben Rothwell,Matt Mitrione,Ben Rothwell,2.7,1.56,1,Underdog,Underdog 1,Matt Mitrione,Ben Rothwell
+541,UFC Fight Night - Boetsch vs. Henderson,Dustin Poirier,Yancy Medeiros,Dustin Poirier,1.56,2.86,1,Favourite,Favourite 1,Dustin Poirier,Yancy Medeiros
+542,UFC Fight Night - Boetsch vs. Henderson,Brian Ortega,Thiago Tavares,Brian Ortega,2.56,1.61,1,Underdog,Underdog 1,Thiago Tavares,Brian Ortega
+543,UFC Fight Night - Boetsch vs. Henderson,Joe Soto,Anthony Birchak,Anthony Birchak,1.56,2.7,2,Underdog,Underdog 2,Joe Soto,Anthony Birchak
+544,UFC Fight Night - Boetsch vs. Henderson,Alex Caceres,Francisco Rivera,Francisco Rivera,2.22,1.82,2,Favourite,Favourite 2,Francisco Rivera,Alex Caceres
+545,UFC Fight Night - Boetsch vs. Henderson,Derrick Lewis,Shawn Jordan,Shawn Jordan,2.04,1.96,2,Favourite,Favourite 2,Shawn Jordan,Derrick Lewis
+546,UFC Fight Night - Boetsch vs. Henderson,Brian Ebersole,Omari Akhmedov,Omari Akhmedov,2.22,1.79,2,Favourite,Favourite 2,Omari Akhmedov,Brian Ebersole
+547,UFC Fight Night - Boetsch vs. Henderson,Christos Giagos,Chris Wade,Chris Wade,2.56,1.61,2,Favourite,Favourite 2,Chris Wade,Christos Giagos
+548,UFC Fight Night - Boetsch vs. Henderson,Joe Proctor,Justin Edwards,Joe Proctor,1.49,2.86,1,Favourite,Favourite 1,Joe Proctor,Justin Edwards
+549,UFC Fight Night - Boetsch vs. Henderson,Ricardo Abreu,Jake Collier,Jake Collier,1.56,2.7,2,Underdog,Underdog 2,Ricardo Abreu,Jake Collier
+550,UFC 188 - Velasquez vs. Werdum,Cain Velasquez,Fabricio Werdum,Fabricio Werdum,1.2,5.26,2,Underdog,Underdog 2,Cain Velasquez,Fabricio Werdum
+551,UFC 188 - Velasquez vs. Werdum,Gilbert Melendez,Eddie Alvarez,Eddie Alvarez,1.61,2.56,2,Underdog,Underdog 2,Gilbert Melendez,Eddie Alvarez
+552,UFC 188 - Velasquez vs. Werdum,Kelvin Gastelum,Nate Marquardt,Kelvin Gastelum,1.22,5.26,1,Favourite,Favourite 1,Kelvin Gastelum,Nate Marquardt
+553,UFC 188 - Velasquez vs. Werdum,Charles Rosa,Yair Rodriguez,Yair Rodriguez,1.47,2.94,2,Underdog,Underdog 2,Charles Rosa,Yair Rodriguez
+554,UFC 188 - Velasquez vs. Werdum,Tecia Torres,Angela Hill,Tecia Torres,1.35,3.57,1,Favourite,Favourite 1,Tecia Torres,Angela Hill
+555,UFC 188 - Velasquez vs. Werdum,Henry Cejudo,Chico Camus,Henry Cejudo,1.1,10,1,Favourite,Favourite 1,Henry Cejudo,Chico Camus
+556,UFC 188 - Velasquez vs. Werdum,Efrain Escudero,Drew Dober,Efrain Escudero,2.38,1.69,1,Underdog,Underdog 1,Drew Dober,Efrain Escudero
+557,UFC 188 - Velasquez vs. Werdum,Alejandro Perez,Patrick Williams,Patrick Williams,1.64,2.5,2,Underdog,Underdog 2,Alejandro Perez,Patrick Williams
+558,UFC 188 - Velasquez vs. Werdum,Cathal Pendred,Augusto Montano,Cathal Pendred,2.38,1.67,1,Underdog,Underdog 1,Augusto Montano,Cathal Pendred
+559,UFC Fight Night - Jedrzejczyk vs. Penne,Joanna Jedrzejczyk,Jessica Penne,Joanna Jedrzejczyk,1.15,7.14,1,Favourite,Favourite 1,Joanna Jedrzejczyk,Jessica Penne
+560,UFC Fight Night - Jedrzejczyk vs. Penne,Tatsuya Kawajiri,Dennis Siver,Tatsuya Kawajiri,2.56,1.64,1,Underdog,Underdog 1,Dennis Siver,Tatsuya Kawajiri
+561,UFC Fight Night - Jedrzejczyk vs. Penne,Peter Sobotta,Steve Kennedy,Peter Sobotta,1.39,4,1,Favourite,Favourite 1,Peter Sobotta,Steve Kennedy
+562,UFC Fight Night - Jedrzejczyk vs. Penne,Makwan Amirkhani,Masio Fullen,Makwan Amirkhani,1.45,3.13,1,Favourite,Favourite 1,Makwan Amirkhani,Masio Fullen
+563,UFC Fight Night - Jedrzejczyk vs. Penne,Mairbek Taisumov,Alan Patrick,Mairbek Taisumov,8.33,1.12,1,Underdog,Underdog 1,Alan Patrick,Mairbek Taisumov
+564,UFC Fight Night - Jedrzejczyk vs. Penne,Arnold Allen,Alan Omer,Arnold Allen,2.7,1.59,1,Underdog,Underdog 1,Alan Omer,Arnold Allen
+565,UFC Fight Night - Jedrzejczyk vs. Penne,Niklas Backstrom,Noad Lahat,Noad Lahat,1.47,3.03,2,Underdog,Underdog 2,Niklas Backstrom,Noad Lahat
+566,UFC Fight Night - Jedrzejczyk vs. Penne,Scott Askham,Antonio Dos Santos Jr,Scott Askham,1.45,3.13,1,Favourite,Favourite 1,Scott Askham,Antonio Dos Santos
+567,UFC Fight Night - Jedrzejczyk vs. Penne,Piotr Hallmann,Magomed Mustafaev,Magomed Mustafaev,2.08,1.92,2,Favourite,Favourite 2,Magomed Mustafaev,Piotr Hallmann
+568,UFC Fight Night - Jedrzejczyk vs. Penne,Taylor Lapilus,Yuta Sasaki,Taylor Lapilus,3.57,1.41,1,Underdog,Underdog 1,Ulka Sasaki,Taylor Lapilus
+569,UFC Fight Night - Machida vs. Romero,Lyoto Machida,Yoel Romero,Yoel Romero,1.56,2.63,2,Underdog,Underdog 2,Lyoto Machida,Yoel Romero
+570,UFC Fight Night - Machida vs. Romero,Lorenz Larkin,Santiago Ponzinibbio,Lorenz Larkin,1.49,2.94,1,Favourite,Favourite 1,Lorenz Larkin,Santiago Ponzinibbio
+571,UFC Fight Night - Machida vs. Romero,Eddie Gordon,Antonio Carlos Jr.,Antonio Carlos Jr.,2.78,1.59,2,Favourite,Favourite 2,Antonio Carlos Junior,Eddie Gordon
+572,UFC Fight Night - Machida vs. Romero,Steve Bosse,Thiago Santos,Thiago Santos,2.86,1.54,2,Favourite,Favourite 2,Thiago Santos,Steve Bosse
+573,UFC Fight Night - Machida vs. Romero,Hacran Dias,Levan Makashvili,Hacran Dias,1.56,2.78,1,Favourite,Favourite 1,Hacran Dias,Levan Makashvili
+574,UFC Fight Night - Machida vs. Romero,Alex Oliveira,Joe Merritt,Alex Oliveira,1.25,4.55,1,Favourite,Favourite 1,Alex Oliveira,Joe Merritt
+575,UFC Fight Night - Machida vs. Romero,Leandro Silva,Lewis Gonzalez,Leandro Silva,1.59,2.86,1,Favourite,Favourite 1,Leandro Silva,Lewis Gonzalez
+576,UFC Fight Night - Machida vs. Romero,Danny Martinez,Sirwan Kakai,Sirwan Kakai,1.79,2.22,2,Underdog,Underdog 2,Danny Martinez,Sirwan Kakai
+577,UFC 189 - McGregor vs. Mendes,Conor McGregor,Chad Mendes,Conor McGregor,1.56,2.7,1,Favourite,Favourite 1,Conor McGregor,Chad Mendes
+578,UFC 189 - McGregor vs. Mendes,Robbie Lawler,Rory MacDonald,Robbie Lawler,2.65,1.62,1,Underdog,Underdog 1,Rory MacDonald,Robbie Lawler
+579,UFC 189 - McGregor vs. Mendes,Dennis Bermudez,Jeremy Stephens,Jeremy Stephens,1.5,2.97,2,Underdog,Underdog 2,Dennis Bermudez,Jeremy Stephens
+580,UFC 189 - McGregor vs. Mendes,Gunnar Nelson,Brandon Thatch,Gunnar Nelson,2.6,1.59,1,Underdog,Underdog 1,Brandon Thatch,Gunnar Nelson
+581,UFC 189 - McGregor vs. Mendes,Brad Pickett,Thomas Almeida,Thomas Almeida,1.23,4.76,2,Underdog,Underdog 2,Brad Pickett,Thomas Almeida
+582,UFC 189 - McGregor vs. Mendes,Matt Brown,Tim Means,Matt Brown,1.56,2.75,1,Favourite,Favourite 1,Matt Brown,Tim Means
+583,UFC 189 - McGregor vs. Mendes,Alex Garcia,Mike Swick,Alex Garcia,1.25,4.55,1,Favourite,Favourite 1,Alex Garcia,Mike Swick
+584,UFC 189 - McGregor vs. Mendes,Cathal Pendred,John Howard,John Howard,1.91,2,2,Underdog,Underdog 2,Cathal Pendred,John Howard
+585,UFC 189 - McGregor vs. Mendes,Cody Garbrandt,Enrique Briones,Cody Garbrandt,1.16,6.41,1,Favourite,Favourite 1,Cody Garbrandt,Henry Briones
+586,UFC 189 - McGregor vs. Mendes,Neil Seery,Louis Smolka,Louis Smolka,2.15,1.83,2,Favourite,Favourite 2,Louis Smolka,Neil Seery
+587,UFC 189 - McGregor vs. Mendes,Yosdenis Cedeno,Cody Pfister,Cody Pfister,1.51,2.85,2,Underdog,Underdog 2,Yosdenis Cedeno,Cody Pfister
+588,UFC - The Ultimate Fighter 21 Finale,Jake Ellenberger,Stephen Thompson,Stephen Thompson,2.75,1.53,2,Favourite,Favourite 2,Stephen Thompson,Jake Ellenberger
+589,UFC - The Ultimate Fighter 21 Finale,Michael Graves,Vicente Luque,Michael Graves,2.1,1.88,1,Underdog,Underdog 1,Vicente Luque,Michael Graves
+590,UFC - The Ultimate Fighter 21 Finale,Jorge Masvidal,Cezar Ferreira,Jorge Masvidal,1.47,3.19,1,Favourite,Favourite 1,Jorge Masvidal,Cezar Ferreira
+591,UFC - The Ultimate Fighter 21 Finale,Michelle Waterson,Angela Magana,Michelle Waterson,1.17,6.06,1,Favourite,Favourite 1,Michelle Waterson,Angela Magana
+592,UFC - The Ultimate Fighter 21 Finale,Maximo Blanco,Mike de la Torre,Maximo Blanco,1.95,2,1,Favourite,Favourite 1,Maximo Blanco,Mike de la Torre
+593,UFC - The Ultimate Fighter 21 Finale,Josh Samman,Caio Magalhaes,Josh Samman,2.1,1.84,1,Underdog,Underdog 1,Caio Magalhaes,Josh Samman
+594,UFC - The Ultimate Fighter 21 Finale,Russell Doane,Jerrod Sanders,Jerrod Sanders,1.28,4.44,2,Underdog,Underdog 2,Russell Doane,Jerrod Sanders
+595,UFC - The Ultimate Fighter 21 Finale,Dan Miller,Trevor Smith,Trevor Smith,1.91,2.1,2,Underdog,Underdog 2,Dan Miller,Trevor Smith
+596,UFC - The Ultimate Fighter 21 Finale,George Sullivan,Dominic Waters,George Sullivan,1.5,2.86,1,Favourite,Favourite 1,George Sullivan,Dominic Waters
+597,UFC - The Ultimate Fighter 21 Finale,Willie Gates,Darrell Montague,Willie Gates,2.05,1.92,1,Underdog,Underdog 1,Darrell Montague,Willie Gates
+598,UFC Fight Night - Mir vs. Duffee,Frank Mir,Todd Duffee,Frank Mir,2.8,1.53,1,Underdog,Underdog 1,Todd Duffee,Frank Mir
+599,UFC Fight Night - Mir vs. Duffee,Josh Thomson,Tony Ferguson,Tony Ferguson,2.85,1.53,2,Favourite,Favourite 2,Tony Ferguson,Josh Thomson
+600,UFC Fight Night - Mir vs. Duffee,Holly Holm,Marion Reneau,Holly Holm,1.5,2.85,1,Favourite,Favourite 1,Holly Holm,Marion Reneau
+601,UFC Fight Night - Mir vs. Duffee,Scott Jorgensen,Manny Gamburyan,Manny Gamburyan,2.4,1.67,2,Favourite,Favourite 2,Manvel Gamburyan,Scott Jorgensen
+602,UFC Fight Night - Mir vs. Duffee,Kevin Lee,James Moontasri,Kevin Lee,1.4,3.34,1,Favourite,Favourite 1,Kevin Lee,James Moontasri
+603,UFC Fight Night - Mir vs. Duffee,Alan Jouban,Matt Dwyer,Alan Jouban,1.23,4.85,1,Favourite,Favourite 1,Alan Jouban,Matt Dwyer
+604,UFC Fight Night - Mir vs. Duffee,Sam Sicilia,Yaotzin Meza,Sam Sicilia,1.61,2.8,1,Favourite,Favourite 1,Sam Sicilia,Yaotzin Meza
+605,UFC Fight Night - Mir vs. Duffee,Jessica Andrade,Sarah Moras,Jessica Andrade,1.3,4,1,Favourite,Favourite 1,Jessica Andrade,Sarah Moras
+606,UFC Fight Night - Mir vs. Duffee,Rani Yahya,Masanori Kanehara,Rani Yahya,2,1.92,1,Underdog,Underdog 1,Masanori Kanehara,Rani Yahya
+607,UFC Fight Night - Mir vs. Duffee,Sean Strickland,Igor Araujo,Sean Strickland,1.29,4.15,1,Favourite,Favourite 1,Sean Strickland,Igor Araujo
+608,UFC Fight Night - Mir vs. Duffee,Kevin Casey,Ildemar Alcantara,Kevin Casey,1.95,1.95,1,Underdog,Underdog 1,Ildemar Alcantara,Kevin Casey
+609,UFC Fight Night - Mir vs. Duffee,Andrew Craig,Lyman Good,Lyman Good,3.02,1.39,2,Favourite,Favourite 2,Lyman Good,Andrew Craig
+610,UFC Fight Night - Bisping vs. Leites,Michael Bisping,Thales Leites,Michael Bisping,1.93,1.98,1,Favourite,Favourite 1,Michael Bisping,Thales Leites
+611,UFC Fight Night - Bisping vs. Leites,Ross Pearson,Evan Dunham,Evan Dunham,1.44,3.06,2,Underdog,Underdog 2,Ross Pearson,Evan Dunham
+612,UFC Fight Night - Bisping vs. Leites,Joseph Duffy,Ivan Jorge,Joseph Duffy,1.13,6.99,1,Favourite,Favourite 1,Joe Duffy,Ivan Jorge
+613,UFC Fight Night - Bisping vs. Leites,Joanne Calderwood,Cortney Casey,Joanne Calderwood,1.29,4,1,Favourite,Favourite 1,Joanne Calderwood,Cortney Casey
+614,UFC Fight Night - Bisping vs. Leites,Pawel Pawlak,Leon Edwards,Leon Edwards,4.26,1.33,2,Favourite,Favourite 2,Leon Edwards,Pawel Pawlak
+615,UFC Fight Night - Bisping vs. Leites,Leonardo Mafra,Stevie Ray,Stevie Ray,2.8,1.51,2,Favourite,Favourite 2,Stevie Ray,Leonardo Mafra
+616,UFC Fight Night - Bisping vs. Leites,Patrick Holohan,Vaughan Lee,Patrick Holohan,1.61,2.64,1,Favourite,Favourite 1,Paddy Holohan,Vaughan Lee
+617,UFC Fight Night - Bisping vs. Leites,Ilir Latifi,Hans Stringer,Ilir Latifi,1.45,3.07,1,Favourite,Favourite 1,Ilir Latifi,Hans Stringer
+618,UFC Fight Night - Bisping vs. Leites,Robert Whiteford,Paul Redmond,Robert Whiteford,1.71,2.35,1,Favourite,Favourite 1,Rob Whiteford,Paul Redmond
+619,UFC Fight Night - Bisping vs. Leites,Jimmie Rivera,Marcus Brimage,Jimmie Rivera,1.87,2.08,1,Favourite,Favourite 1,Jimmie Rivera,Marcus Brimage
+620,UFC Fight Night - Bisping vs. Leites,Daniel Omielanczuk,Chris de la Rocha,Daniel Omielanczuk,1.68,2.37,1,Favourite,Favourite 1,Daniel Omielanczuk,Chris de la Rocha
+621,UFC on Fox 16 - Dillashaw vs. Barao 2,T.J. Dillashaw,Renan Barao,T.J. Dillashaw,1.48,2.95,1,Favourite,Favourite 1,TJ Dillashaw,Renan Barao
+622,UFC on Fox 16 - Dillashaw vs. Barao 2,Miesha Tate,Jessica Eye,Miesha Tate,1.53,2.8,1,Favourite,Favourite 1,Miesha Tate,Jessica Eye
+623,UFC on Fox 16 - Dillashaw vs. Barao 2,Edson Barboza,Paul Felder,Edson Barboza,1.75,2.25,1,Favourite,Favourite 1,Edson Barboza,Paul Felder
+624,UFC on Fox 16 - Dillashaw vs. Barao 2,Joe Lauzon,Takanori Gomi,Joe Lauzon,1.32,4.1,1,Favourite,Favourite 1,Joe Lauzon,Takanori Gomi
+625,UFC on Fox 16 - Dillashaw vs. Barao 2,Gian Villante,Tom Lawlor,Tom Lawlor,1.51,3,2,Underdog,Underdog 2,Gian Villante,Tom Lawlor
+626,UFC on Fox 16 - Dillashaw vs. Barao 2,Jim Miller,Danny Castillo,Jim Miller,1.87,2.1,1,Favourite,Favourite 1,Jim Miller,Danny Castillo
+627,UFC on Fox 16 - Dillashaw vs. Barao 2,Ben Saunders,Kenny Robertson,Ben Saunders,2.1,1.91,1,Underdog,Underdog 1,Kenny Robertson,Ben Saunders
+628,UFC on Fox 16 - Dillashaw vs. Barao 2,Bryan Caraway,Eddie Wineland,Bryan Caraway,2.2,1.87,1,Underdog,Underdog 1,Eddie Wineland,Bryan Caraway
+629,UFC on Fox 16 - Dillashaw vs. Barao 2,Daron Cruickshank,James Krause,James Krause,1.63,2.65,2,Underdog,Underdog 2,Daron Cruickshank,James Krause
+630,UFC on Fox 16 - Dillashaw vs. Barao 2,Jessamyn Duke,Elizabeth Phillips,Elizabeth Phillips,2.45,1.7,2,Favourite,Favourite 2,Elizabeth Phillips,Jessamyn Duke
+631,UFC on Fox 16 - Dillashaw vs. Barao 2,Zak Cummings,Dominique Steele,Zak Cummings,1.36,4.15,1,Favourite,Favourite 1,Zak Cummings,Dominique Steele
+632,UFC 190 - Rousey vs. Correia,Ronda Rousey,Bethe Correia,Ronda Rousey,1.07,12.82,1,Favourite,Favourite 1,Ronda Rousey,Bethe Correia
+633,UFC 190 - Rousey vs. Correia,Mauricio Rua,Rogerio Nogueira,Mauricio Rua,1.53,2.75,1,Favourite,Favourite 1,Mauricio Rua,Rogerio Nogueira
+634,UFC 190 - Rousey vs. Correia,Rodrigo Nogueira,Stefan Struve,Stefan Struve,2.53,1.63,2,Favourite,Favourite 2,Stefan Struve,Minotauro Nogueira
+635,UFC 190 - Rousey vs. Correia,Antonio Silva,Soa Palelei,Antonio Silva,2.74,1.54,1,Underdog,Underdog 1,Soa Palelei,Antonio Silva
+636,UFC 190 - Rousey vs. Correia,Claudia Gadelha,Jessica Aguilar,Claudia Gadelha,1.24,4.74,1,Favourite,Favourite 1,Claudia Gadelha,Jessica Aguilar
+637,UFC 190 - Rousey vs. Correia,Demian Maia,Neil Magny,Demian Maia,1.62,2.58,1,Favourite,Favourite 1,Demian Maia,Neil Magny
+638,UFC 190 - Rousey vs. Correia,Rafael Cavalcante,Patrick Cummins,Patrick Cummins,2.43,1.65,2,Favourite,Favourite 2,Patrick Cummins,Rafael Feijao
+639,UFC 190 - Rousey vs. Correia,Warlley Alves,Nordine Taleb,Warlley Alves,1.46,3,1,Favourite,Favourite 1,Warlley Alves,Nordine Taleb
+640,UFC 190 - Rousey vs. Correia,Iuri Alcantara,Leandro Issa,Iuri Alcantara,1.43,3.16,1,Favourite,Favourite 1,Iuri Alcantara,Leandro Issa
+641,UFC 190 - Rousey vs. Correia,Vitor Miranda,Clint Hester,Vitor Miranda,2.38,1.67,1,Underdog,Underdog 1,Clint Hester,Vitor Miranda
+642,UFC 190 - Rousey vs. Correia,Hugo Viana,Guido Cannetti,Guido Cannetti,1.33,4,2,Underdog,Underdog 2,Hugo Viana,Guido Cannetti
+643,UFC Fight Night - St. Preux vs. Teixeira,Glover Teixeira,Ovince St Preux,Glover Teixeira,1.95,1.95,1,Underdog,Underdog 1,Ovince Saint Preux,Glover Teixeira
+644,UFC Fight Night - St. Preux vs. Teixeira,Michael Johnson,Beneil Dariush,Beneil Dariush,1.65,2.45,2,Underdog,Underdog 2,Michael Johnson,Beneil Dariush
+645,UFC Fight Night - St. Preux vs. Teixeira,Sam Alvey,Derek Brunson,Derek Brunson,4.55,1.26,2,Favourite,Favourite 2,Derek Brunson,Sam Alvey
+646,UFC Fight Night - St. Preux vs. Teixeira,Jared Rosholt,Timothy Johnson,Jared Rosholt,1.42,3.36,1,Favourite,Favourite 1,Jared Rosholt,Tim Johnson
+647,UFC Fight Night - St. Preux vs. Teixeira,Sara McMann,Amanda Nunes,Amanda Nunes,1.4,3.34,2,Underdog,Underdog 2,Sara McMann,Amanda Nunes
+648,UFC Fight Night - St. Preux vs. Teixeira,Ray Borg,Geane Herrera,Ray Borg,1.24,4.95,1,Favourite,Favourite 1,Ray Borg,Geane Herrera
+649,UFC Fight Night - St. Preux vs. Teixeira,Uriah Hall,Oluwale Bamgbose,Uriah Hall,1.29,4.26,1,Favourite,Favourite 1,Uriah Hall,Oluwale Bamgbose
+650,UFC Fight Night - St. Preux vs. Teixeira,Chris Camozzi,Tom Watson,Chris Camozzi,1.72,2.3,1,Favourite,Favourite 1,Chris Camozzi,Tom Watson
+651,UFC Fight Night - St. Preux vs. Teixeira,Willie Gates,Dustin Ortiz,Dustin Ortiz,4.81,1.26,2,Favourite,Favourite 2,Dustin Ortiz,Willie Gates
+652,UFC Fight Night - St. Preux vs. Teixeira,Frankie Saenz,Sirwan Kakai,Frankie Saenz,2,1.95,1,Underdog,Underdog 1,Sirwan Kakai,Frankie Saenz
+653,UFC Fight Night - St. Preux vs. Teixeira,Chris Dempsey,Jonathan Wilson,Jonathan Wilson,2.4,1.69,2,Favourite,Favourite 2,Jonathan Wilson,Chris Dempsey
+654,UFC Fight Night 74 - Holloway vs. Oliveira,Max Holloway,Charles Oliveira,Max Holloway,1.46,3.1,1,Favourite,Favourite 1,Max Holloway,Charles Oliveira
+655,UFC Fight Night 74 - Holloway vs. Oliveira,Erick Silva,Neil Magny,Neil Magny,1.59,2.62,2,Underdog,Underdog 2,Erick Silva,Neil Magny
+656,UFC Fight Night 74 - Holloway vs. Oliveira,Josh Burkman,Patrick Cote,Patrick Cote,1.77,2.25,2,Underdog,Underdog 2,Joshua Burkman,Patrick Cote
+657,UFC Fight Night 74 - Holloway vs. Oliveira,Chad Laprise,Francisco Trinaldo,Francisco Trinaldo,1.27,4.41,2,Underdog,Underdog 2,Chad Laprise,Francisco Trinaldo
+658,UFC Fight Night 74 - Holloway vs. Oliveira,Olivier Aubin-Mercier,Tony Sims,Olivier Aubin-Mercier,1.49,2.99,1,Favourite,Favourite 1,Olivier Aubin-Mercier,Tony Sims
+659,UFC Fight Night 74 - Holloway vs. Oliveira,Maryna Moroz,Valerie Letourneau,Valerie Letourneau,1.48,3.05,2,Underdog,Underdog 2,Maryna Moroz,Valerie Letourneau
+660,UFC Fight Night 74 - Holloway vs. Oliveira,Sam Stout,Frankie Perez,Frankie Perez,2.2,1.78,2,Favourite,Favourite 2,Frankie Perez,Sam Stout
+661,UFC Fight Night 74 - Holloway vs. Oliveira,Yves Jabouin,Felipe Arantes,Felipe Arantes,3.05,1.48,2,Favourite,Favourite 2,Felipe Arantes,Yves Jabouin
+662,UFC Fight Night 74 - Holloway vs. Oliveira,Nikita Krylov,Marcos Rogerio de Lima,Nikita Krylov,2.55,1.61,1,Underdog,Underdog 1,Marcos Rogerio de Lima,Nikita Krylov
+663,UFC Fight Night 74 - Holloway vs. Oliveira,Chris Beal,Chris Kelades,Chris Kelades,1.65,2.45,2,Underdog,Underdog 2,Chris Beal,Chris Kelades
+664,UFC Fight Night 74 - Holloway vs. Oliveira,Shane Campbell,Elias Silverio,Shane Campbell,3.19,1.43,1,Underdog,Underdog 1,Elias Silverio,Shane Campbell
+665,UFC 191 - Johnson vs. Dodson 2,Demetrious Johnson,John Dodson,Demetrious Johnson,1.2,5.75,1,Favourite,Favourite 1,Demetrious Johnson,John Dodson
+666,UFC 191 - Johnson vs. Dodson 2,Andrei Arlovski,Frank Mir,Andrei Arlovski,1.67,2.4,1,Favourite,Favourite 1,Andrei Arlovski,Frank Mir
+667,UFC 191 - Johnson vs. Dodson 2,Anthony Johnson,Jimi Manuwa,Anthony Johnson,1.2,6.1,1,Favourite,Favourite 1,Anthony Johnson,Jimi Manuwa
+668,UFC 191 - Johnson vs. Dodson 2,Corey Anderson,Jan Blachowicz,Corey Anderson,3.85,1.32,1,Underdog,Underdog 1,Jan Blachowicz,Corey Anderson
+669,UFC 191 - Johnson vs. Dodson 2,Paige VanZant,Alex Chambers,Paige VanZant,1.08,11.49,1,Favourite,Favourite 1,Paige VanZant,Alex Chambers
+670,UFC 191 - Johnson vs. Dodson 2,Paul Felder,Ross Pearson,Ross Pearson,1.23,4.81,2,Underdog,Underdog 2,Paul Felder,Ross Pearson
+671,UFC 191 - Johnson vs. Dodson 2,Francisco Rivera,John Lineker,John Lineker,2.18,1.77,2,Favourite,Favourite 2,John Lineker,Francisco Rivera
+672,UFC 191 - Johnson vs. Dodson 2,Jessica Andrade,Raquel Pennington,Raquel Pennington,1.5,3,2,Underdog,Underdog 2,Jessica Andrade,Raquel Pennington
+673,UFC 191 - Johnson vs. Dodson 2,Joe Riggs,Ron Stallings,Joe Riggs,2.59,1.63,1,Underdog,Underdog 1,Ron Stallings,Joe Riggs
+674,UFC Fight Night - Barnett vs. Nelson,Josh Barnett,Roy Nelson,Josh Barnett,1.34,3.8,1,Favourite,Favourite 1,Josh Barnett,Roy Nelson
+675,UFC Fight Night - Barnett vs. Nelson,Gegard Mousasi,Uriah Hall,Uriah Hall,1.2,5.49,2,Underdog,Underdog 2,Gegard Mousasi,Uriah Hall
+676,UFC Fight Night - Barnett vs. Nelson,Kyoji Horiguchi,Chico Camus,Kyoji Horiguchi,1.27,4.48,1,Favourite,Favourite 1,Kyoji Horiguchi,Chico Camus
+677,UFC Fight Night - Barnett vs. Nelson,Takeya Mizugaki,George Roop,Takeya Mizugaki,1.37,3.55,1,Favourite,Favourite 1,Takeya Mizugaki,George Roop
+678,UFC Fight Night - Barnett vs. Nelson,Diego Brandao,Katsunori Kikuno,Diego Brandao,1.46,3.1,1,Favourite,Favourite 1,Diego Brandao,Katsunori Kikuno
+679,UFC Fight Night - Barnett vs. Nelson,Keita Nakamura,Jingliang Li,Keita Nakamura,3.58,1.4,1,Underdog,Underdog 1,Li Jingliang,Keita Nakamura
+680,UFC Fight Night - Barnett vs. Nelson,Nick Hein,Yusuke Kasuya,Nick Hein,2.5,1.67,1,Underdog,Underdog 1,Yusuke Kasuya,Nick Hein
+681,UFC Fight Night - Barnett vs. Nelson,Naoyuki Kotani,Kajan Johnson,Kajan Johnson,3.69,1.34,2,Favourite,Favourite 2,Kajan Johnson,Naoyuki Kotani
+682,UFC 192 - Cormier vs. Gustafsson,Daniel Cormier,Alexander Gustafsson,Daniel Cormier,1.43,3.45,1,Favourite,Favourite 1,Daniel Cormier,Alexander Gustafsson
+683,UFC 192 - Cormier vs. Gustafsson,Ryan Bader,Rashad Evans,Ryan Bader,2.19,1.83,1,Underdog,Underdog 1,Rashad Evans,Ryan Bader
+684,UFC 192 - Cormier vs. Gustafsson,Ruslan Magomedov,Shawn Jordan,Ruslan Magomedov,1.56,2.7,1,Favourite,Favourite 1,Ruslan Magomedov,Shawn Jordan
+685,UFC 192 - Cormier vs. Gustafsson,Joseph Benavidez,Ali Bagautinov,Joseph Benavidez,1.33,3.91,1,Favourite,Favourite 1,Joseph Benavidez,Ali Bagautinov
+686,UFC 192 - Cormier vs. Gustafsson,Julianna Pena,Jessica Eye,Julianna Pena,1.45,3.1,1,Favourite,Favourite 1,Julianna Pena,Jessica Eye
+687,UFC 192 - Cormier vs. Gustafsson,Yair Rodriguez,Daniel Hooker,Yair Rodriguez,1.35,3.85,1,Favourite,Favourite 1,Yair Rodriguez,Dan Hooker
+688,UFC 192 - Cormier vs. Gustafsson,Alan Jouban,Albert Tumenov,Albert Tumenov,3.4,1.43,2,Favourite,Favourite 2,Albert Tumenov,Alan Jouban
+689,UFC 192 - Cormier vs. Gustafsson,Adriano Martins,Islam Makhachev,Adriano Martins,2.35,1.71,1,Underdog,Underdog 1,Islam Makhachev,Adriano Martins
+690,UFC 192 - Cormier vs. Gustafsson,Angela Hill,Rose Namajunas,Rose Namajunas,3.19,1.44,2,Favourite,Favourite 2,Rose Namajunas,Angela Hill
+691,UFC 192 - Cormier vs. Gustafsson,Sage Northcutt,Francisco Trevino,Sage Northcutt,1.24,4.81,1,Favourite,Favourite 1,Sage Northcutt,Francisco Trevino
+692,UFC 192 - Cormier vs. Gustafsson,Sergio Pettis,Chris Cariaso,Sergio Pettis,1.53,2.85,1,Favourite,Favourite 1,Sergio Pettis,Chris Cariaso
+693,UFC 192 - Cormier vs. Gustafsson,Derrick Lewis,Viktor Pesta,Derrick Lewis,2.6,1.63,1,Underdog,Underdog 1,Viktor Pesta,Derrick Lewis
+694,UFC Fight Night 76 - Holohan vs. Smolka,Patrick Holohan,Louis Smolka,Louis Smolka,2.3,1.8,2,Favourite,Favourite 2,Louis Smolka,Paddy Holohan
+695,UFC Fight Night 76 - Holohan vs. Smolka,Norman Parke,Reza Madadi,Norman Parke,1.5,3.1,1,Favourite,Favourite 1,Norman Parke,Reza Madadi
+696,UFC Fight Night 76 - Holohan vs. Smolka,Jon delos Reyes,Neil Seery,Neil Seery,2.05,1.91,2,Favourite,Favourite 2,Neil Seery,Jon Delos Reyes
+697,UFC Fight Night 76 - Holohan vs. Smolka,Stevie Ray,Mickael Lebout,Stevie Ray,1.21,5.26,1,Favourite,Favourite 1,Stevie Ray,Mickael Lebout
+698,UFC Fight Night 76 - Holohan vs. Smolka,Aisling Daly,Ericka Almeida,Aisling Daly,2,2,1,Underdog,Underdog 1,Ericka Almeida,Aisling Daly
+699,UFC Fight Night 76 - Holohan vs. Smolka,Scott Askham,Krzysztof Jotko,Krzysztof Jotko,1.77,2.25,2,Underdog,Underdog 2,Scott Askham,Krzysztof Jotko
+700,UFC Fight Night 76 - Holohan vs. Smolka,Cathal Pendred,Tom Breese,Tom Breese,3.48,1.37,2,Favourite,Favourite 2,Tom Breese,Cathal Pendred
+701,UFC Fight Night 76 - Holohan vs. Smolka,Darren Elkins,Robert Whiteford,Darren Elkins,1.71,2.4,1,Favourite,Favourite 1,Darren Elkins,Rob Whiteford
+702,UFC Fight Night 76 - Holohan vs. Smolka,Garreth McLellan,Bubba Bush,Garreth McLellan,3.91,1.36,1,Underdog,Underdog 1,Bubba Bush,Garreth McLellan
+703,UFC Fight Night 77: Belfort vs. Henderson 3,Vitor Belfort,Dan Henderson,Vitor Belfort,1.36,3.75,1,Favourite,Favourite 1,Vitor Belfort,Dan Henderson
+704,UFC Fight Night 77: Belfort vs. Henderson 3,Glover Teixeira,Patrick Cummins,Glover Teixeira,1.23,4.85,1,Favourite,Favourite 1,Glover Teixeira,Patrick Cummins
+705,UFC Fight Night 77: Belfort vs. Henderson 3,Thomas Almeida,Anthony Birchak,Thomas Almeida,6.99,1.14,1,Underdog,Underdog 1,Anthony Birchak,Thomas Almeida
+706,UFC Fight Night 77: Belfort vs. Henderson 3,Alex Oliveira,Piotr Hallmann,Alex Oliveira,1.47,3,1,Favourite,Favourite 1,Alex Oliveira,Piotr Hallmann
+707,UFC Fight Night 77: Belfort vs. Henderson 3,Gilbert Burns,Rashid Magomedov,Rashid Magomedov,2.84,1.53,2,Favourite,Favourite 2,Rashid Magomedov,Gilbert Burns
+708,UFC Fight Night 77: Belfort vs. Henderson 3,Fabio Maldonado,Corey Anderson,Corey Anderson,2.3,1.77,2,Favourite,Favourite 2,Corey Anderson,Fabio Maldonado
+709,UFC Fight Night 77: Belfort vs. Henderson 3,Gleison Tibau,Abel Trujillo,Gleison Tibau,1.83,2.14,1,Favourite,Favourite 1,Gleison Tibau,Abel Trujillo
+710,UFC Fight Night 77: Belfort vs. Henderson 3,Johnny Case,Yan Cabral,Johnny Case,5.26,1.23,1,Underdog,Underdog 1,Yan Cabral,Johnny Case
+711,UFC Fight Night 77: Belfort vs. Henderson 3,Clay Guida,Thiago Tavares,Thiago Tavares,1.69,2.4,2,Underdog,Underdog 2,Clay Guida,Thiago Tavares
+712,UFC Fight Night 77: Belfort vs. Henderson 3,Edimilson Souza,Chas Skelly,Chas Skelly,2.6,1.61,2,Favourite,Favourite 2,Chas Skelly,Kevin Souza
+713,UFC Fight Night 77: Belfort vs. Henderson 3,Viscardi Andrade,Gasan Umalatov,Viscardi Andrade,2.15,1.83,1,Underdog,Underdog 1,Gasan Umalatov,Viscardi Andrade
+714,UFC Fight Night 77: Belfort vs. Henderson 3,Pedro Munhoz,Jimmie Rivera,Jimmie Rivera,1.61,2.55,2,Underdog,Underdog 2,Pedro Munhoz,Jimmie Rivera
+715,UFC 193 - Rousey vs. Holm,Ronda Rousey,Holly Holm,Holly Holm,1.07,12.99,2,Underdog,Underdog 2,Ronda Rousey,Holly Holm
+716,UFC 193 - Rousey vs. Holm,Joanna Jedrzejczyk,Valerie Letourneau,Joanna Jedrzejczyk,1.06,12.82,1,Favourite,Favourite 1,Joanna Jedrzejczyk,Valerie Letourneau
+717,UFC 193 - Rousey vs. Holm,Mark Hunt,Antonio Silva,Mark Hunt,1.4,3.34,1,Favourite,Favourite 1,Mark Hunt,Antonio Silva
+718,UFC 193 - Rousey vs. Holm,Uriah Hall,Robert Whittaker,Robert Whittaker,1.71,2.3,2,Underdog,Underdog 2,Uriah Hall,Robert Whittaker
+719,UFC 193 - Rousey vs. Holm,Jared Rosholt,Stefan Struve,Jared Rosholt,2.16,1.83,1,Underdog,Underdog 1,Stefan Struve,Jared Rosholt
+720,UFC 193 - Rousey vs. Holm,Jake Matthews,Akbarh Arreola,Jake Matthews,1.11,8.47,1,Favourite,Favourite 1,Jake Matthews,Akbarh Arreola
+721,UFC 193 - Rousey vs. Holm,Kyle Noke,Peter Sobotta,Kyle Noke,2.6,1.63,1,Underdog,Underdog 1,Peter Sobotta,Kyle Noke
+722,UFC 193 - Rousey vs. Holm,Anthony Perosh,Gian Villante,Gian Villante,4.65,1.25,2,Favourite,Favourite 2,Gian Villante,Anthony Perosh
+723,UFC 193 - Rousey vs. Holm,Richie Vaculik,Danny Martinez,Danny Martinez,2,1.91,2,Favourite,Favourite 2,Danny Martinez,Richie Vaculik
+724,UFC 193 - Rousey vs. Holm,Daniel Kelly,Steve Montgomery,Daniel Kelly,3.4,1.39,1,Underdog,Underdog 1,Steve Montgomery,Daniel Kelly
+725,UFC 193 - Rousey vs. Holm,Rich Walsh,Steve Kennedy,Rich Walsh,1.32,3.91,1,Favourite,Favourite 1,Richard Walsh,Steve Kennedy
+726,UFC Fight Night 78 - Magny vs. Gastelum,Neil Magny,Kelvin Gastelum,Neil Magny,3.8,1.34,1,Underdog,Underdog 1,Kelvin Gastelum,Neil Magny
+727,UFC Fight Night 78 - Magny vs. Gastelum,Ricardo Lamas,Diego Sanchez,Ricardo Lamas,1.25,5.46,1,Favourite,Favourite 1,Ricardo Lamas,Diego Sanchez
+728,UFC Fight Night 78 - Magny vs. Gastelum,Jussier Formiga,Henry Cejudo,Henry Cejudo,5.49,1.2,2,Favourite,Favourite 2,Henry Cejudo,Jussier Formiga
+729,UFC Fight Night 78 - Magny vs. Gastelum,Efrain Escudero,Leandro Silva,Leandro Silva,2.4,1.71,2,Favourite,Favourite 2,Leandro Silva,Efrain Escudero
+730,UFC Fight Night 78 - Magny vs. Gastelum,Erik Perez,Taylor Lapilus,Erik Perez,1.83,2.1,1,Favourite,Favourite 1,Erik Perez,Taylor Lapilus
+731,UFC Fight Night 78 - Magny vs. Gastelum,Hector Urbina,Bartosz Fabinski,Bartosz Fabinski,2.72,1.55,2,Favourite,Favourite 2,Bartosz Fabinski,Hector Urbina
+732,UFC Fight Night 78 - Magny vs. Gastelum,Scott Jorgensen,Alejandro Perez,Alejandro Perez,1.8,2.17,2,Underdog,Underdog 2,Scott Jorgensen,Alejandro Perez
+733,UFC Fight Night 78 - Magny vs. Gastelum,Valmir Lazaro,Michel Prazeres,Michel Prazeres,2.22,1.83,2,Favourite,Favourite 2,Michel Prazeres,Valmir Lazaro
+734,UFC Fight Night 79 - Henderson vs. Masvidal,Benson Henderson,Jorge Masvidal,Benson Henderson,1.47,3.05,1,Favourite,Favourite 1,Benson Henderson,Jorge Masvidal
+735,UFC Fight Night 79 - Henderson vs. Masvidal,Dong Hyun Kim,Dominic Waters,Dong Hyun Kim,1.14,6.99,1,Favourite,Favourite 1,Dong Hyun Kim,Dominic Waters
+736,UFC Fight Night 79 - Henderson vs. Masvidal,Alberto Mina,Yoshihiro Akiyama,Alberto Mina,2.4,1.69,1,Underdog,Underdog 1,Yoshihiro Akiyama,Alberto Mina
+737,UFC Fight Night 79 - Henderson vs. Masvidal,Sam Sicilia,Doo Ho Choi,Doo Ho Choi,3.34,1.42,2,Favourite,Favourite 2,Dooho Choi,Sam Sicilia
+738,UFC Fight Night 79 - Henderson vs. Masvidal,Yui Chul Nam,Mike de la Torre,Mike de la Torre,1.91,2.09,2,Underdog,Underdog 2,Yui Chul Nam,Mike de la Torre
+739,UFC Fight Night 79 - Henderson vs. Masvidal,Tae Hyun Bang,Leo Kuntz,Tae Hyun Bang,2.55,1.7,1,Underdog,Underdog 1,Leo Kuntz,Tae Hyun Bang
+740,UFC Fight Night 79 - Henderson vs. Masvidal,Seo Hee Ham,Cortney Casey,Seo Hee Ham,2.3,1.75,1,Underdog,Underdog 1,Cortney Casey,Seohee Ham
+741,UFC Fight Night 79 - Henderson vs. Masvidal,Freddy Serrano,Zhikui Yao,Freddy Serrano,1.66,2.55,1,Favourite,Favourite 1,Fredy Serrano,Yao Zhikui
+742,UFC Fight Night - VanZant vs Namajunas,Paige VanZant,Rose Namajunas,Rose Namajunas,1.74,2.41,2,Underdog,Underdog 2,Paige VanZant,Rose Namajunas
+743,UFC Fight Night - VanZant vs Namajunas,Jim Miller,Michael Chiesa,Michael Chiesa,2.2,1.78,2,Favourite,Favourite 2,Michael Chiesa,Jim Miller
+744,UFC Fight Night - VanZant vs Namajunas,Sage Northcutt,Cody Pfister,Sage Northcutt,1.13,7.75,1,Favourite,Favourite 1,Sage Northcutt,Cody Pfister
+745,UFC Fight Night - VanZant vs Namajunas,Elias Theodorou,Thiago Santos,Thiago Santos,1.48,3.1,2,Underdog,Underdog 2,Elias Theodorou,Thiago Santos
+746,UFC Fight Night - VanZant vs Namajunas,Tim Means,John Howard,Tim Means,1.27,4.41,1,Favourite,Favourite 1,Tim Means,John Howard
+747,UFC Fight Night - VanZant vs Namajunas,Sergio Moraes,Omari Akhmedov,Sergio Moraes,2.25,1.77,1,Underdog,Underdog 1,Omari Akhmedov,Sergio Moraes
+748,UFC Fight Night - VanZant vs Namajunas,Aljamain Sterling,Johnny Eduardo,Aljamain Sterling,1.18,5.81,1,Favourite,Favourite 1,Aljamain Sterling,Johnny Eduardo
+749,UFC Fight Night - VanZant vs Namajunas,Andreas Stahl,Santiago Ponzinibbio,Santiago Ponzinibbio,2.85,1.51,2,Favourite,Favourite 2,Santiago Ponzinibbio,Andreas Stahl
+750,UFC Fight Night - VanZant vs Namajunas,Danny Roberts,Nathan Coy,Danny Roberts,1.71,2.38,1,Favourite,Favourite 1,Danny Roberts,Nathan Coy
+751,UFC Fight Night - VanZant vs Namajunas,Zubaira Tukhugov,Phillipe Nover,Zubaira Tukhugov,1.4,4,1,Favourite,Favourite 1,Zubaira Tukhugov,Phillipe Nover
+752,UFC Fight Night - VanZant vs Namajunas,Kailin Curran,Emily Kagan,Kailin Curran,1.32,4,1,Favourite,Favourite 1,Kailin Curran,Emily Peters Kagan
+753,UFC - The Ultimate Fighter 22 Finale,Frankie Edgar,Chad Mendes,Frankie Edgar,1.87,2.15,1,Favourite,Favourite 1,Frankie Edgar,Chad Mendes
+754,UFC - The Ultimate Fighter 22 Finale,Artem Lobov,Ryan Hall,Ryan Hall,1.62,2.51,2,Underdog,Underdog 2,Artem Lobov,Ryan Hall
+755,UFC - The Ultimate Fighter 22 Finale,Edson Barboza,Tony Ferguson,Tony Ferguson,2.75,1.56,2,Favourite,Favourite 2,Tony Ferguson,Edson Barboza
+756,UFC - The Ultimate Fighter 22 Finale,Joe Lauzon,Evan Dunham,Evan Dunham,2.88,1.5,2,Favourite,Favourite 2,Evan Dunham,Joe Lauzon
+757,UFC - The Ultimate Fighter 22 Finale,Gabriel Gonzaga,Konstantin Erokhin,Gabriel Gonzaga,2.11,1.87,1,Underdog,Underdog 1,Konstantin Erokhin,Gabriel Gonzaga
+758,UFC - The Ultimate Fighter 22 Finale,Mike Pierce,Ryan LaFlare,Ryan LaFlare,3,1.49,2,Favourite,Favourite 2,Ryan LaFlare,Mike Pierce
+759,UFC 194 - Aldo vs. McGregor,Jose Aldo,Conor McGregor,Conor McGregor,1.91,2.05,2,Underdog,Underdog 2,Jose Aldo,Conor McGregor
+760,UFC 194 - Aldo vs. McGregor,Chris Weidman,Luke Rockhold,Luke Rockhold,1.78,2.25,2,Underdog,Underdog 2,Chris Weidman,Luke Rockhold
+761,UFC 194 - Aldo vs. McGregor,Ronaldo Souza,Yoel Romero,Yoel Romero,1.74,2.25,2,Underdog,Underdog 2,Jacare Souza,Yoel Romero
+762,UFC 194 - Aldo vs. McGregor,Gunnar Nelson,Demian Maia,Demian Maia,2,1.94,2,Favourite,Favourite 2,Demian Maia,Gunnar Nelson
+763,UFC 194 - Aldo vs. McGregor,Max Holloway,Jeremy Stephens,Max Holloway,1.22,5.75,1,Favourite,Favourite 1,Max Holloway,Jeremy Stephens
+764,UFC 194 - Aldo vs. McGregor,Urijah Faber,Frankie Saenz,Urijah Faber,1.18,6.25,1,Favourite,Favourite 1,Urijah Faber,Frankie Saenz
+765,UFC 194 - Aldo vs. McGregor,Tecia Torres,Jocelyn Jones-Lybarger,Tecia Torres,1.35,3.66,1,Favourite,Favourite 1,Tecia Torres,Jocelyn Jones-Lybarger
+766,UFC 194 - Aldo vs. McGregor,Warlley Alves,Colby Covington,Warlley Alves,2.08,1.87,1,Underdog,Underdog 1,Colby Covington,Warlley Alves
+767,UFC 194 - Aldo vs. McGregor,Kevin Lee,Leonardo Santos,Leonardo Santos,1.18,6.41,2,Underdog,Underdog 2,Kevin Lee,Leonardo Santos
+768,UFC 194 - Aldo vs. McGregor,Joe Proctor,Magomed Mustafaev,Magomed Mustafaev,4.26,1.29,2,Favourite,Favourite 2,Magomed Mustafaev,Joe Proctor
+769,UFC 194 - Aldo vs. McGregor,John Makdessi,Yancy Medeiros,Yancy Medeiros,1.63,2.5,2,Underdog,Underdog 2,John Makdessi,Yancy Medeiros
+770,UFC 194 - Aldo vs. McGregor,Marcio Alexandre Jr.,Court McGee,Court McGee,2.6,1.59,2,Favourite,Favourite 2,Court McGee,Marcio Alexandre Junior
+771,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Rafael dos Anjos,Donald Cerrone,Rafael dos Anjos,1.56,2.7,1,Favourite,Favourite 1,Rafael Dos Anjos,Donald Cerrone
+772,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Junior dos Santos,Alistair Overeem,Alistair Overeem,1.38,3.4,2,Underdog,Underdog 2,Junior Dos Santos,Alistair Overeem
+773,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Nate Diaz,Michael Johnson,Nate Diaz,5.25,1.24,1,Underdog,Underdog 1,Michael Johnson,Nate Diaz
+774,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Randa Markos,Karolina Kowalkiewicz,Karolina Kowalkiewicz,1.53,2.78,2,Underdog,Underdog 2,Randa Markos,Karolina Kowalkiewicz
+775,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Myles Jury,Charles Oliveira,Charles Oliveira,1.63,2.55,2,Underdog,Underdog 2,Myles Jury,Charles Oliveira
+776,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Nate Marquardt,C.B. Dollaway,Nate Marquardt,4.65,1.26,1,Underdog,Underdog 1,CB Dollaway,Nate Marquardt
+777,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Sarah Kaufman,Valentina Shevchenko,Valentina Shevchenko,1.71,2.35,2,Underdog,Underdog 2,Sarah Kaufman,Valentina Shevchenko
+778,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Josh Samman,Tamdan McCrory,Tamdan McCrory,1.56,2.78,2,Underdog,Underdog 2,Josh Samman,Tamdan McCrory
+779,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Nik Lentz,Danny Castillo,Nik Lentz,1.9,2.05,1,Favourite,Favourite 1,Nik Lentz,Danny Castillo
+780,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Kamaru Usman,Leon Edwards,Kamaru Usman,2.85,1.52,1,Underdog,Underdog 1,Leon Edwards,Kamaru Usman
+781,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,Vicente Luque,Hayder Hassan,Vicente Luque,1.77,2.22,1,Favourite,Favourite 1,Vicente Luque,Hayder Hassan
+782,UFC 195 - Lawler vs Condit,Robbie Lawler,Carlos Condit,Robbie Lawler,1.95,1.95,1,Underdog,Underdog 1,Carlos Condit,Robbie Lawler
+783,UFC 195 - Lawler vs Condit,Stipe Miocic,Andrei Arlovski,Stipe Miocic,1.49,3,1,Favourite,Favourite 1,Stipe Miocic,Andrei Arlovski
+784,UFC 195 - Lawler vs Condit,Lorenz Larkin,Albert Tumenov,Albert Tumenov,3.3,1.43,2,Favourite,Favourite 2,Albert Tumenov,Lorenz Larkin
+785,UFC 195 - Lawler vs Condit,Brian Ortega,Diego Brandao,Brian Ortega,1.59,2.7,1,Favourite,Favourite 1,Brian Ortega,Diego Brandao
+786,UFC 195 - Lawler vs Condit,Abel Trujillo,Tony Sims,Abel Trujillo,2.3,1.75,1,Underdog,Underdog 1,Tony Sims,Abel Trujillo
+787,UFC 195 - Lawler vs Condit,Michael McDonald,Masanori Kanehara,Michael McDonald,1.2,5.81,1,Favourite,Favourite 1,Michael McDonald,Masanori Kanehara
+788,UFC 195 - Lawler vs Condit,Alex Morono,Kyle Noke,Alex Morono,3.75,1.33,1,Underdog,Underdog 1,Kyle Noke,Alex Morono
+789,UFC 195 - Lawler vs Condit,Nina Ansaroff,Justine Kish,Justine Kish,3.05,1.48,2,Favourite,Favourite 2,Justine Kish,Nina Ansaroff
+790,UFC 195 - Lawler vs Condit,Drew Dober,Scott Holtzman,Drew Dober,2.67,1.59,1,Underdog,Underdog 1,Scott Holtzman,Drew Dober
+791,UFC 195 - Lawler vs Condit,Dustin Poirier,Joseph Duffy,Dustin Poirier,2.6,1.69,1,Underdog,Underdog 1,Joe Duffy,Dustin Poirier
+792,UFC 195 - Lawler vs Condit,Joe Soto,Michinori Tanaka,Michinori Tanaka,2.15,1.83,2,Favourite,Favourite 2,Michinori Tanaka,Joe Soto
+793,UFC 195 - Lawler vs Condit,Edgar Garcia,Sheldon Westcott,Sheldon Westcott,2.45,1.71,2,Favourite,Favourite 2,Sheldon Westcott,Edgar Garcia
+794,UFC Fight Night - Dillashaw vs. Cruz,T.J. Dillashaw,Dominick Cruz,Dominick Cruz,1.74,2.33,2,Underdog,Underdog 2,TJ Dillashaw,Dominick Cruz
+795,UFC Fight Night - Dillashaw vs. Cruz,Anthony Pettis,Eddie Alvarez,Eddie Alvarez,1.33,4.1,2,Underdog,Underdog 2,Anthony Pettis,Eddie Alvarez
+796,UFC Fight Night - Dillashaw vs. Cruz,Travis Browne,Matt Mitrione,Travis Browne,1.69,2.35,1,Favourite,Favourite 1,Travis Browne,Matt Mitrione
+797,UFC Fight Night - Dillashaw vs. Cruz,Francisco Trinaldo,Ross Pearson,Francisco Trinaldo,2.35,1.71,1,Underdog,Underdog 1,Ross Pearson,Francisco Trinaldo
+798,UFC Fight Night - Dillashaw vs. Cruz,Patrick Cote,Ben Saunders,Patrick Cote,2.1,1.87,1,Underdog,Underdog 1,Ben Saunders,Patrick Cote
+799,UFC Fight Night - Dillashaw vs. Cruz,Tim Boetsch,Ed Herman,Ed Herman,1.48,2.9,2,Underdog,Underdog 2,Tim Boetsch,Ed Herman
+800,UFC Fight Night - Dillashaw vs. Cruz,Mehdi Baghdad,Chris Wade,Chris Wade,4.15,1.28,2,Favourite,Favourite 2,Chris Wade,Mehdi Baghdad
+801,UFC Fight Night - Dillashaw vs. Cruz,Maximo Blanco,Luke Sanders,Luke Sanders,1.89,2.05,2,Underdog,Underdog 2,Maximo Blanco,Luke Sanders
+802,UFC Fight Night - Dillashaw vs. Cruz,Paul Felder,Daron Cruickshank,Paul Felder,1.41,3.25,1,Favourite,Favourite 1,Paul Felder,Daron Cruickshank
+803,UFC Fight Night - Dillashaw vs. Cruz,"Sean O'Connell",Ilir Latifi,Ilir Latifi,3.34,1.39,2,Favourite,Favourite 2,Ilir Latifi,"Sean O'Connell"
+804,UFC Fight Night - Dillashaw vs. Cruz,Charles Rosa,Kyle Bochniak,Charles Rosa,1.41,3.21,1,Favourite,Favourite 1,Charles Rosa,Kyle Bochniak
+805,UFC Fight Night - Dillashaw vs. Cruz,Rob Font,Joey Gomez,Rob Font,1.5,2.9,1,Favourite,Favourite 1,Rob Font,Joey Gomez
+806,UFC Fight Night - Dillashaw vs. Cruz,Francimar Barroso,Elvis Mutapcic,Francimar Barroso,2.45,1.66,1,Underdog,Underdog 1,Elvis Mutapcic,Francimar Barroso
+807,UFC on Fox 18 - Johnson vs. Bader,Anthony Johnson,Ryan Bader,Anthony Johnson,1.4,3.3,1,Favourite,Favourite 1,Anthony Johnson,Ryan Bader
+808,UFC on Fox 18 - Johnson vs. Bader,Ben Rothwell,Josh Barnett,Ben Rothwell,2.23,1.76,1,Underdog,Underdog 1,Josh Barnett,Ben Rothwell
+809,UFC on Fox 18 - Johnson vs. Bader,Iuri Alcantara,Jimmie Rivera,Jimmie Rivera,2.48,1.64,2,Favourite,Favourite 2,Jimmie Rivera,Iuri Alcantara
+810,UFC on Fox 18 - Johnson vs. Bader,Sage Northcutt,Bryan Barberena,Bryan Barberena,1.47,3.13,2,Underdog,Underdog 2,Sage Northcutt,Bryan Barberena
+811,UFC on Fox 18 - Johnson vs. Bader,Tarec Saffiedine,Jake Ellenberger,Tarec Saffiedine,1.43,3.25,1,Favourite,Favourite 1,Tarec Saffiedine,Jake Ellenberger
+812,UFC on Fox 18 - Johnson vs. Bader,Olivier Aubin-Mercier,Carlos Diego Ferreira,Carlos Diego Ferreira,1.41,3.3,2,Underdog,Underdog 2,Olivier Aubin-Mercier,Diego Ferreira
+813,UFC on Fox 18 - Johnson vs. Bader,Rafael Natal,Kevin Casey,Rafael Natal,1.61,2.55,1,Favourite,Favourite 1,Rafael Natal,Kevin Casey
+814,UFC on Fox 18 - Johnson vs. Bader,Dustin Ortiz,Wilson Reis,Wilson Reis,1.47,3.1,2,Underdog,Underdog 2,Dustin Ortiz,Wilson Reis
+815,UFC on Fox 18 - Johnson vs. Bader,George Sullivan,Alexander Yakovlev,Alexander Yakovlev,2.08,1.87,2,Favourite,Favourite 2,Alexander Yakovlev,George Sullivan
+816,UFC on Fox 18 - Johnson vs. Bader,Alex Caceres,Masio Fullen,Alex Caceres,1.39,3.3,1,Favourite,Favourite 1,Alex Caceres,Masio Fullen
+817,UFC on Fox 18 - Johnson vs. Bader,Matt Dwyer,Randy Brown,Randy Brown,2.3,1.95,2,Favourite,Favourite 2,Randy Brown,Matt Dwyer
+818,UFC on Fox 18 - Johnson vs. Bader,Tony Martin,Felipe Olivieri,Tony Martin,1.68,2.61,1,Favourite,Favourite 1,Tony Martin,Felipe Olivieri
+819,UFC Fight Night 82 - Hendricks vs. Thompson,Johny Hendricks,Stephen Thompson,Stephen Thompson,1.42,3.34,2,Underdog,Underdog 2,Johny Hendricks,Stephen Thompson
+820,UFC Fight Night 82 - Hendricks vs. Thompson,Roy Nelson,Jared Rosholt,Roy Nelson,1.67,2.45,1,Favourite,Favourite 1,Roy Nelson,Jared Rosholt
+821,UFC Fight Night 82 - Hendricks vs. Thompson,Ovince St Preux,Rafael Cavalcante,Ovince St Preux,1.33,4.05,1,Favourite,Favourite 1,Ovince Saint Preux,Rafael Feijao
+822,UFC Fight Night 82 - Hendricks vs. Thompson,Joseph Benavidez,Zach Makovsky,Joseph Benavidez,1.24,4.69,1,Favourite,Favourite 1,Joseph Benavidez,Zach Makovsky
+823,UFC Fight Night 82 - Hendricks vs. Thompson,Misha Cirkunov,Alex Nicholson,Misha Cirkunov,4.74,1.25,1,Underdog,Underdog 1,Alex Nicholson,Misha Cirkunov
+824,UFC Fight Night 82 - Hendricks vs. Thompson,Mike Pyle,Sean Spencer,Mike Pyle,2.25,1.77,1,Underdog,Underdog 1,Sean Spencer,Mike Pyle
+825,UFC Fight Night 82 - Hendricks vs. Thompson,Josh Burkman,K.J. Noons,Josh Burkman,1.67,2.45,1,Favourite,Favourite 1,Joshua Burkman,KJ Noons
+826,UFC Fight Night 82 - Hendricks vs. Thompson,Derrick Lewis,Damian Grabowski,Derrick Lewis,2.05,1.91,1,Underdog,Underdog 1,Damian Grabowski,Derrick Lewis
+827,UFC Fight Night 82 - Hendricks vs. Thompson,Ray Borg,Justin Scoggins,Justin Scoggins,1.47,3.19,2,Underdog,Underdog 2,Ray Borg,Justin Scoggins
+828,UFC Fight Night 82 - Hendricks vs. Thompson,Noad Lahat,Diego Rivas,Diego Rivas,1.82,2,2,Underdog,Underdog 2,Noad Lahat,Diego Rivas
+829,UFC Fight Night 82 - Hendricks vs. Thompson,Mickey Gall,Mike Jackson,Mickey Gall,1.22,5.35,1,Favourite,Favourite 1,Mickey Gall,Mike Jackson
+830,UFC Fight Night 82 - Hendricks vs. Thompson,Alex White,Artem Lobov,Alex White,2.2,1.8,1,Underdog,Underdog 1,Artem Lobov,Alex White
+831,UFC Fight Night 82 - Cerrone vs. Oliveira,Donald Cerrone,Alex Oliveira,Donald Cerrone,1.45,3.5,1,Favourite,Favourite 1,Donald Cerrone,Alex Oliveira
+832,UFC Fight Night 82 - Cerrone vs. Oliveira,Derek Brunson,Roan Carneiro,Derek Brunson,1.3,4.44,1,Favourite,Favourite 1,Derek Brunson,Roan Carneiro
+833,UFC Fight Night 82 - Cerrone vs. Oliveira,Cody Garbrandt,Augusto Mendes,Cody Garbrandt,1.3,4.37,1,Favourite,Favourite 1,Cody Garbrandt,Augusto Mendes
+834,UFC Fight Night 82 - Cerrone vs. Oliveira,Dennis Bermudez,Tatsuya Kawajiri,Dennis Bermudez,1.31,4.35,1,Favourite,Favourite 1,Dennis Bermudez,Tatsuya Kawajiri
+835,UFC Fight Night 82 - Cerrone vs. Oliveira,Joe Riggs,Chris Camozzi,Chris Camozzi,3.25,1.43,2,Favourite,Favourite 2,Chris Camozzi,Joe Riggs
+836,UFC Fight Night 82 - Cerrone vs. Oliveira,James Krause,Shane Campbell,James Krause,1.71,2.4,1,Favourite,Favourite 1,James Krause,Shane Campbell
+837,UFC Fight Night 82 - Cerrone vs. Oliveira,Sean Strickland,Alex Garcia,Sean Strickland,2.05,1.87,1,Underdog,Underdog 1,Alex Garcia,Sean Strickland
+838,UFC Fight Night 82 - Cerrone vs. Oliveira,Oluwale Bamgbose,Daniel Sarafian,Oluwale Bamgbose,2.75,1.67,1,Underdog,Underdog 1,Daniel Sarafian,Oluwale Bamgbose
+839,UFC Fight Night 82 - Cerrone vs. Oliveira,Anthony Smith,Leonardo Guimaraes,Anthony Smith,1.77,2.2,1,Favourite,Favourite 1,Anthony Smith,Marcelo Guimaraes
+840,UFC Fight Night 82 - Cerrone vs. Oliveira,Ashlee Evans-Smith,Marion Reneau,Ashlee Evans-Smith,2.65,1.59,1,Underdog,Underdog 1,Marion Reneau,Ashlee Evans-Smith
+841,UFC Fight Night 82 - Cerrone vs. Oliveira,Anthony Hamilton,Shamil Abdurahimov,Shamil Abdurahimov,2.1,2,2,Favourite,Favourite 2,Shamil Abdurakhimov,Anthony Hamilton
+842,UFC Fight Night 84 - Silva vs. Bisping,Michael Bisping,Anderson Silva,Michael Bisping,3.4,1.38,1,Underdog,Underdog 1,Anderson Silva,Michael Bisping
+843,UFC Fight Night 84 - Silva vs. Bisping,Gegard Mousasi,Thales Leites,Gegard Mousasi,1.34,3.75,1,Favourite,Favourite 1,Gegard Mousasi,Thales Leites
+844,UFC Fight Night 84 - Silva vs. Bisping,Tom Breese,Keita Nakamura,Tom Breese,1.13,9.26,1,Favourite,Favourite 1,Tom Breese,Keita Nakamura
+845,UFC Fight Night 84 - Silva vs. Bisping,Brad Pickett,Francisco Rivera,Brad Pickett,2.6,1.67,1,Underdog,Underdog 1,Francisco Rivera,Brad Pickett
+846,UFC Fight Night 84 - Silva vs. Bisping,Makwan Amirkhani,Mike Wilkinson,Makwan Amirkhani,1.59,2.6,1,Favourite,Favourite 1,Makwan Amirkhani,Mike Wilkinson
+847,UFC Fight Night 84 - Silva vs. Bisping,Scott Askham,Chris Dempsey,Scott Askham,1.3,4.15,1,Favourite,Favourite 1,Scott Askham,Chris Dempsey
+848,UFC Fight Night 84 - Silva vs. Bisping,Arnold Allen,Yaotzin Meza,Arnold Allen,1.32,3.91,1,Favourite,Favourite 1,Arnold Allen,Yaotzin Meza
+849,UFC Fight Night 84 - Silva vs. Bisping,Brad Scott,Krzysztof Jotko,Krzysztof Jotko,2.48,1.63,2,Favourite,Favourite 2,Krzysztof Jotko,Bradley Scott
+850,UFC Fight Night 84 - Silva vs. Bisping,Rustam Khabilov,Norman Parke,Rustam Khabilov,1.44,3.15,1,Favourite,Favourite 1,Rustam Khabilov,Norman Parke
+851,UFC Fight Night 84 - Silva vs. Bisping,Daniel Omielanczuk,Jarjis Danho,Daniel Omielanczuk,1.87,2.1,1,Favourite,Favourite 1,Daniel Omielanczuk,Jarjis Danho
+852,UFC Fight Night 84 - Silva vs. Bisping,Martin Svensson,David Teymur,David Teymur,2.74,1.67,2,Favourite,Favourite 2,David Teymur,Martin Svensson
+853,UFC 196 - McGregor vs. Diaz,Nate Diaz,Conor McGregor,Nate Diaz,5,1.25,1,Underdog,Underdog 1,Conor McGregor,Nate Diaz
+854,UFC 196 - McGregor vs. Diaz,Holly Holm,Miesha Tate,Miesha Tate,1.38,3.5,2,Underdog,Underdog 2,Holly Holm,Miesha Tate
+855,UFC 196 - McGregor vs. Diaz,Ilir Latifi,Gian Villante,Ilir Latifi,1.61,2.75,1,Favourite,Favourite 1,Ilir Latifi,Gian Villante
+856,UFC 196 - McGregor vs. Diaz,Corey Anderson,Tom Lawlor,Corey Anderson,5.81,1.2,1,Underdog,Underdog 1,Tom Lawlor,Corey Anderson
+857,UFC 196 - McGregor vs. Diaz,Amanda Nunes,Valentina Shevchenko,Amanda Nunes,1.95,2,1,Favourite,Favourite 1,Amanda Nunes,Valentina Shevchenko
+858,UFC 196 - McGregor vs. Diaz,Brandon Thatch,Siyar Bahadurzada,Siyar Bahadurzada,1.33,3.8,2,Underdog,Underdog 2,Brandon Thatch,Siyar Bahadurzada
+859,UFC 196 - McGregor vs. Diaz,Erick Silva,Nordine Taleb,Nordine Taleb,1.45,3.06,2,Underdog,Underdog 2,Erick Silva,Nordine Taleb
+860,UFC 196 - McGregor vs. Diaz,Vitor Miranda,Marcelo Guimaraes,Vitor Miranda,1.37,3.65,1,Favourite,Favourite 1,Vitor Miranda,Marcelo Guimaraes
+861,UFC 196 - McGregor vs. Diaz,Darren Elkins,Chas Skelly,Darren Elkins,2.45,1.65,1,Underdog,Underdog 1,Chas Skelly,Darren Elkins
+862,UFC 196 - McGregor vs. Diaz,Jim Miller,Diego Sanchez,Diego Sanchez,1.67,2.5,2,Underdog,Underdog 2,Jim Miller,Diego Sanchez
+863,UFC 196 - McGregor vs. Diaz,Justin Salas,Jason Saggo,Jason Saggo,2,1.95,2,Favourite,Favourite 2,Jason Saggo,Justin Salas
+864,UFC Fight Night 84 - Hunt vs. Mir,Frank Mir,Mark Hunt,Mark Hunt,2.2,1.77,2,Favourite,Favourite 2,Mark Hunt,Frank Mir
+865,UFC Fight Night 84 - Hunt vs. Mir,Hector Lombard,Neil Magny,Neil Magny,1.95,2,2,Underdog,Underdog 2,Hector Lombard,Neil Magny
+866,UFC Fight Night 84 - Hunt vs. Mir,Jake Matthews,Johnny Case,Jake Matthews,2.05,1.95,1,Underdog,Underdog 1,Johnny Case,Jake Matthews
+867,UFC Fight Night 84 - Hunt vs. Mir,Daniel Kelly,Antonio Carlos Jr.,Daniel Kelly,5,1.25,1,Underdog,Underdog 1,Antonio Carlos Junior,Daniel Kelly
+868,UFC Fight Night 84 - Hunt vs. Mir,Seo Hee Ham,Bec Rawlings,Bec Rawlings,1.91,2.08,2,Underdog,Underdog 2,Seohee Ham,Bec Rawlings
+869,UFC Fight Night 84 - Hunt vs. Mir,"Brendan O'Reilly",Alan Jouban,Alan Jouban,5.35,1.22,2,Favourite,Favourite 2,Alan Jouban,"Brendan O'Reilly"
+870,UFC Fight Night 84 - Hunt vs. Mir,Daniel Hooker,Mark Eddiva,Daniel Hooker,1.55,2.75,1,Favourite,Favourite 1,Dan Hooker,Mark Eddiva
+871,UFC Fight Night 84 - Hunt vs. Mir,Leslie Smith,Rin Nakai,Leslie Smith,1.76,2.3,1,Favourite,Favourite 1,Leslie Smith,Rin Nakai
+872,UFC Fight Night 84 - Hunt vs. Mir,Rich Walsh,Viscardi Andrade,Viscardi Andrade,1.87,2.07,2,Underdog,Underdog 2,Richard Walsh,Viscardi Andrade
+873,UFC Fight Night 84 - Hunt vs. Mir,Ross Pearson,Chad Laprise,Ross Pearson,2.05,1.95,1,Underdog,Underdog 1,Chad Laprise,Ross Pearson
+874,UFC Fight Night 86 - Zagreb,Ben Rothwell,Junior dos Santos,Junior dos Santos,2.15,1.87,2,Favourite,Favourite 2,Junior Dos Santos,Ben Rothwell
+875,UFC Fight Night 86 - Zagreb,Gabriel Gonzaga,Derrick Lewis,Derrick Lewis,2.35,1.69,2,Favourite,Favourite 2,Derrick Lewis,Gabriel Gonzaga
+876,UFC Fight Night 86 - Zagreb,Francis Ngannou,Curtis Blaydes,Francis Ngannou,2.21,1.83,1,Underdog,Underdog 1,Curtis Blaydes,Francis Ngannou
+877,UFC Fight Night 86 - Zagreb,Jan Blachowicz,Igor Pokrajac,Jan Blachowicz,1.31,4,1,Favourite,Favourite 1,Jan Blachowicz,Igor Pokrajac
+878,UFC Fight Night 86 - Zagreb,Maryna Moroz,Cristina Stanciu,Maryna Moroz,1.59,2.65,1,Favourite,Favourite 1,Maryna Moroz,Cristina Stanciu
+879,UFC Fight Night 86 - Zagreb,Nicolas Dalby,Zak Cummings,Zak Cummings,1.91,2.08,2,Underdog,Underdog 2,Nicolas Dalby,Zak Cummings
+880,UFC Fight Night 86 - Zagreb,Ian Entwistle,Alejandro Perez,Alejandro Perez,1.71,2.37,2,Underdog,Underdog 2,Ian Entwistle,Alejandro Perez
+881,UFC Fight Night 86 - Zagreb,Mairbek Taisumov,Damir Hadzovic,Mairbek Taisumov,1.67,2.5,1,Favourite,Favourite 1,Mairbek Taisumov,Damir Hadzovic
+882,UFC Fight Night 86 - Zagreb,Damian Stasiak,Filip Pejic,Damian Stasiak,1.83,2.1,1,Favourite,Favourite 1,Damian Stasiak,Filip Pejic
+883,UFC Fight Night 86 - Zagreb,Lucas Martins,Robert Whiteford,Lucas Martins,1.89,2.1,1,Favourite,Favourite 1,Lucas Martins,Rob Whiteford
+884,UFC on Fox 19 - Teixeira vs. Evans,Rashad Evans,Glover Teixeira,Glover Teixeira,2.85,1.53,2,Favourite,Favourite 2,Glover Teixeira,Rashad Evans
+885,UFC on Fox 19 - Teixeira vs. Evans,Rose Namajunas,Tecia Torres,Rose Namajunas,1.61,2.65,1,Favourite,Favourite 1,Rose Namajunas,Tecia Torres
+886,UFC on Fox 19 - Teixeira vs. Evans,Darrell Horcher,Khabib Nurmagomedov,Khabib Nurmagomedov,8.5,1.12,2,Favourite,Favourite 2,Khabib Nurmagomedov,Darrell Horcher
+887,UFC on Fox 19 - Teixeira vs. Evans,Cub Swanson,Hacran Dias,Cub Swanson,1.94,2.05,1,Favourite,Favourite 1,Cub Swanson,Hacran Dias
+888,UFC on Fox 19 - Teixeira vs. Evans,Michael Chiesa,Beneil Dariush,Michael Chiesa,2.55,1.61,1,Underdog,Underdog 1,Beneil Dariush,Michael Chiesa
+889,UFC on Fox 19 - Teixeira vs. Evans,Bethe Correia,Raquel Pennington,Raquel Pennington,2.9,1.49,2,Favourite,Favourite 2,Raquel Pennington,Bethe Correia
+890,UFC on Fox 19 - Teixeira vs. Evans,Court McGee,Santiago Ponzinibbio,Santiago Ponzinibbio,2.45,1.67,2,Favourite,Favourite 2,Santiago Ponzinibbio,Court McGee
+891,UFC on Fox 19 - Teixeira vs. Evans,Randy Brown,Michael Graves,Michael Graves,2.2,1.8,2,Favourite,Favourite 2,Michael Graves,Randy Brown
+892,UFC on Fox 19 - Teixeira vs. Evans,John Dodson,Manny Gamburyan,John Dodson,1.2,5.6,1,Favourite,Favourite 1,John Dodson,Manvel Gamburyan
+893,UFC on Fox 19 - Teixeira vs. Evans,Cezar Ferreira,Oluwale Bamgbose,Cezar Ferreira,2.8,1.51,1,Underdog,Underdog 1,Oluwale Bamgbose,Cezar Ferreira
+894,UFC on Fox 19 - Teixeira vs. Evans,Omari Akhmedov,Elizeu Zaleski dos Santos,Elizeu Zaleski dos Santos,1.8,2.25,2,Underdog,Underdog 2,Omari Akhmedov,Elizeu Zaleski dos Santos
+895,UFC 197 - Jones vs. St Preux,Jon Jones,Ovince St Preux,Jon Jones,1.18,6.18,1,Favourite,Favourite 1,Jon Jones,Ovince Saint Preux
+896,UFC 197 - Jones vs. St Preux,Demetrious Johnson,Henry Cejudo,Demetrious Johnson,1.26,4.55,1,Favourite,Favourite 1,Demetrious Johnson,Henry Cejudo
+897,UFC 197 - Jones vs. St Preux,Anthony Pettis,Edson Barboza,Edson Barboza,1.63,2.55,2,Underdog,Underdog 2,Anthony Pettis,Edson Barboza
+898,UFC 197 - Jones vs. St Preux,Robert Whittaker,Rafael Natal,Robert Whittaker,1.35,3.75,1,Favourite,Favourite 1,Robert Whittaker,Rafael Natal
+899,UFC 197 - Jones vs. St Preux,Andre Fili,Yair Rodriguez,Yair Rodriguez,2.15,1.83,2,Favourite,Favourite 2,Yair Rodriguez,Andre Fili
+900,UFC 197 - Jones vs. St Preux,Sergio Pettis,Chris Kelades,Sergio Pettis,1.47,2.95,1,Favourite,Favourite 1,Sergio Pettis,Chris Kelades
+901,UFC 197 - Jones vs. St Preux,Danny Roberts,Dominique Steele,Danny Roberts,1.29,4.25,1,Favourite,Favourite 1,Danny Roberts,Dominique Steele
+902,UFC 197 - Jones vs. St Preux,Carla Esparza,Juliana Lima,Carla Esparza,1.54,2.7,1,Favourite,Favourite 1,Carla Esparza,Juliana Lima
+903,UFC 197 - Jones vs. St Preux,James Vick,Glaico Franca,James Vick,1.57,2.65,1,Favourite,Favourite 1,James Vick,Glaico Franca
+904,UFC 197 - Jones vs. St Preux,Walt Harris,Cody East,Walt Harris,2.65,1.62,1,Underdog,Underdog 1,Cody East,Walt Harris
+905,UFC 197 - Jones vs. St Preux,Marcos Rogerio de Lima,Clint Hester,Marcos Rogerio de Lima,1.78,2.18,1,Favourite,Favourite 1,Marcos Rogerio de Lima,Clint Hester
+906,UFC 197 - Jones vs. St Preux,Kevin Lee,Efrain Escudero,Kevin Lee,1.29,4.48,1,Favourite,Favourite 1,Kevin Lee,Efrain Escudero
+907,UFC Fight Night - Overeem vs. Arlovski,Alistair Overeem,Andrei Arlovski,Alistair Overeem,1.49,3,1,Favourite,Favourite 1,Alistair Overeem,Andrei Arlovski
+908,UFC Fight Night - Overeem vs. Arlovski,Stefan Struve,Antonio Silva,Stefan Struve,1.53,2.9,1,Favourite,Favourite 1,Stefan Struve,Antonio Silva
+909,UFC Fight Night - Overeem vs. Arlovski,Albert Tumenov,Gunnar Nelson,Gunnar Nelson,1.61,2.55,2,Underdog,Underdog 2,Albert Tumenov,Gunnar Nelson
+910,UFC Fight Night - Overeem vs. Arlovski,Germaine de Randamie,Anna Elmose,Germaine de Randamie,1.71,2.4,1,Favourite,Favourite 1,Germaine de Randamie,Anna Elmose
+911,UFC Fight Night - Overeem vs. Arlovski,Nikita Krylov,Francimar Barroso,Nikita Krylov,1.5,2.9,1,Favourite,Favourite 1,Nikita Krylov,Francimar Barroso
+912,UFC Fight Night - Overeem vs. Arlovski,Karolina Kowalkiewicz,Heather Clark,Karolina Kowalkiewicz,1.4,3.45,1,Favourite,Favourite 1,Karolina Kowalkiewicz,Heather Jo Clark
+913,UFC Fight Night - Overeem vs. Arlovski,Rustam Khabilov,Chris Wade,Rustam Khabilov,1.57,2.75,1,Favourite,Favourite 1,Rustam Khabilov,Chris Wade
+914,UFC Fight Night - Overeem vs. Arlovski,Garreth McLellan,Magnus Cedenblad,Magnus Cedenblad,3.65,1.36,2,Favourite,Favourite 2,Magnus Cedenblad,Garreth McLellan
+915,UFC Fight Night - Overeem vs. Arlovski,Reza Madadi,Yan Cabral,Reza Madadi,2.5,1.64,1,Underdog,Underdog 1,Yan Cabral,Reza Madadi
+916,UFC Fight Night - Overeem vs. Arlovski,Kyoji Horiguchi,Neil Seery,Kyoji Horiguchi,1.2,6.25,1,Favourite,Favourite 1,Kyoji Horiguchi,Neil Seery
+917,UFC Fight Night - Overeem vs. Arlovski,Yuta Sasaki,Willie Gates,Yuta Sasaki,2.25,1.77,1,Underdog,Underdog 1,Willie Gates,Ulka Sasaki
+918,UFC 198 - Werdum vs. Miocic,Fabricio Werdum,Stipe Miocic,Stipe Miocic,1.67,2.5,2,Underdog,Underdog 2,Fabricio Werdum,Stipe Miocic
+919,UFC 198 - Werdum vs. Miocic,Ronaldo Souza,Vitor Belfort,Ronaldo Souza,1.37,3.85,1,Favourite,Favourite 1,Jacare Souza,Vitor Belfort
+920,UFC 198 - Werdum vs. Miocic,Cristiane Justino,Leslie Smith,Cristiane Justino,1.1,14.05,1,Favourite,Favourite 1,Cris Cyborg,Leslie Smith
+921,UFC 198 - Werdum vs. Miocic,Mauricio Rua,Corey Anderson,Mauricio Rua,2.4,1.69,1,Underdog,Underdog 1,Corey Anderson,Mauricio Rua
+922,UFC 198 - Werdum vs. Miocic,Warlley Alves,Bryan Barberena,Bryan Barberena,1.41,3.45,2,Underdog,Underdog 2,Warlley Alves,Bryan Barberena
+923,UFC 198 - Werdum vs. Miocic,Demian Maia,Matt Brown,Demian Maia,1.34,3.95,1,Favourite,Favourite 1,Demian Maia,Matt Brown
+924,UFC 198 - Werdum vs. Miocic,Nate Marquardt,Thiago Santos,Thiago Santos,4,1.31,2,Favourite,Favourite 2,Thiago Santos,Nate Marquardt
+925,UFC 198 - Werdum vs. Miocic,Yancy Medeiros,Francisco Trinaldo,Francisco Trinaldo,3.05,1.46,2,Favourite,Favourite 2,Francisco Trinaldo,Yancy Medeiros
+926,UFC 198 - Werdum vs. Miocic,John Lineker,Rob Font,John Lineker,1.69,2.4,1,Favourite,Favourite 1,John Lineker,Rob Font
+927,UFC 198 - Werdum vs. Miocic,Patrick Cummins,Rogerio Nogueira,Rogerio Nogueira,1.43,3.2,2,Underdog,Underdog 2,Patrick Cummins,Rogerio Nogueira
+928,UFC 198 - Werdum vs. Miocic,Renato Carneiro,Zubaira Tukhugov,Renato Carneiro,2.45,1.65,1,Underdog,Underdog 1,Zubaira Tukhugov,Roan Carneiro
+929,UFC Fight Night - Almeida vs. Garbrandt,Thomas Almeida,Cody Garbrandt,Cody Garbrandt,1.59,2.6,2,Underdog,Underdog 2,Thomas Almeida,Cody Garbrandt
+930,UFC Fight Night - Almeida vs. Garbrandt,Renan Barao,Jeremy Stephens,Jeremy Stephens,1.67,2.5,2,Underdog,Underdog 2,Renan Barao,Jeremy Stephens
+931,UFC Fight Night - Almeida vs. Garbrandt,Tarec Saffiedine,Rick Story,Rick Story,2.1,1.91,2,Favourite,Favourite 2,Rick Story,Tarec Saffiedine
+932,UFC Fight Night - Almeida vs. Garbrandt,Vitor Miranda,Chris Camozzi,Chris Camozzi,1.83,2.15,2,Underdog,Underdog 2,Vitor Miranda,Chris Camozzi
+933,UFC Fight Night - Almeida vs. Garbrandt,Jorge Masvidal,Lorenz Larkin,Lorenz Larkin,2,2,2,Underdog,Underdog 2,Jorge Masvidal,Lorenz Larkin
+934,UFC Fight Night - Almeida vs. Garbrandt,Josh Burkman,Paul Felder,Paul Felder,3.65,1.35,2,Favourite,Favourite 2,Paul Felder,Joshua Burkman
+935,UFC Fight Night - Almeida vs. Garbrandt,Jessica Eye,Sara McMann,Sara McMann,2.25,1.8,2,Favourite,Favourite 2,Sara McMann,Jessica Eye
+936,UFC Fight Night - Almeida vs. Garbrandt,Abel Trujillo,Jordan Rinaldi,Abel Trujillo,1.36,3.7,1,Favourite,Favourite 1,Abel Trujillo,Jordan Rinaldi
+937,UFC Fight Night - Almeida vs. Garbrandt,Jake Collier,Alberto Emiliano Pereira,Jake Collier,1.91,2.05,1,Favourite,Favourite 1,Jake Collier,Alberto Uda
+938,UFC Fight Night - Almeida vs. Garbrandt,Erik Koch,Shane Campbell,Erik Koch,2.3,1.75,1,Underdog,Underdog 1,Shane Campbell,Erik Koch
+939,UFC Fight Night - Almeida vs. Garbrandt,Aljamain Sterling,Bryan Caraway,Bryan Caraway,1.34,4,2,Underdog,Underdog 2,Aljamain Sterling,Bryan Caraway
+940,UFC 199 - Rockhold vs Bisping 2,Luke Rockhold,Michael Bisping,Michael Bisping,1.19,6.4,2,Underdog,Underdog 2,Luke Rockhold,Michael Bisping
+941,UFC 199 - Rockhold vs Bisping 2,Dominick Cruz,Urijah Faber,Dominick Cruz,1.27,4.7,1,Favourite,Favourite 1,Dominick Cruz,Urijah Faber
+942,UFC 199 - Rockhold vs Bisping 2,Max Holloway,Ricardo Lamas,Max Holloway,1.39,3.55,1,Favourite,Favourite 1,Max Holloway,Ricardo Lamas
+943,UFC 199 - Rockhold vs Bisping 2,Dan Henderson,Hector Lombard,Dan Henderson,4.15,1.31,1,Underdog,Underdog 1,Hector Lombard,Dan Henderson
+944,UFC 199 - Rockhold vs Bisping 2,Dustin Poirier,Bobby Green,Dustin Poirier,1.61,2.6,1,Favourite,Favourite 1,Dustin Poirier,Bobby Green
+945,UFC 199 - Rockhold vs Bisping 2,Clay Guida,Brian Ortega,Brian Ortega,3.2,1.42,2,Favourite,Favourite 2,Brian Ortega,Clay Guida
+946,UFC 199 - Rockhold vs Bisping 2,Beneil Dariush,James Vick,Beneil Dariush,1.74,2.4,1,Favourite,Favourite 1,Beneil Dariush,James Vick
+947,UFC 199 - Rockhold vs Bisping 2,Jessica Penne,Jessica Andrade,Jessica Andrade,2.05,1.95,2,Favourite,Favourite 2,Jessica Andrade,Jessica Penne
+948,UFC 199 - Rockhold vs Bisping 2,Alex Caceres,Cole Miller,Alex Caceres,2.65,1.61,1,Underdog,Underdog 1,Cole Miller,Alex Caceres
+949,UFC 199 - Rockhold vs Bisping 2,Tom Breese,Sean Strickland,Sean Strickland,1.95,2.1,2,Underdog,Underdog 2,Tom Breese,Sean Strickland
+950,UFC Fight Night - MacDonald vs. Thompson,Rory MacDonald,Stephen Thompson,Stephen Thompson,1.91,2.03,2,Underdog,Underdog 2,Rory MacDonald,Stephen Thompson
+951,UFC Fight Night - MacDonald vs. Thompson,Donald Cerrone,Patrick Cote,Donald Cerrone,1.71,2.38,1,Favourite,Favourite 1,Donald Cerrone,Patrick Cote
+952,UFC Fight Night - MacDonald vs. Thompson,Steve Bosse,"Sean O'Connell",Steve Bosse,1.41,3.3,1,Favourite,Favourite 1,Steve Bosse,"Sean O'Connell"
+953,UFC Fight Night - MacDonald vs. Thompson,Olivier Aubin-Mercier,Thibault Gouti,Olivier Aubin-Mercier,1.29,4.28,1,Favourite,Favourite 1,Olivier Aubin-Mercier,Thibault Gouti
+954,UFC Fight Night - MacDonald vs. Thompson,Valerie Letourneau,Joanne Calderwood,Joanne Calderwood,1.68,2.5,2,Underdog,Underdog 2,Valerie Letourneau,Joanne Calderwood
+955,UFC Fight Night - MacDonald vs. Thompson,Misha Cirkunov,Ion Cutelaba,Misha Cirkunov,1.14,8.26,1,Favourite,Favourite 1,Misha Cirkunov,Ion Cutelaba
+956,UFC Fight Night - MacDonald vs. Thompson,Tamdan McCrory,Krzysztof Jotko,Krzysztof Jotko,1.58,2.75,2,Underdog,Underdog 2,Tamdan McCrory,Krzysztof Jotko
+957,UFC Fight Night - MacDonald vs. Thompson,Joe Soto,Chris Beal,Joe Soto,1.91,2.08,1,Favourite,Favourite 1,Joe Soto,Chris Beal
+958,UFC Fight Night - MacDonald vs. Thompson,Elias Theodorou,Sam Alvey,Elias Theodorou,1.43,3.25,1,Favourite,Favourite 1,Elias Theodorou,Sam Alvey
+959,UFC Fight Night - MacDonald vs. Thompson,Randa Markos,Jocelyn Jones-Lybarger,Randa Markos,1.81,2.25,1,Favourite,Favourite 1,Randa Markos,Jocelyn Jones-Lybarger
+960,UFC Fight Night - MacDonald vs. Thompson,Ali Bagautinov,Geane Herrera,Ali Bagautinov,1.4,3.25,1,Favourite,Favourite 1,Ali Bagautinov,Geane Herrera
+961,UFC Fight Night - Dos Anjos vs. Alvarez,Rafael dos Anjos,Eddie Alvarez,Eddie Alvarez,1.35,3.6,2,Underdog,Underdog 2,Rafael Dos Anjos,Eddie Alvarez
+962,UFC Fight Night - Dos Anjos vs. Alvarez,Roy Nelson,Derrick Lewis,Derrick Lewis,1.95,2.05,2,Underdog,Underdog 2,Roy Nelson,Derrick Lewis
+963,UFC Fight Night - Dos Anjos vs. Alvarez,Alan Jouban,Belal Muhammad,Alan Jouban,1.91,2.2,1,Favourite,Favourite 1,Alan Jouban,Belal Muhammad
+964,UFC Fight Night - Dos Anjos vs. Alvarez,Joseph Duffy,Mitch Clarke,Joseph Duffy,1.3,4.55,1,Favourite,Favourite 1,Joe Duffy,Mitch Clarke
+965,UFC Fight Night - Dos Anjos vs. Alvarez,Mike Pyle,Alberto Mina,Alberto Mina,1.87,2.05,2,Underdog,Underdog 2,Mike Pyle,Alberto Mina
+966,UFC Fight Night - Dos Anjos vs. Alvarez,John Makdessi,Mehdi Baghdad,John Makdessi,1.77,2.2,1,Favourite,Favourite 1,John Makdessi,Mehdi Baghdad
+967,UFC Fight Night - Dos Anjos vs. Alvarez,Anthony Birchak,Dileno Lopes,Anthony Birchak,1.46,3.05,1,Favourite,Favourite 1,Anthony Birchak,Dileno Lopes
+968,UFC Fight Night - Dos Anjos vs. Alvarez,Russell Doane,Pedro Munhoz,Pedro Munhoz,3,1.5,2,Favourite,Favourite 2,Pedro Munhoz,Russell Doane
+969,UFC Fight Night - Dos Anjos vs. Alvarez,Felipe Arantes,Jerrod Sanders,Felipe Arantes,1.67,2.45,1,Favourite,Favourite 1,Felipe Arantes,Jerrod Sanders
+970,UFC Fight Night - Dos Anjos vs. Alvarez,Gilbert Burns,Lukasz Sajewski,Gilbert Burns,1.44,3.3,1,Favourite,Favourite 1,Gilbert Burns,Lukasz Sajewski
+971,UFC - The Ultimate Fighter 23 Finale,Joanna Jedrzejczyk,Claudia Gadelha,Joanna Jedrzejczyk,1.83,2.1,1,Favourite,Favourite 1,Joanna Jedrzejczyk,Claudia Gadelha
+972,UFC - The Ultimate Fighter 23 Finale,Amanda Cooper,Tatiana Suarez,Tatiana Suarez,1.28,4.36,2,Underdog,Underdog 2,Amanda Cooper,Tatiana Suarez
+973,UFC - The Ultimate Fighter 23 Finale,Ross Pearson,Will Brooks,Will Brooks,4.4,1.29,2,Favourite,Favourite 2,Will Brooks,Ross Pearson
+974,UFC - The Ultimate Fighter 23 Finale,Doo Ho Choi,Thiago Tavares,Doo Ho Choi,1.51,2.95,1,Favourite,Favourite 1,Dooho Choi,Thiago Tavares
+975,UFC - The Ultimate Fighter 23 Finale,John Moraga,Matheus Nicolau,Matheus Nicolau,2.7,1.54,2,Favourite,Favourite 2,Matheus Nicolau,John Moraga
+976,UFC - The Ultimate Fighter 23 Finale,Cezar Ferreira,Anthony Smith,Cezar Ferreira,2.25,1.76,1,Underdog,Underdog 1,Anthony Smith,Cezar Ferreira
+977,UFC - The Ultimate Fighter 23 Finale,Jake Matthews,Kevin Lee,Kevin Lee,1.74,2.26,2,Underdog,Underdog 2,Jake Matthews,Kevin Lee
+978,UFC - The Ultimate Fighter 23 Finale,Jingliang Li,Anton Zafir,Jingliang Li,1.32,3.84,1,Favourite,Favourite 1,Li Jingliang,Anton Zafir
+979,UFC 200 - Tate vs. Nunes,Brock Lesnar,Mark Hunt,Brock Lesnar,2.4,1.69,1,Underdog,Underdog 1,Mark Hunt,Brock Lesnar
+980,UFC 200 - Tate vs. Nunes,Miesha Tate,Amanda Nunes,Amanda Nunes,1.41,3.25,2,Underdog,Underdog 2,Miesha Tate,Amanda Nunes
+981,UFC 200 - Tate vs. Nunes,Jose Aldo,Frankie Edgar,Jose Aldo,2,1.94,1,Underdog,Underdog 1,Frankie Edgar,Jose Aldo
+982,UFC 200 - Tate vs. Nunes,Daniel Cormier,Anderson Silva,Daniel Cormier,1.28,5.1,1,Favourite,Favourite 1,Daniel Cormier,Anderson Silva
+983,UFC 200 - Tate vs. Nunes,Cain Velasquez,Travis Browne,Cain Velasquez,1.36,3.46,1,Favourite,Favourite 1,Cain Velasquez,Travis Browne
+984,UFC 200 - Tate vs. Nunes,T.J. Dillashaw,Raphael Assuncao,T.J. Dillashaw,1.32,4.09,1,Favourite,Favourite 1,TJ Dillashaw,Raphael Assuncao
+985,UFC 200 - Tate vs. Nunes,Cat Zingano,Julianna Pena,Julianna Pena,1.7,2.35,2,Underdog,Underdog 2,Cat Zingano,Julianna Pena
+986,UFC 200 - Tate vs. Nunes,Johny Hendricks,Kelvin Gastelum,Kelvin Gastelum,1.98,1.94,2,Favourite,Favourite 2,Kelvin Gastelum,Johny Hendricks
+987,UFC 200 - Tate vs. Nunes,Sage Northcutt,Enrique Marin,Sage Northcutt,1.3,4.05,1,Favourite,Favourite 1,Sage Northcutt,Enrique Marin
+988,UFC 200 - Tate vs. Nunes,Joe Lauzon,Diego Sanchez,Joe Lauzon,2.05,1.91,1,Underdog,Underdog 1,Diego Sanchez,Joe Lauzon
+989,UFC 200 - Tate vs. Nunes,Gegard Mousasi,Thiago Santos,Gegard Mousasi,1.43,3.25,1,Favourite,Favourite 1,Gegard Mousasi,Thiago Santos
+990,UFC 200 - Tate vs. Nunes,Jim Miller,Takanori Gomi,Jim Miller,1.38,3.41,1,Favourite,Favourite 1,Jim Miller,Takanori Gomi
+991,UFC Fight Night 91 - McDonald vs. Lineker,John Lineker,Michael McDonald,John Lineker,1.67,2.5,1,Favourite,Favourite 1,John Lineker,Michael McDonald
+992,UFC Fight Night 91 - McDonald vs. Lineker,Tony Ferguson,Landon Vannata,Tony Ferguson,1.15,7.05,1,Favourite,Favourite 1,Tony Ferguson,Lando Vannata
+993,UFC Fight Night 91 - McDonald vs. Lineker,Tim Boetsch,Josh Samman,Tim Boetsch,2.95,1.48,1,Underdog,Underdog 1,Josh Samman,Tim Boetsch
+994,UFC Fight Night 91 - McDonald vs. Lineker,Louis Smolka,Ben Nguyen,Louis Smolka,2.15,1.8,1,Underdog,Underdog 1,Ben Nguyen,Louis Smolka
+995,UFC Fight Night 91 - McDonald vs. Lineker,Alexey Oleinik,Daniel Omielanczuk,Daniel Omielanczuk,1.53,2.75,2,Underdog,Underdog 2,Aleksei Oleinik,Daniel Omielanczuk
+996,UFC Fight Night 91 - McDonald vs. Lineker,Kyle Noke,Keita Nakamura,Keita Nakamura,1.63,2.5,2,Underdog,Underdog 2,Kyle Noke,Keita Nakamura
+997,UFC Fight Night 91 - McDonald vs. Lineker,Lauren Murphy,Katlyn Chookagian,Katlyn Chookagian,1.56,2.7,2,Underdog,Underdog 2,Lauren Murphy,Katlyn Chookagian
+998,UFC Fight Night 91 - McDonald vs. Lineker,Sam Alvey,Eric Spicely,Sam Alvey,1.38,3.45,1,Favourite,Favourite 1,Sam Alvey,Eric Spicely
+999,UFC Fight Night 91 - McDonald vs. Lineker,Cortney Casey,Cristina Stanciu,Cortney Casey,2.4,1.68,1,Underdog,Underdog 1,Cristina Stanciu,Cortney Casey
+1000,UFC Fight Night 91 - McDonald vs. Lineker,Scott Holtzman,Cody Pfister,Scott Holtzman,8,1.11,1,Underdog,Underdog 1,Cody Pfister,Scott Holtzman
+1001,UFC Fight Night 91 - McDonald vs. Lineker,Rani Yahya,Matthew Lopez,Rani Yahya,2.5,1.69,1,Underdog,Underdog 1,Matthew Lopez,Rani Yahya
+1002,UFC on Fox 20 - Holm vs. Shevchenko,Holly Holm,Valentina Shevchenko,Valentina Shevchenko,1.5,3.25,2,Underdog,Underdog 2,Holly Holm,Valentina Shevchenko
+1003,UFC on Fox 20 - Holm vs. Shevchenko,Edson Barboza,Gilbert Melendez,Edson Barboza,1.53,2.8,1,Favourite,Favourite 1,Edson Barboza,Gilbert Melendez
+1004,UFC on Fox 20 - Holm vs. Shevchenko,Francis Ngannou,Bojan Mihajlovic,Francis Ngannou,2.4,1.69,1,Underdog,Underdog 1,Bojan Mihajlovic,Francis Ngannou
+1005,UFC on Fox 20 - Holm vs. Shevchenko,Felice Herrig,Kailin Curran,Felice Herrig,2,1.95,1,Underdog,Underdog 1,Kailin Curran,Felice Herrig
+1006,UFC on Fox 20 - Holm vs. Shevchenko,Eddie Wineland,Frankie Saenz,Eddie Wineland,2.4,1.68,1,Underdog,Underdog 1,Frankie Saenz,Eddie Wineland
+1007,UFC on Fox 20 - Holm vs. Shevchenko,Darren Elkins,Godofredo Castro,Darren Elkins,1.48,3.1,1,Favourite,Favourite 1,Darren Elkins,Godofredo Pepey
+1008,UFC on Fox 20 - Holm vs. Shevchenko,Alexander Yakovlev,Kamaru Usman,Kamaru Usman,1.41,3.35,2,Underdog,Underdog 2,Alexander Yakovlev,Kamaru Usman
+1009,UFC on Fox 20 - Holm vs. Shevchenko,Michel Prazeres,J.C. Cottrell,Michel Prazeres,1.46,3,1,Favourite,Favourite 1,Michel Prazeres,JC Cottrell
+1010,UFC on Fox 20 - Holm vs. Shevchenko,Alex Oliveira,James Moontasri,Alex Oliveira,1.5,2.88,1,Favourite,Favourite 1,Alex Oliveira,James Moontasri
+1011,UFC on Fox 20 - Holm vs. Shevchenko,Jim Alers,Jason Knight,Jason Knight,1.71,2.8,2,Underdog,Underdog 2,Jim Alers,Jason Knight
+1012,UFC 201 - Lawler vs. Woodley,Robbie Lawler,Tyron Woodley,Tyron Woodley,1.68,2.4,2,Underdog,Underdog 2,Robbie Lawler,Tyron Woodley
+1013,UFC 201 - Lawler vs. Woodley,Rose Namajunas,Karolina Kowalkiewicz,Karolina Kowalkiewicz,1.57,2.8,2,Underdog,Underdog 2,Rose Namajunas,Karolina Kowalkiewicz
+1014,UFC 201 - Lawler vs. Woodley,Matt Brown,Jake Ellenberger,Jake Ellenberger,1.41,3.35,2,Underdog,Underdog 2,Matt Brown,Jake Ellenberger
+1015,UFC 201 - Lawler vs. Woodley,Erik Perez,Francisco Rivera,Erik Perez,1.67,2.46,1,Favourite,Favourite 1,Erik Perez,Francisco Rivera
+1016,UFC 201 - Lawler vs. Woodley,Ryan Benoit,Freddy Serrano,Ryan Benoit,2,1.94,1,Underdog,Underdog 1,Fredy Serrano,Ryan Benoit
+1017,UFC 201 - Lawler vs. Woodley,Nikita Krylov,Ed Herman,Nikita Krylov,1.48,3.1,1,Favourite,Favourite 1,Nikita Krylov,Ed Herman
+1018,UFC 201 - Lawler vs. Woodley,Ross Pearson,Jorge Masvidal,Jorge Masvidal,3.15,1.48,2,Favourite,Favourite 2,Jorge Masvidal,Ross Pearson
+1019,UFC 201 - Lawler vs. Woodley,Damian Grabowski,Anthony Hamilton,Anthony Hamilton,2.25,1.8,2,Favourite,Favourite 2,Anthony Hamilton,Damian Grabowski
+1020,UFC Fight Night 92 - Rodriguez vs. Caceres,Yair Rodriguez,Alex Caceres,Yair Rodriguez,1.38,3.45,1,Favourite,Favourite 1,Yair Rodriguez,Alex Caceres
+1021,UFC Fight Night 92 - Rodriguez vs. Caceres,Dennis Bermudez,Rony Jason,Dennis Bermudez,1.44,3.15,1,Favourite,Favourite 1,Dennis Bermudez,Rony Jason
+1022,UFC Fight Night 92 - Rodriguez vs. Caceres,Thales Leites,Chris Camozzi,Thales Leites,1.61,2.55,1,Favourite,Favourite 1,Thales Leites,Chris Camozzi
+1023,UFC Fight Night 92 - Rodriguez vs. Caceres,Zak Cummings,Santiago Ponzinibbio,Santiago Ponzinibbio,2.1,1.89,2,Favourite,Favourite 2,Santiago Ponzinibbio,Zak Cummings
+1024,UFC Fight Night 92 - Rodriguez vs. Caceres,Trevor Smith,Joseph Gigliotti,Trevor Smith,2.2,1.85,1,Underdog,Underdog 1,Joe Gigliotti,Trevor Smith
+1025,UFC Fight Night 92 - Rodriguez vs. Caceres,Maryna Moroz,Danielle Taylor,Maryna Moroz,1.4,3.36,1,Favourite,Favourite 1,Maryna Moroz,Danielle Taylor
+1026,UFC Fight Night 92 - Rodriguez vs. Caceres,Court McGee,Dominique Steele,Court McGee,1.52,2.9,1,Favourite,Favourite 1,Court McGee,Dominique Steele
+1027,UFC Fight Night 92 - Rodriguez vs. Caceres,Teruto Ishihara,Horacio Gutierrez,Teruto Ishihara,1.61,2.6,1,Favourite,Favourite 1,Teruto Ishihara,Horacio Gutierrez
+1028,UFC Fight Night 92 - Rodriguez vs. Caceres,Cub Swanson,Tatsuya Kawajiri,Cub Swanson,1.33,3.7,1,Favourite,Favourite 1,Cub Swanson,Tatsuya Kawajiri
+1029,UFC 202 - Diaz vs. McGregor 2,Conor McGregor,Nate Diaz,Conor McGregor,1.83,2.1,1,Favourite,Favourite 1,Conor McGregor,Nate Diaz
+1030,UFC 202 - Diaz vs. McGregor 2,Anthony Johnson,Glover Teixeira,Anthony Johnson,1.58,2.9,1,Favourite,Favourite 1,Anthony Johnson,Glover Teixeira
+1031,UFC 202 - Diaz vs. McGregor 2,Donald Cerrone,Rick Story,Donald Cerrone,1.87,2.2,1,Favourite,Favourite 1,Donald Cerrone,Rick Story
+1032,UFC 202 - Diaz vs. McGregor 2,Tim Means,Sabah Homasi,Tim Means,1.26,4.4,1,Favourite,Favourite 1,Tim Means,Sabah Homasi
+1033,UFC 202 - Diaz vs. McGregor 2,Cody Garbrandt,Takeya Mizugaki,Cody Garbrandt,1.24,5.2,1,Favourite,Favourite 1,Cody Garbrandt,Takeya Mizugaki
+1034,UFC 202 - Diaz vs. McGregor 2,Raquel Pennington,Elizabeth Phillips,Raquel Pennington,1.4,3.3,1,Favourite,Favourite 1,Raquel Pennington,Elizabeth Phillips
+1035,UFC 202 - Diaz vs. McGregor 2,Artem Lobov,Chris Avila,Artem Lobov,1.87,2.07,1,Favourite,Favourite 1,Artem Lobov,Chris Avila
+1036,UFC 202 - Diaz vs. McGregor 2,Randa Markos,Cortney Casey,Cortney Casey,1.77,2.3,2,Underdog,Underdog 2,Randa Markos,Cortney Casey
+1037,UFC 202 - Diaz vs. McGregor 2,Neil Magny,Lorenz Larkin,Lorenz Larkin,1.91,2.2,2,Underdog,Underdog 2,Neil Magny,Lorenz Larkin
+1038,UFC 202 - Diaz vs. McGregor 2,Colby Covington,Max Griffin,Colby Covington,3.25,1.44,1,Underdog,Underdog 1,Max Griffin,Colby Covington
+1039,UFC 202 - Diaz vs. McGregor 2,Marvin Vettori,Alberto Uda,Marvin Vettori,2.5,1.63,1,Underdog,Underdog 1,Alberto Uda,Marvin Vettori
+1040,UFC on Fox 21 - Condit vs. Maia,Carlos Condit,Demian Maia,Demian Maia,1.89,2.1,2,Underdog,Underdog 2,Carlos Condit,Demian Maia
+1041,UFC on Fox 21 - Condit vs. Maia,Anthony Pettis,Charles Oliveira,Anthony Pettis,1.53,2.85,1,Favourite,Favourite 1,Anthony Pettis,Charles Oliveira
+1042,UFC on Fox 21 - Condit vs. Maia,Paige VanZant,Bec Rawlings,Paige VanZant,1.49,2.9,1,Favourite,Favourite 1,Paige VanZant,Bec Rawlings
+1043,UFC on Fox 21 - Condit vs. Maia,Joe Lauzon,Jim Miller,Jim Miller,1.74,2.25,2,Underdog,Underdog 2,Joe Lauzon,Jim Miller
+1044,UFC on Fox 21 - Condit vs. Maia,Sam Alvey,Kevin Casey,Sam Alvey,1.45,3.25,1,Favourite,Favourite 1,Sam Alvey,Kevin Casey
+1045,UFC on Fox 21 - Condit vs. Maia,Garreth McLellan,Alessio Di Chirico,Alessio Di Chirico,3.6,1.37,2,Favourite,Favourite 2,Alessio Di Chirico,Garreth McLellan
+1046,UFC on Fox 21 - Condit vs. Maia,Shane Campbell,Felipe Silva,Felipe Silva,1.73,2.45,2,Underdog,Underdog 2,Shane Campbell,Felipe Silva
+1047,UFC on Fox 21 - Condit vs. Maia,Chad Laprise,Thibault Gouti,Chad Laprise,1.36,3.9,1,Favourite,Favourite 1,Chad Laprise,Thibault Gouti
+1048,UFC Fight Night - Arlovski vs. Barnett,Andrei Arlovski,Josh Barnett,Josh Barnett,2.4,1.67,2,Favourite,Favourite 2,Josh Barnett,Andrei Arlovski
+1049,UFC Fight Night - Arlovski vs. Barnett,Alexander Gustafsson,Jan Blachowicz,Alexander Gustafsson,1.17,6.35,1,Favourite,Favourite 1,Alexander Gustafsson,Jan Blachowicz
+1050,UFC Fight Night - Arlovski vs. Barnett,Ryan Bader,Ilir Latifi,Ryan Bader,1.5,2.86,1,Favourite,Favourite 1,Ryan Bader,Ilir Latifi
+1051,UFC Fight Night - Arlovski vs. Barnett,Nick Hein,Tae Hyun Bang,Nick Hein,1.31,4.2,1,Favourite,Favourite 1,Nick Hein,Tae Hyun Bang
+1052,UFC Fight Night - Arlovski vs. Barnett,Nicolas Dalby,Peter Sobotta,Peter Sobotta,1.62,2.68,2,Underdog,Underdog 2,Nicolas Dalby,Peter Sobotta
+1053,UFC Fight Night - Arlovski vs. Barnett,Leandro Issa,Taylor Lapilus,Ashlee Evans-Smith,3.35,1.4,2,Favourite,Favourite 2,Taylor Lapilus,Leandro Issa
+1054,UFC Fight Night - Arlovski vs. Barnett,Jarjis Danho,Christian Colombo,Taylor Lapilus,2.4,1.67,2,Favourite,Favourite 2,Christian Colombo,Jarjis Danho
+1055,UFC Fight Night - Arlovski vs. Barnett,Scott Askham,Jack Hermansson,Jack Hermansson,1.99,2,2,Underdog,Underdog 2,Scott Askham,Jack Hermansson
+1056,UFC Fight Night - Arlovski vs. Barnett,Rustam Khabilov,Leandro Silva,Rustam Khabilov,1.25,4.75,1,Favourite,Favourite 1,Rustam Khabilov,Leandro Silva
+1057,UFC 203 - Miocic vs. Overeem,Stipe Miocic,Alistair Overeem,Stipe Miocic,1.9,2.05,1,Favourite,Favourite 1,Stipe Miocic,Alistair Overeem
+1058,UFC 203 - Miocic vs. Overeem,Fabricio Werdum,Travis Browne,Fabricio Werdum,1.5,2.88,1,Favourite,Favourite 1,Fabricio Werdum,Travis Browne
+1059,UFC 203 - Miocic vs. Overeem,Mickey Gall,Phil Brooks,Mickey Gall,1.25,4.89,1,Favourite,Favourite 1,Mickey Gall,CM Punk
+1060,UFC 203 - Miocic vs. Overeem,Urijah Faber,Jimmie Rivera,Jimmie Rivera,2.5,1.63,2,Favourite,Favourite 2,Jimmie Rivera,Urijah Faber
+1061,UFC 203 - Miocic vs. Overeem,Joanne Calderwood,Jessica Andrade,Jessica Andrade,2.25,1.76,2,Favourite,Favourite 2,Jessica Andrade,Joanne Calderwood
+1062,UFC 203 - Miocic vs. Overeem,Jessica Eye,Bethe Correia,Bethe Correia,1.71,2.3,2,Underdog,Underdog 2,Jessica Eye,Bethe Correia
+1063,UFC 203 - Miocic vs. Overeem,Brad Tavares,Caio Magalhaes,Brad Tavares,1.55,2.7,1,Favourite,Favourite 1,Brad Tavares,Caio Magalhaes
+1064,UFC 203 - Miocic vs. Overeem,Yancy Medeiros,Sean Spencer,Yancy Medeiros,1.82,2.2,1,Favourite,Favourite 1,Yancy Medeiros,Sean Spencer
+1065,UFC Fight Night 94 - Poirier vs. Johnson,Dustin Poirier,Michael Johnson,Michael Johnson,1.63,2.5,2,Underdog,Underdog 2,Dustin Poirier,Michael Johnson
+1066,UFC Fight Night 94 - Poirier vs. Johnson,Uriah Hall,Derek Brunson,Derek Brunson,2.85,1.53,2,Favourite,Favourite 2,Derek Brunson,Uriah Hall
+1067,UFC Fight Night 94 - Poirier vs. Johnson,Evan Dunham,Rick Glenn,Evan Dunham,1.32,4,1,Favourite,Favourite 1,Evan Dunham,Rick Glenn
+1068,UFC Fight Night 94 - Poirier vs. Johnson,Roan Carneiro,Kenny Robertson,Roan Carneiro,2.1,1.95,1,Underdog,Underdog 1,Kenny Robertson,Roan Carneiro
+1069,UFC Fight Night 94 - Poirier vs. Johnson,Chris Wade,Islam Makhachev,Islam Makhachev,4.35,1.28,2,Favourite,Favourite 2,Islam Makhachev,Chris Wade
+1070,UFC Fight Night 94 - Poirier vs. Johnson,Chas Skelly,Maximo Blanco,Chas Skelly,1.59,2.75,1,Favourite,Favourite 1,Chas Skelly,Maximo Blanco
+1071,UFC Fight Night 94 - Poirier vs. Johnson,Sam Sicilia,Gabriel Benitez,Gabriel Benitez,1.3,4.17,2,Underdog,Underdog 2,Sam Sicilia,Gabriel Benitez
+1072,UFC Fight Night 94 - Poirier vs. Johnson,Augusto Montano,Belal Muhammad,Belal Muhammad,4.9,1.25,2,Favourite,Favourite 2,Belal Muhammad,Augusto Montano
+1073,UFC Fight Night 94 - Poirier vs. Johnson,Antonio Carlos Jr.,Leonardo Guimaraes,Antonio Carlos Jr.,1.44,3.35,1,Favourite,Favourite 1,Antonio Carlos Junior,Marcelo Guimaraes
+1074,UFC Fight Night 95 - Brasilia,Cristiane Justino,Lina Lansberg,Cristiane Justino,1.1,9.5,1,Favourite,Favourite 1,Cris Cyborg,Lina Lansberg
+1075,UFC Fight Night 95 - Brasilia,Renan Barao,Phillipe Nover,Renan Barao,1.24,5.1,1,Favourite,Favourite 1,Renan Barao,Phillipe Nover
+1076,UFC Fight Night 95 - Brasilia,Antonio Silva,Roy Nelson,Roy Nelson,4.9,1.24,2,Favourite,Favourite 2,Roy Nelson,Antonio Silva
+1077,UFC Fight Night 95 - Brasilia,Francisco Trinaldo,Paul Felder,Francisco Trinaldo,1.89,2.1,1,Favourite,Favourite 1,Francisco Trinaldo,Paul Felder
+1078,UFC Fight Night 95 - Brasilia,Thiago Santos,Eric Spicely,Eric Spicely,1.17,6.05,2,Underdog,Underdog 2,Thiago Santos,Eric Spicely
+1079,UFC Fight Night 95 - Brasilia,Godofredo Castro,Mike de la Torre,Godofredo Castro,1.93,2.25,1,Favourite,Favourite 1,Godofredo Pepey,Mike de la Torre
+1080,UFC Fight Night 95 - Brasilia,Gilbert Burns,Michel Prazeres,Michel Prazeres,1.48,3.15,2,Underdog,Underdog 2,Gilbert Burns,Michel Prazeres
+1081,UFC Fight Night 95 - Brasilia,Michinori Tanaka,Rani Yahya,Rani Yahya,2.15,1.93,2,Favourite,Favourite 2,Rani Yahya,Michinori Tanaka
+1082,UFC Fight Night 95 - Brasilia,Jussier Formiga,Dustin Ortiz,Jussier Formiga,1.56,2.68,1,Favourite,Favourite 1,Jussier Formiga,Dustin Ortiz
+1083,UFC Fight Night 95 - Brasilia,Erick Silva,Luan Chagas,Erick Silva,2.4,1.93,1,Underdog,Underdog 1,Luan Chagas,Erick Silva
+1084,UFC Fight Night 95 - Brasilia,Alan Patrick,Stevie Ray,Alan Patrick,3.2,1.42,1,Underdog,Underdog 1,Stevie Ray,Alan Patrick
+1085,UFC Fight Night 95 - Brasilia,Vicente Luque,Hector Urbina,Vicente Luque,4.45,1.28,1,Underdog,Underdog 1,Hector Urbina,Vicente Luque
+1086,UFC Fight Night 95 - Brasilia,Glaico Franca,Gregor Gillespie,Gregor Gillespie,1.81,2.2,2,Underdog,Underdog 2,Glaico Franca,Gregor Gillespie
+1087,UFC Fight Night 96 - Lineker vs. Dodson,John Lineker,John Dodson,John Lineker,2.1,1.85,1,Underdog,Underdog 1,John Dodson,John Lineker
+1088,UFC Fight Night 96 - Lineker vs. Dodson,Will Brooks,Alex Oliveira,Alex Oliveira,1.36,3.65,2,Underdog,Underdog 2,Will Brooks,Alex Oliveira
+1089,UFC Fight Night 96 - Lineker vs. Dodson,Josh Burkman,Zak Ottow,Zak Ottow,1.43,3.15,2,Underdog,Underdog 2,Joshua Burkman,Zak Ottow
+1090,UFC Fight Night 96 - Lineker vs. Dodson,Luis Henrique da Silva,Joachim Christensen,Luis Henrique da Silva,1.63,2.65,1,Favourite,Favourite 1,Luis Henrique,Joachim Christensen
+1091,UFC Fight Night 96 - Lineker vs. Dodson,Andre Fili,Hacran Dias,Andre Fili,2.9,1.49,1,Underdog,Underdog 1,Hacran Dias,Andre Fili
+1092,UFC Fight Night 96 - Lineker vs. Dodson,Nate Marquardt,Tamdan McCrory,Nate Marquardt,2.9,1.44,1,Underdog,Underdog 1,Tamdan McCrory,Nate Marquardt
+1093,UFC Fight Night 96 - Lineker vs. Dodson,Walt Harris,Shamil Abdurahimov,Shamil Abdurahimov,2.13,1.81,2,Favourite,Favourite 2,Shamil Abdurakhimov,Walt Harris
+1094,UFC Fight Night 96 - Lineker vs. Dodson,Keita Nakamura,Elizeu Zaleski dos Santos,Elizeu Zaleski dos Santos,1.88,2.05,2,Underdog,Underdog 2,Keita Nakamura,Elizeu Zaleski dos Santos
+1095,UFC 204 - Bisping vs. Henderson 2,Michael Bisping,Dan Henderson,Michael Bisping,1.43,3.2,1,Favourite,Favourite 1,Michael Bisping,Dan Henderson
+1096,UFC 204 - Bisping vs. Henderson 2,Gegard Mousasi,Vitor Belfort,Gegard Mousasi,1.32,3.95,1,Favourite,Favourite 1,Gegard Mousasi,Vitor Belfort
+1097,UFC 204 - Bisping vs. Henderson 2,Ovince St Preux,Jimi Manuwa,Jimi Manuwa,1.67,2.45,2,Underdog,Underdog 2,Ovince Saint Preux,Jimi Manuwa
+1098,UFC 204 - Bisping vs. Henderson 2,Stefan Struve,Daniel Omielanczuk,Stefan Struve,1.59,2.6,1,Favourite,Favourite 1,Stefan Struve,Daniel Omielanczuk
+1099,UFC 204 - Bisping vs. Henderson 2,Russell Doane,Mirsad Bektic,Mirsad Bektic,6.05,1.18,2,Favourite,Favourite 2,Mirsad Bektic,Russell Doane
+1100,UFC 204 - Bisping vs. Henderson 2,Brad Pickett,Iuri Alcantara,Iuri Alcantara,2.38,1.74,2,Favourite,Favourite 2,Iuri Alcantara,Brad Pickett
+1101,UFC 204 - Bisping vs. Henderson 2,Albert Tumenov,Leon Edwards,Leon Edwards,3.33,1.4,2,Favourite,Favourite 2,Leon Edwards,Albert Tumenov
+1102,UFC 204 - Bisping vs. Henderson 2,Marc Diakiese,Lukasz Sajewski,Marc Diakiese,1.4,3.55,1,Favourite,Favourite 1,Marc Diakiese,Lukasz Sajewski
+1103,UFC 204 - Bisping vs. Henderson 2,Danny Roberts,Mike Perry,Mike Perry,3.3,1.42,2,Favourite,Favourite 2,Mike Perry,Danny Roberts
+1104,UFC 204 - Bisping vs. Henderson 2,Leonardo Santos,Adriano Martins,Leonardo Santos,2.85,1.53,1,Underdog,Underdog 1,Adriano Martins,Leonardo Santos
+1105,UFC Mexico City,Rafael dos Anjos,Tony Ferguson,Tony Ferguson,1.8,2.28,2,Underdog,Underdog 2,Rafael Dos Anjos,Tony Ferguson
+1106,UFC Mexico City,Diego Sanchez,Marcin Held,Diego Sanchez,2.86,1.53,1,Underdog,Underdog 1,Marcin Held,Diego Sanchez
+1107,UFC Mexico City,Ricardo Lamas,Charles Oliveira,Ricardo Lamas,2.01,1.89,1,Underdog,Underdog 1,Charles Oliveira,Ricardo Lamas
+1108,UFC Mexico City,Beneil Dariush,Rashid Magomedov,Beneil Dariush,2.6,1.62,1,Underdog,Underdog 1,Rashid Magomedov,Beneil Dariush
+1109,UFC Mexico City,Alexa Grasso,Heather Clark,Alexa Grasso,1.24,4.89,1,Favourite,Favourite 1,Alexa Grasso,Heather Jo Clark
+1110,UFC Mexico City,Erik Perez,Felipe Arantes,Erik Perez,1.5,2.86,1,Favourite,Favourite 1,Erik Perez,Felipe Arantes
+1111,UFC Mexico City,Joe Soto,Marco Beltran,Joe Soto,1.87,2.06,1,Favourite,Favourite 1,Joe Soto,Marco Beltran
+1112,UFC Mexico City,Sam Alvey,Alex Nicholson,Sam Alvey,1.4,2.92,1,Favourite,Favourite 1,Sam Alvey,Alex Nicholson
+1113,UFC 205 - New York City,Eddie Alvarez,Conor McGregor,Conor McGregor,2.3,1.8,2,Favourite,Favourite 2,Conor McGregor,Eddie Alvarez
+1114,UFC 205 - New York City,Joanna Jedrzejczyk,Karolina Kowalkiewicz,Joanna Jedrzejczyk,1.29,4.95,1,Favourite,Favourite 1,Joanna Jedrzejczyk,Karolina Kowalkiewicz
+1115,UFC 205 - New York City,Chris Weidman,Yoel Romero,Yoel Romero,1.62,2.58,2,Underdog,Underdog 2,Chris Weidman,Yoel Romero
+1116,UFC 205 - New York City,Miesha Tate,Raquel Pennington,Raquel Pennington,1.62,2.62,2,Underdog,Underdog 2,Miesha Tate,Raquel Pennington
+1117,UFC 205 - New York City,Frankie Edgar,Jeremy Stephens,Frankie Edgar,1.33,3.8,1,Favourite,Favourite 1,Frankie Edgar,Jeremy Stephens
+1118,UFC 205 - New York City,Michael Johnson,Khabib Nurmagomedov,Khabib Nurmagomedov,3.68,1.36,2,Favourite,Favourite 2,Khabib Nurmagomedov,Michael Johnson
+1119,UFC 205 - New York City,Rafael Natal,Tim Boetsch,Tim Boetsch,1.65,2.38,2,Underdog,Underdog 2,Rafael Natal,Tim Boetsch
+1120,UFC 205 - New York City,Thiago Alves,Jim Miller,Jim Miller,1.67,2.4,2,Underdog,Underdog 2,Thiago Alves,Jim Miller
+1121,UFC 205 - New York City,Liz Carmouche,Katlyn Chookagian,Liz Carmouche,2.5,1.62,1,Underdog,Underdog 1,Katlyn Chookagian,Liz Carmouche
+1122,UFC Fight Night 99 - Mousasi vs. Hall,Gegard Mousasi,Uriah Hall,Gegard Mousasi,1.2,5.5,1,Favourite,Favourite 1,Gegard Mousasi,Uriah Hall
+1123,UFC Fight Night 99 - Mousasi vs. Hall,Ross Pearson,Stevie Ray,Stevie Ray,1.96,1.95,2,Favourite,Favourite 2,Stevie Ray,Ross Pearson
+1124,UFC Fight Night 99 - Mousasi vs. Hall,Timothy Johnson,Alexander Volkov,Alexander Volkov,1.74,2.35,2,Underdog,Underdog 2,Tim Johnson,Alexander Volkov
+1125,UFC Fight Night 99 - Mousasi vs. Hall,Artem Lobov,Teruto Ishihara,Artem Lobov,3.2,1.44,1,Underdog,Underdog 1,Teruto Ishihara,Artem Lobov
+1126,UFC Fight Night 99 - Mousasi vs. Hall,Magnus Cedenblad,Jack Marshman,Jack Marshman,1.43,3.2,2,Underdog,Underdog 2,Magnus Cedenblad,Jack Marshman
+1127,UFC Fight Night 99 - Mousasi vs. Hall,Kyoji Horiguchi,Ali Bagautinov,Kyoji Horiguchi,1.53,2.85,1,Favourite,Favourite 1,Kyoji Horiguchi,Ali Bagautinov
+1128,UFC Fight Night 99 - Mousasi vs. Hall,Kevin Lee,Magomed Mustafaev,Kevin Lee,1.87,2.1,1,Favourite,Favourite 1,Kevin Lee,Magomed Mustafaev
+1129,UFC Fight Night 99 - Mousasi vs. Hall,Zak Cummings,Alexander Yakovlev,Zak Cummings,1.63,2.5,1,Favourite,Favourite 1,Zak Cummings,Alexander Yakovlev
+1130,UFC Fight Night 99 - Mousasi vs. Hall,Marion Reneau,Milana Dudieva,Marion Reneau,1.5,2.95,1,Favourite,Favourite 1,Marion Reneau,Milana Dudieva
+1131,UFC Fight Night 99 - Mousasi vs. Hall,Abdul Razak Alhassan,Charlie Ward,Abdul Razak Alhassan,1.34,3.8,1,Favourite,Favourite 1,Abdul Razak Alhassan,Charlie Ward
+1132,"UFC Fight Night 100Bader vs. Nogueira 2",Ryan Bader,Rogerio Nogueira,Ryan Bader,1.3,3.65,1,Favourite,Favourite 1,Ryan Bader,Rogerio Nogueira
+1133,"UFC Fight Night 100Bader vs. Nogueira 2",Thomas Almeida,Albert Morales,Thomas Almeida,1.25,4.65,1,Favourite,Favourite 1,Thomas Almeida,Albert Morales
+1134,"UFC Fight Night 100Bader vs. Nogueira 2",Claudia Gadelha,Cortney Casey,Claudia Gadelha,1.28,3.98,1,Favourite,Favourite 1,Claudia Gadelha,Cortney Casey
+1135,"UFC Fight Night 100Bader vs. Nogueira 2",Thales Leites,Krzysztof Jotko,Krzysztof Jotko,1.65,2.26,2,Underdog,Underdog 2,Thales Leites,Krzysztof Jotko
+1136,"UFC Fight Night 100Bader vs. Nogueira 2",Warlley Alves,Kamaru Usman,Kamaru Usman,3.3,1.44,2,Favourite,Favourite 2,Kamaru Usman,Warlley Alves
+1137,"UFC Fight Night 100Bader vs. Nogueira 2",Sergio Moraes,Zak Ottow,Sergio Moraes,1.43,2.85,1,Favourite,Favourite 1,Sergio Moraes,Zak Ottow
+1138,"UFC Fight Night 100Bader vs. Nogueira 2",Marcos Rogerio de Lima,Gadzhimurad Antigulov,Gadzhimurad Antigulov,1.56,2.47,2,Underdog,Underdog 2,Marcos Rogerio de Lima,Gadzhimurad Antigulov
+1139,"UFC Fight Night 100Bader vs. Nogueira 2",Johnny Eduardo,Manny Gamburyan,Johnny Eduardo,1.41,2.97,1,Favourite,Favourite 1,Johnny Eduardo,Manvel Gamburyan
+1140,"UFC Fight Night 100Bader vs. Nogueira 2",Pedro Munhoz,Justin Scoggins,Pedro Munhoz,2.6,1.62,1,Underdog,Underdog 1,Justin Scoggins,Pedro Munhoz
+1141,"UFC Fight Night 100Bader vs. Nogueira 2",Francimar Barroso,Darren Stewart,Darren Stewart,1.69,2.15,2,Underdog,Underdog 2,Francimar Barroso,Darren Stewart
+1142,UFC Fight Night 101,Robert Whittaker,Derek Brunson,Robert Whittaker,2.25,1.75,1,Underdog,Underdog 1,Derek Brunson,Robert Whittaker
+1143,UFC Fight Night 101,Jake Matthews,Andrew Holbrook,Andrew Holbrook,2.4,1.7,2,Favourite,Favourite 2,Andrew Holbrook,Jake Matthews
+1144,UFC Fight Night 101,Omari Akhmedov,Kyle Noke,Omari Akhmedov,1.72,2.35,1,Favourite,Favourite 1,Omari Akhmedov,Kyle Noke
+1145,UFC Fight Night 101,Seo Hee Ham,Danielle Taylor,Danielle Taylor,1.89,2.15,2,Underdog,Underdog 2,Seohee Ham,Danielle Taylor
+1146,UFC Fight Night 101,Daniel Kelly,Chris Camozzi,Daniel Kelly,3,1.48,1,Underdog,Underdog 1,Chris Camozzi,Daniel Kelly
+1147,UFC Fight Night 101,Rich Walsh,Jonathan Meunier,Jonathan Meunier,1.91,2.05,2,Underdog,Underdog 2,Richard Walsh,Jonathan Meunier
+1148,UFC Fight Night 101,Daniel Hooker,Jason Knight,Jason Knight,1.65,2.45,2,Underdog,Underdog 2,Dan Hooker,Jason Knight
+1149,UFC - The Ultimate Fighter 24 Finale,Demetrious Johnson,Tim Elliott,Demetrious Johnson,1.08,9,1,Favourite,Favourite 1,Demetrious Johnson,Tim Elliott
+1150,UFC - The Ultimate Fighter 24 Finale,Joseph Benavidez,Henry Cejudo,Joseph Benavidez,1.55,2.74,1,Favourite,Favourite 1,Joseph Benavidez,Henry Cejudo
+1151,UFC - The Ultimate Fighter 24 Finale,Jorge Masvidal,Jake Ellenberger,Jorge Masvidal,1.49,2.8,1,Favourite,Favourite 1,Jorge Masvidal,Jake Ellenberger
+1152,UFC - The Ultimate Fighter 24 Finale,Ion Cutelaba,Jared Cannonier,Jared Cannonier,2.4,1.68,2,Favourite,Favourite 2,Jared Cannonier,Ion Cutelaba
+1153,UFC - The Ultimate Fighter 24 Finale,Sara McMann,Alexis Davis,Sara McMann,1.55,2.67,1,Favourite,Favourite 1,Sara McMann,Alexis Davis
+1154,UFC - The Ultimate Fighter 24 Finale,Gray Maynard,Ryan Hall,Ryan Hall,1.88,2.1,2,Underdog,Underdog 2,Gray Maynard,Ryan Hall
+1155,UFC - The Ultimate Fighter 24 Finale,Rob Font,Matt Schnell,Rob Font,1.44,3.1,1,Favourite,Favourite 1,Rob Font,Matt Schnell
+1156,UFC - The Ultimate Fighter 24 Finale,"Brendan O'Reilly",Dong Hyun Kim (2),Dong Hyun Kim (2),2.02,1.87,2,Favourite,Favourite 2,Dong Hyun Kim (2),"Brendan O'Reilly"
+1157,UFC - The Ultimate Fighter 24 Finale,Kailin Curran,Jamie Moyle,Jamie Moyle,1.68,2.36,2,Underdog,Underdog 2,Kailin Curran,Jamie Moyle
+1158,UFC - The Ultimate Fighter 24 Finale,Devin Clark,Josh Stansbury,Devin Clark,1.87,2.02,1,Favourite,Favourite 1,Devin Clark,Josh Stansbury
+1159,UFC Fight Night 102 Albany,Derrick Lewis,Shamil Abdurahimov,Derrick Lewis,1.47,3.1,1,Favourite,Favourite 1,Derrick Lewis,Shamil Abdurakhimov
+1160,UFC Fight Night 102 Albany,Francis Ngannou,Anthony Hamilton,Francis Ngannou,1.17,6,1,Favourite,Favourite 1,Francis Ngannou,Anthony Hamilton
+1161,UFC Fight Night 102 Albany,Corey Anderson,"Sean O'Connell",Corey Anderson,1.38,3.6,1,Favourite,Favourite 1,Corey Anderson,"Sean O'Connell"
+1162,UFC Fight Night 102 Albany,Justine Kish,Ashley Yoder,Justine Kish,1.48,2.96,1,Favourite,Favourite 1,Justine Kish,Ashley Yoder
+1163,UFC Fight Night 102 Albany,Randy Brown,Brian Camozzi,Randy Brown,4.8,1.25,1,Underdog,Underdog 1,Brian Camozzi,Randy Brown
+1164,UFC Fight Night 102 Albany,J.J. Aldrich,Juliana Lima,Juliana Lima,3.2,1.44,2,Favourite,Favourite 2,Juliana Lima,JJ Aldrich
+1165,UFC 206,Anthony Pettis,Max Holloway,Max Holloway,2.5,1.63,2,Favourite,Favourite 2,Max Holloway,Anthony Pettis
+1166,UFC 206,Donald Cerrone,Matt Brown,Donald Cerrone,1.4,3.26,1,Favourite,Favourite 1,Donald Cerrone,Matt Brown
+1167,UFC 206,Doo Ho Choi,Cub Swanson,Cub Swanson,1.44,3.05,2,Underdog,Underdog 2,Dooho Choi,Cub Swanson
+1168,UFC 206,Tim Kennedy,Kelvin Gastelum,Kelvin Gastelum,1.67,2.43,2,Underdog,Underdog 2,Tim Kennedy,Kelvin Gastelum
+1169,UFC 206,Jordan Mein,Emil Meek,Emil Meek,1.91,1.86,2,Favourite,Favourite 2,Emil Meek,Jordan Mein
+1170,UFC 206,Nikita Krylov,Misha Cirkunov,Misha Cirkunov,1.5,2.81,2,Underdog,Underdog 2,Nikita Krylov,Misha Cirkunov
+1171,UFC 206,Olivier Aubin-Mercier,Drew Dober,Olivier Aubin-Mercier,1.62,2.55,1,Favourite,Favourite 1,Olivier Aubin-Mercier,Drew Dober
+1172,UFC 206,Valerie Letourneau,Viviane Pereira,Viviane Pereira,1.57,2.46,2,Underdog,Underdog 2,Valerie Letourneau,Viviane Pereira
+1173,UFC 206,Mitch Gagnon,Matthew Lopez,Matthew Lopez,1.75,2.06,2,Underdog,Underdog 2,Mitch Gagnon,Matthew Lopez
+1174,UFC 206,Rustam Khabilov,Jason Saggo,Rustam Khabilov,1.45,2.79,1,Favourite,Favourite 1,Rustam Khabilov,Jason Saggo
+1175,UFC 206,Dustin Ortiz,Zach Makovsky,Dustin Ortiz,2.5,1.64,1,Underdog,Underdog 1,Zach Makovsky,Dustin Ortiz
+1176,UFC on Fox 22,Paige VanZant,Michelle Waterson,Michelle Waterson,2,1.94,2,Favourite,Favourite 2,Michelle Waterson,Paige VanZant
+1177,UFC on Fox 22,Sage Northcutt,Mickey Gall,Mickey Gall,2.35,1.69,2,Favourite,Favourite 2,Mickey Gall,Sage Northcutt
+1178,UFC on Fox 22,Urijah Faber,Brad Pickett,Urijah Faber,1.32,4.35,1,Favourite,Favourite 1,Urijah Faber,Brad Pickett
+1179,UFC on Fox 22,Alan Jouban,Mike Perry,Alan Jouban,2.17,1.8,1,Underdog,Underdog 1,Mike Perry,Alan Jouban
+1180,UFC on Fox 22,Luis Henrique da Silva,Paul Craig,Paul Craig,1.48,2.95,2,Underdog,Underdog 2,Luis Henrique,Paul Craig
+1181,UFC on Fox 22,Cole Miller,Mizuto Hirota,Mizuto Hirota,2,1.94,2,Favourite,Favourite 2,Mizuto Hirota,Cole Miller
+1182,UFC on Fox 22,Bryan Barberena,Colby Covington,Colby Covington,1.33,3.95,2,Underdog,Underdog 2,Bryan Barberena,Colby Covington
+1183,UFC on Fox 22,James Moontasri,Alex Morono,Alex Morono,2,1.96,2,Favourite,Favourite 2,Alex Morono,James Moontasri
+1184,UFC on Fox 22,Irene Aldana,Leslie Smith,Leslie Smith,1.34,3.65,2,Underdog,Underdog 2,Irene Aldana,Leslie Smith
+1185,UFC on Fox 22,Eddie Wineland,Takeya Mizugaki,Eddie Wineland,1.58,2.95,1,Favourite,Favourite 1,Eddie Wineland,Takeya Mizugaki
+1186,UFC on Fox 22,Freddy Serrano,Hector Sandoval,Hector Sandoval,2.15,1.88,2,Favourite,Favourite 2,Hector Sandoval,Fredy Serrano
+1187,UFC on Fox 22,Sultan Aliev,Bojan Velickovic,Sultan Aliev,2.45,1.67,1,Underdog,Underdog 1,Bojan Velickovic,Sultan Aliev
+1188,UFC 207,Amanda Nunes,Ronda Rousey,Amanda Nunes,2.5,1.67,1,Underdog,Underdog 1,Ronda Rousey,Amanda Nunes
+1189,UFC 207,Dominick Cruz,Cody Garbrandt,Cody Garbrandt,1.47,2.95,2,Underdog,Underdog 2,Dominick Cruz,Cody Garbrandt
+1190,UFC 207,T.J. Dillashaw,John Lineker,T.J. Dillashaw,1.54,2.85,1,Favourite,Favourite 1,TJ Dillashaw,John Lineker
+1191,UFC 207,Tarec Saffiedine,Dong Hyun Kim,Dong Hyun Kim,2.35,1.71,2,Favourite,Favourite 2,Dong Hyun Kim,Tarec Saffiedine
+1192,UFC 207,Louis Smolka,Ray Borg,Ray Borg,2.15,1.81,2,Favourite,Favourite 2,Ray Borg,Louis Smolka
+1193,UFC 207,Neil Magny,Johny Hendricks,Neil Magny,1.57,2.65,1,Favourite,Favourite 1,Neil Magny,Johny Hendricks
+1194,UFC 207,Antonio Carlos Jr.,Marvin Vettori,Antonio Carlos Jr.,1.83,2.1,1,Favourite,Favourite 1,Antonio Carlos Junior,Marvin Vettori
+1195,UFC 207,Alex Garcia,Mike Pyle,Alex Garcia,1.57,2.65,1,Favourite,Favourite 1,Alex Garcia,Mike Pyle
+1196,UFC 207,Brandon Thatch,Niko Price,Niko Price,1.68,2.4,2,Underdog,Underdog 2,Brandon Thatch,Niko Price
+1197,UFC Fight Night 103 Rodriguez vs. Penn,B.J. Penn,Yair Rodriguez,Yair Rodriguez,4.3,1.27,2,Favourite,Favourite 2,Yair Rodriguez,BJ Penn
+1198,UFC Fight Night 103 Rodriguez vs. Penn,Joe Lauzon,Marcin Held,Joe Lauzon,1.88,2.1,1,Favourite,Favourite 1,Joe Lauzon,Marcin Held
+1199,UFC Fight Night 103 Rodriguez vs. Penn,Court McGee,Ben Saunders,Ben Saunders,1.91,2.15,2,Underdog,Underdog 2,Court McGee,Ben Saunders
+1200,UFC Fight Night 103 Rodriguez vs. Penn,John Moraga,Sergio Pettis,Sergio Pettis,2.3,1.73,2,Favourite,Favourite 2,Sergio Pettis,John Moraga
+1201,UFC Fight Night 103 Rodriguez vs. Penn,Drakkar Klose,Devin Powell,Drakkar Klose,3.4,1.4,1,Underdog,Underdog 1,Devin Powell,Drakkar Klose
+1202,UFC Fight Night 103 Rodriguez vs. Penn,Frankie Saenz,Augusto Mendes,Augusto Mendes,1.65,2.45,2,Underdog,Underdog 2,Frankie Saenz,Augusto Mendes
+1203,UFC Fight Night 103 Rodriguez vs. Penn,Viktor Pesta,Alexey Oleinik,Alexey Oleinik,2.25,1.76,2,Favourite,Favourite 2,Aleksei Oleinik,Viktor Pesta
+1204,UFC Fight Night 103 Rodriguez vs. Penn,Alex White,Tony Martin,Tony Martin,2.6,1.65,2,Favourite,Favourite 2,Tony Martin,Alex White
+1205,UFC Fight Night 103 Rodriguez vs. Penn,Jocelyn Jones-Lybarger,Nina Ansaroff,Nina Ansaroff,2.38,1.74,2,Favourite,Favourite 2,Nina Ansaroff,Jocelyn Jones-Lybarger
+1206,UFC Fight Night 103 Rodriguez vs. Penn,Walt Harris,Chase Sherman,Walt Harris,1.74,2.25,1,Favourite,Favourite 1,Walt Harris,Chase Sherman
+1207,UFC Fight Night 103 Rodriguez vs. Penn,Joachim Christensen,Bojan Mihajlovic,Joachim Christensen,1.45,3.1,1,Favourite,Favourite 1,Joachim Christensen,Bojan Mihajlovic
+1208,UFC on FOX 23 Shevchenko vs. Pena,Valentina Shevchenko,Julianna Pena,Valentina Shevchenko,1.72,2.06,1,Favourite,Favourite 1,Valentina Shevchenko,Julianna Pena
+1209,UFC on FOX 23 Shevchenko vs. Pena,Donald Cerrone,Jorge Masvidal,Jorge Masvidal,1.75,2.06,2,Underdog,Underdog 2,Donald Cerrone,Jorge Masvidal
+1210,UFC on FOX 23 Shevchenko vs. Pena,Francis Ngannou,Andrei Arlovski,Francis Ngannou,1.22,5,1,Favourite,Favourite 1,Francis Ngannou,Andrei Arlovski
+1211,UFC on FOX 23 Shevchenko vs. Pena,Alex Caceres,Jason Knight,Jason Knight,2.43,1.59,2,Favourite,Favourite 2,Jason Knight,Alex Caceres
+1212,UFC on FOX 23 Shevchenko vs. Pena,Sam Alvey,Nate Marquardt,Sam Alvey,1.63,2.31,1,Favourite,Favourite 1,Sam Alvey,Nate Marquardt
+1213,UFC on FOX 23 Shevchenko vs. Pena,Alessio Di Chirico,Eric Spicely,Eric Spicely,2.01,1.78,2,Favourite,Favourite 2,Eric Spicely,Alessio Di Chirico
+1214,UFC on FOX 23 Shevchenko vs. Pena,Raphael Assuncao,Aljamain Sterling,Raphael Assuncao,1.61,2.36,1,Favourite,Favourite 1,Raphael Assuncao,Aljamain Sterling
+1215,UFC on FOX 23 Shevchenko vs. Pena,Luis Henrique da Silva,Jordan Johnson,Jordan Johnson,2.31,1.63,2,Favourite,Favourite 2,Jordan Johnson,Luis Henrique
+1216,UFC on FOX 23 Shevchenko vs. Pena,Marcos Rogerio de Lima,Jeremy Kimball,Marcos Rogerio de Lima,1.61,2.36,1,Favourite,Favourite 1,Marcos Rogerio de Lima,Jeremy Kimball
+1217,UFC FN 104 K. Zombie vs. Bermudez,Chan Sung Jung,Dennis Bermudez,Chan Sung Jung,2.69,1.57,1,Underdog,Underdog 1,Dennis Bermudez,Chan Sung Jung
+1218,UFC FN 104 K. Zombie vs. Bermudez,Alexa Grasso,Felice Herrig,Felice Herrig,1.32,3.8,2,Underdog,Underdog 2,Alexa Grasso,Felice Herrig
+1219,UFC FN 104 K. Zombie vs. Bermudez,James Vick,Abel Trujillo,James Vick,1.91,2.05,1,Favourite,Favourite 1,James Vick,Abel Trujillo
+1220,UFC FN 104 K. Zombie vs. Bermudez,Ovince St Preux,Volkan Oezdemir,Volkan Oezdemir,1.33,3.75,2,Underdog,Underdog 2,Ovince Saint Preux,Volkan Oezdemir
+1221,UFC FN 104 K. Zombie vs. Bermudez,Anthony Hamilton,Marcel Fortuna,Marcel Fortuna,1.51,2.8,2,Underdog,Underdog 2,Anthony Hamilton,Marcel Fortuna
+1222,UFC FN 104 K. Zombie vs. Bermudez,Jessica Andrade,Angela Hill,Jessica Andrade,1.19,5.5,1,Favourite,Favourite 1,Jessica Andrade,Angela Hill
+1223,UFC FN 104 K. Zombie vs. Bermudez,Chas Skelly,Chris Gruetzemacher,Chas Skelly,1.34,3.7,1,Favourite,Favourite 1,Chas Skelly,Chris Gruetzemacher
+1224,UFC FN 104 K. Zombie vs. Bermudez,Michinori Tanaka,Ricardo Ramos,Ricardo Ramos,1.74,2.3,2,Underdog,Underdog 2,Michinori Tanaka,Ricardo Ramos
+1225,UFC FN 104 K. Zombie vs. Bermudez,Tecia Torres,Bec Rawlings,Tecia Torres,1.28,4.5,1,Favourite,Favourite 1,Tecia Torres,Bec Rawlings
+1226,UFC FN 104 K. Zombie vs. Bermudez,Alex Morono,Niko Price,Niko Price,2.05,2,2,Favourite,Favourite 2,Niko Price,Alex Morono
+1227,UFC 208,Holly Holm,Germaine de Randamie,Germaine de Randamie,1.29,4.35,2,Underdog,Underdog 2,Holly Holm,Germaine de Randamie
+1228,UFC 208,Anderson Silva,Derek Brunson,Anderson Silva,2.38,1.71,1,Underdog,Underdog 1,Derek Brunson,Anderson Silva
+1229,UFC 208,Ronaldo Souza,Tim Boetsch,Ronaldo Souza,1.2,5.37,1,Favourite,Favourite 1,Jacare Souza,Tim Boetsch
+1230,UFC 208,Glover Teixeira,Jared Cannonier,Glover Teixeira,1.5,3.01,1,Favourite,Favourite 1,Glover Teixeira,Jared Cannonier
+1231,UFC 208,Dustin Poirier,Jim Miller,Dustin Poirier,1.26,4.55,1,Favourite,Favourite 1,Dustin Poirier,Jim Miller
+1232,UFC 208,Randy Brown,Belal Muhammad,Belal Muhammad,1.79,2.2,2,Underdog,Underdog 2,Randy Brown,Belal Muhammad
+1233,UFC 208,Wilson Reis,Yuta Sasaki,Wilson Reis,4.05,1.33,1,Underdog,Underdog 1,Ulka Sasaki,Wilson Reis
+1234,UFC 208,Islam Makhachev,Nik Lentz,Islam Makhachev,2.15,1.85,1,Underdog,Underdog 1,Nik Lentz,Islam Makhachev
+1235,UFC 208,Phillipe Nover,Rick Glenn,Rick Glenn,2.62,1.59,2,Favourite,Favourite 2,Rick Glenn,Phillipe Nover
+1236,UFC 208,Ryan LaFlare,Roan Carneiro,Ryan LaFlare,1.34,3.85,1,Favourite,Favourite 1,Ryan LaFlare,Roan Carneiro
+1237,UFC Fight Night 105 Lewis vs. Browne,Derrick Lewis,Travis Browne,Derrick Lewis,1.91,2,1,Favourite,Favourite 1,Derrick Lewis,Travis Browne
+1238,UFC Fight Night 105 Lewis vs. Browne,Hector Lombard,Johny Hendricks,Johny Hendricks,1.9,2.1,2,Underdog,Underdog 2,Hector Lombard,Johny Hendricks
+1239,UFC Fight Night 105 Lewis vs. Browne,Elias Theodorou,Cezar Ferreira,Elias Theodorou,2.1,1.91,1,Underdog,Underdog 1,Cezar Ferreira,Elias Theodorou
+1240,UFC Fight Night 105 Lewis vs. Browne,Sam Sicilia,Gavin Tucker,Gavin Tucker,2.5,1.62,2,Favourite,Favourite 2,Gavin Tucker,Sam Sicilia
+1241,UFC Fight Night 105 Lewis vs. Browne,Sara McMann,Gina Mazany,Sara McMann,1.2,5.5,1,Favourite,Favourite 1,Sara McMann,Gina Mazany
+1242,UFC Fight Night 105 Lewis vs. Browne,Nordine Taleb,Santiago Ponzinibbio,Santiago Ponzinibbio,4.2,1.29,2,Favourite,Favourite 2,Santiago Ponzinibbio,Nordine Taleb
+1243,UFC Fight Night 105 Lewis vs. Browne,Carla Esparza,Randa Markos,Randa Markos,1.37,3.5,2,Underdog,Underdog 2,Carla Esparza,Randa Markos
+1244,UFC Fight Night 105 Lewis vs. Browne,Thiago Santos,Jack Marshman,Thiago Santos,1.62,2.62,1,Favourite,Favourite 1,Thiago Santos,Jack Marshman
+1245,UFC 209,Tyron Woodley,Stephen Thompson,Tyron Woodley,2.33,1.71,1,Underdog,Underdog 1,Stephen Thompson,Tyron Woodley
+1246,UFC 209,Rashad Evans,Daniel Kelly,Daniel Kelly,1.49,4.35,2,Underdog,Underdog 2,Rashad Evans,Daniel Kelly
+1247,UFC 209,Amanda Cooper,Cynthia Calvillo,Cynthia Calvillo,2.1,1.85,2,Favourite,Favourite 2,Cynthia Calvillo,Amanda Cooper
+1248,UFC 209,Alistair Overeem,Mark Hunt,Alistair Overeem,1.77,2.25,1,Favourite,Favourite 1,Alistair Overeem,Mark Hunt
+1249,UFC 209,Mirsad Bektic,Darren Elkins,Darren Elkins,1.16,6.53,2,Underdog,Underdog 2,Mirsad Bektic,Darren Elkins
+1250,UFC 209,Iuri Alcantara,Luke Sanders,Iuri Alcantara,2.2,1.8,1,Underdog,Underdog 1,Luke Sanders,Iuri Alcantara
+1251,UFC 209,Mark Godbeer,Daniel Spitz,Mark Godbeer,2.3,1.74,1,Underdog,Underdog 1,Daniel Spitz,Mark Godbeer
+1252,UFC 209,Tyson Pedro,Paul Craig,Tyson Pedro,1.89,2.15,1,Favourite,Favourite 1,Tyson Pedro,Paul Craig
+1253,UFC Fight Night 106 Belfort vs. Gastelum,Vitor Belfort,Kelvin Gastelum,Kelvin Gastelum,4.15,1.29,2,Favourite,Favourite 2,Kelvin Gastelum,Vitor Belfort
+1254,UFC Fight Night 106 Belfort vs. Gastelum,Mauricio Rua,Gian Villante,Mauricio Rua,1.7,2.36,1,Favourite,Favourite 1,Mauricio Rua,Gian Villante
+1255,UFC Fight Night 106 Belfort vs. Gastelum,Edson Barboza,Beneil Dariush,Edson Barboza,1.68,2.5,1,Favourite,Favourite 1,Edson Barboza,Beneil Dariush
+1256,UFC Fight Night 106 Belfort vs. Gastelum,Jussier Formiga,Ray Borg,Ray Borg,2.1,1.88,2,Favourite,Favourite 2,Ray Borg,Jussier Formiga
+1258,UFC Fight Night 106 Belfort vs. Gastelum,Tim Means,Alex Oliveira,Alex Oliveira,1.56,2.75,2,Underdog,Underdog 2,Tim Means,Alex Oliveira
+1259,UFC Fight Night 106 Belfort vs. Gastelum,Francisco Trinaldo,Kevin Lee,Kevin Lee,2.61,1.67,2,Favourite,Favourite 2,Kevin Lee,Francisco Trinaldo
+1260,UFC Fight Night 106 Belfort vs. Gastelum,Sergio Moraes,Davi Ramos,Sergio Moraes,1.5,3.1,1,Favourite,Favourite 1,Sergio Moraes,Davi Ramos
+1261,UFC Fight Night 106 Belfort vs. Gastelum,Rani Yahya,Joe Soto,Joe Soto,1.57,2.9,2,Underdog,Underdog 2,Rani Yahya,Joe Soto
+1262,UFC Fight Night 106 Belfort vs. Gastelum,Josh Burkman,Michel Prazeres,Michel Prazeres,3.25,1.41,2,Favourite,Favourite 2,Michel Prazeres,Joshua Burkman
+1263,UFC Fight Night 106 Belfort vs. Gastelum,Rony Jason,Jeremy Kennedy,Jeremy Kennedy,2.35,1.71,2,Favourite,Favourite 2,Jeremy Kennedy,Rony Jason
+1265,UFC Fight Night 107 Manuwa vs. Anderson,Corey Anderson,Jimi Manuwa,Jimi Manuwa,2.25,1.76,2,Favourite,Favourite 2,Jimi Manuwa,Corey Anderson
+1266,UFC Fight Night 107 Manuwa vs. Anderson,Gunnar Nelson,Alan Jouban,Gunnar Nelson,1.35,3.8,1,Favourite,Favourite 1,Gunnar Nelson,Alan Jouban
+1267,UFC Fight Night 107 Manuwa vs. Anderson,Brad Pickett,Marlon Vera,Marlon Vera,1.8,2.15,2,Underdog,Underdog 2,Brad Pickett,Marlon Vera
+1268,UFC Fight Night 107 Manuwa vs. Anderson,Arnold Allen,Makwan Amirkhani,Arnold Allen,2.16,1.69,1,Underdog,Underdog 1,Makwan Amirkhani,Arnold Allen
+1269,UFC Fight Night 107 Manuwa vs. Anderson,Joseph Duffy,Reza Madadi,Joseph Duffy,1.19,6.07,1,Favourite,Favourite 1,Joe Duffy,Reza Madadi
+1270,UFC Fight Night 107 Manuwa vs. Anderson,Daniel Omielanczuk,Timothy Johnson,Timothy Johnson,1.74,2.3,2,Underdog,Underdog 2,Daniel Omielanczuk,Tim Johnson
+1271,UFC Fight Night 107 Manuwa vs. Anderson,Leon Edwards,Vicente Luque,Leon Edwards,1.46,3.05,1,Favourite,Favourite 1,Leon Edwards,Vicente Luque
+1272,UFC Fight Night 107 Manuwa vs. Anderson,Marc Diakiese,Teemu Packalen,Marc Diakiese,3.41,1.37,1,Underdog,Underdog 1,Teemu Packalen,Marc Diakiese
+1273,UFC Fight Night 107 Manuwa vs. Anderson,Scott Askham,Brad Scott,Brad Scott,1.73,2.36,2,Underdog,Underdog 2,Scott Askham,Bradley Scott
+1274,UFC 210 - Cormier vs. Johnson 2,Daniel Cormier,Anthony Johnson,Daniel Cormier,2.1,1.83,1,Underdog,Underdog 1,Anthony Johnson,Daniel Cormier
+1275,UFC 210 - Cormier vs. Johnson 2,Gegard Mousasi,Chris Weidman,Gegard Mousasi,1.87,2.05,1,Favourite,Favourite 1,Gegard Mousasi,Chris Weidman
+1276,UFC 210 - Cormier vs. Johnson 2,Cynthia Calvillo,Pearl Gonzalez,Cynthia Calvillo,1.39,3.7,1,Favourite,Favourite 1,Cynthia Calvillo,Pearl Gonzalez
+1277,UFC 210 - Cormier vs. Johnson 2,Thiago Alves,Patrick Cote,Thiago Alves,2.2,1.77,1,Underdog,Underdog 1,Patrick Cote,Thiago Alves
+1278,UFC 210 - Cormier vs. Johnson 2,Will Brooks,Charles Oliveira,Charles Oliveira,1.46,3,2,Underdog,Underdog 2,Will Brooks,Charles Oliveira
+1279,UFC 210 - Cormier vs. Johnson 2,Myles Jury,Mike de la Torre,Myles Jury,1.25,4.8,1,Favourite,Favourite 1,Myles Jury,Mike de la Torre
+1280,UFC 210 - Cormier vs. Johnson 2,Kamaru Usman,Sean Strickland,Kamaru Usman,2.85,1.5,1,Underdog,Underdog 1,Sean Strickland,Kamaru Usman
+1281,UFC 210 - Cormier vs. Johnson 2,Charles Rosa,Shane Burgos,Shane Burgos,2.5,1.64,2,Favourite,Favourite 2,Shane Burgos,Charles Rosa
+1282,UFC 210 - Cormier vs. Johnson 2,Patrick Cummins,Jan Blachowicz,Patrick Cummins,2.01,1.91,1,Underdog,Underdog 1,Jan Blachowicz,Patrick Cummins
+1283,UFC 210 - Cormier vs. Johnson 2,Desmond Green,Josh Emmett,Desmond Green,3,1.5,1,Underdog,Underdog 1,Josh Emmett,Desmond Green
+1284,UFC 210 - Cormier vs. Johnson 2,Irene Aldana,Katlyn Chookagian,Katlyn Chookagian,2.3,1.73,2,Favourite,Favourite 2,Katlyn Chookagian,Irene Aldana
+1285,UFC on Fox 24 -  Johnson vs Reis,Demetrious Johnson,Wilson Reis,Demetrious Johnson,1.14,7.6,1,Favourite,Favourite 1,Demetrious Johnson,Wilson Reis
+1286,UFC on Fox 24 -  Johnson vs Reis,Michelle Waterson,Rose Namajunas,Rose Namajunas,2.1,1.94,2,Favourite,Favourite 2,Rose Namajunas,Michelle Waterson
+1287,UFC on Fox 24 -  Johnson vs Reis,Ronaldo Souza,Robert Whittaker,Robert Whittaker,1.59,3.1,2,Underdog,Underdog 2,Jacare Souza,Robert Whittaker
+1288,UFC on Fox 24 -  Johnson vs Reis,Jeremy Stephens,Renato Carneiro,Renato Carneiro,1.59,2.6,2,Underdog,Underdog 2,Jeremy Stephens,Roan Carneiro
+1289,UFC on Fox 24 -  Johnson vs Reis,Roy Nelson,Alexander Volkov,Alexander Volkov,2.4,1.67,2,Favourite,Favourite 2,Alexander Volkov,Roy Nelson
+1290,UFC on Fox 24 -  Johnson vs Reis,Tom Duquesnoy,Patrick Williams,Tom Duquesnoy,1.11,9,1,Favourite,Favourite 1,Tom Duquesnoy,Patrick Williams
+1291,UFC on Fox 24 -  Johnson vs Reis,Bobby Green,Rashid Magomedov,Rashid Magomedov,3.9,1.33,2,Favourite,Favourite 2,Rashid Magomedov,Bobby Green
+1292,UFC on Fox 24 -  Johnson vs Reis,Aljamain Sterling,Augusto Mendes,Aljamain Sterling,1.28,4.4,1,Favourite,Favourite 1,Aljamain Sterling,Augusto Mendes
+1293,UFC on Fox 24 -  Johnson vs Reis,Tim Elliott,Louis Smolka,Tim Elliott,1.58,2.75,1,Favourite,Favourite 1,Tim Elliott,Louis Smolka
+1294,UFC on Fox 24 -  Johnson vs Reis,Anthony Smith,Andrew Sanchez,Anthony Smith,2.01,1.89,1,Underdog,Underdog 1,Andrew Sanchez,Anthony Smith
+1295,UFC on Fox 24 -  Johnson vs Reis,Nathan Coy,Zak Cummings,Zak Cummings,5.5,1.25,2,Favourite,Favourite 2,Zak Cummings,Nathan Coy
+1296,UFC Fight Night 108 Swanson vs. Lobov,Cub Swanson,Artem Lobov,Cub Swanson,1.19,6.4,1,Favourite,Favourite 1,Cub Swanson,Artem Lobov
+1297,UFC Fight Night 108 Swanson vs. Lobov,Diego Sanchez,Al Iaquinta,Al Iaquinta,4.4,1.26,2,Favourite,Favourite 2,Al Iaquinta,Diego Sanchez
+1298,UFC Fight Night 108 Swanson vs. Lobov,Ovince St Preux,Marcos Rogerio de Lima,Ovince St Preux,1.65,2.45,1,Favourite,Favourite 1,Ovince Saint Preux,Marcos Rogerio de Lima
+1299,UFC Fight Night 108 Swanson vs. Lobov,John Dodson,Eddie Wineland,John Dodson,1.24,4.8,1,Favourite,Favourite 1,John Dodson,Eddie Wineland
+1300,UFC Fight Night 108 Swanson vs. Lobov,Joe Lauzon,Stevie Ray,Stevie Ray,2.66,1.57,2,Favourite,Favourite 2,Stevie Ray,Joe Lauzon
+1301,UFC Fight Night 108 Swanson vs. Lobov,Jake Ellenberger,Mike Perry,Mike Perry,1.94,2,2,Underdog,Underdog 2,Jake Ellenberger,Mike Perry
+1302,UFC Fight Night 108 Swanson vs. Lobov,Thales Leites,Sam Alvey,Thales Leites,1.83,2.1,1,Favourite,Favourite 1,Thales Leites,Sam Alvey
+1303,UFC Fight Night 108 Swanson vs. Lobov,Dustin Ortiz,Brandon Moreno,Brandon Moreno,4.9,1.23,2,Favourite,Favourite 2,Brandon Moreno,Dustin Ortiz
+1304,UFC Fight Night 108 Swanson vs. Lobov,Scott Holtzman,Michael McBride,Scott Holtzman,1.36,3.55,1,Favourite,Favourite 1,Scott Holtzman,Michael McBride
+1305,UFC Fight Night 108 Swanson vs. Lobov,Alexis Davis,Cindy Dandois,Alexis Davis,1.37,3.55,1,Favourite,Favourite 1,Alexis Davis,Cindy Dandois
+1306,UFC Fight Night 108 Swanson vs. Lobov,Bryan Barberena,Joe Proctor,Bryan Barberena,1.21,5.8,1,Favourite,Favourite 1,Bryan Barberena,Joe Proctor
+1307,UFC 211 - Miocic vs. Dos Santos,Stipe Miocic,Junior dos Santos,Stipe Miocic,1.74,2.25,1,Favourite,Favourite 1,Stipe Miocic,Junior Dos Santos
+1308,UFC 211 - Miocic vs. Dos Santos,Joanna Jedrzejczyk,Jessica Andrade,Joanna Jedrzejczyk,1.57,2.8,1,Favourite,Favourite 1,Joanna Jedrzejczyk,Jessica Andrade
+1309,UFC 211 - Miocic vs. Dos Santos,Demian Maia,Jorge Masvidal,Demian Maia,2.1,1.87,1,Underdog,Underdog 1,Jorge Masvidal,Demian Maia
+1310,UFC 211 - Miocic vs. Dos Santos,Frankie Edgar,Yair Rodriguez,Frankie Edgar,1.87,2.2,1,Favourite,Favourite 1,Frankie Edgar,Yair Rodriguez
+1311,UFC 211 - Miocic vs. Dos Santos,David Branch,Krzysztof Jotko,David Branch,2.4,1.67,1,Underdog,Underdog 1,Krzysztof Jotko,David Branch
+1312,UFC 211 - Miocic vs. Dos Santos,Chas Skelly,Jason Knight,Jason Knight,1.95,2.05,2,Underdog,Underdog 2,Chas Skelly,Jason Knight
+1313,UFC 211 - Miocic vs. Dos Santos,James Vick,Polo Reyes,James Vick,1.27,4.55,1,Favourite,Favourite 1,James Vick,Polo Reyes
+1314,UFC 211 - Miocic vs. Dos Santos,Jessica Aguilar,Cortney Casey,Cortney Casey,2.36,1.73,2,Favourite,Favourite 2,Cortney Casey,Jessica Aguilar
+1315,UFC 211 - Miocic vs. Dos Santos,Joachim Christensen,Gadzhimurad Antigulov,Gadzhimurad Antigulov,4.5,1.26,2,Favourite,Favourite 2,Gadzhimurad Antigulov,Joachim Christensen
