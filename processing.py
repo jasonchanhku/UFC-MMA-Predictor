@@ -55,3 +55,4 @@ test = get_data()
 test2 = test[best_cols].loc[10]
 print(get_prediction(test2.reshape(1, -1)))
 
+# Think of f1 and f2 and the odds
