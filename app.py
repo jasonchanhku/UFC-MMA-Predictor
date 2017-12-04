@@ -9,7 +9,8 @@ GitHub: www.github.com/jasonchanhku
 # Libraries used for Section 1
 import pandas as pd
 from sklearn.neural_network import MLPClassifier  # simple lightweight deep learning
-
+import plotly.plotly as py
+import plotly.graph_objs as go
 # Libraries used for Section 2
 import dash
 import dash_core_components as dcc
@@ -68,7 +69,43 @@ def predict_outcome(data):
 
 #######################################################################################################################
 
-# Section 2: Dash web app
+# Section 2: Data Visualization Prep
+
+# Columns to normalize
+cols_norm = fighters_db.columns.tolist()[3:]
+
+
+def normalize(df):
+    result = df.copy()
+    for feature_name in cols_norm:
+        max_value = df[feature_name].max()
+        min_value = df[feature_name].min()
+        result[feature_name] = (df[feature_name] - min_value) / (max_value - min_value)
+    return result
+
+
+fighters_db_normalize = normalize(fighters_db)
+
+fighters_db_normalize = fighters_db_normalize.rename(columns={
+
+    'SLPM': 'Striking <br> Volume',
+    'SAPM': 'Damage <br> Taken',
+    'STRA': 'Striking <br> Accuracy',
+    'TDA': 'Wrestling',
+    'SUBA': 'Submission'
+
+})
+
+select_cols = ['NAME', 'Striking <br> Volume', 'Damage <br> Taken', 'Striking <br> Accuracy', 'Wrestling', 'Submission']
+
+fighters_db_normalize = fighters_db_normalize[select_cols]
+
+col_y = fighters_db_normalize.columns.tolist()[1:]
+
+
+#######################################################################################################################
+
+# Section 3: Dash web app
 
 
 def get_fighter_url(fighter):
@@ -110,7 +147,6 @@ size = {
     'font': '20px'
 }
 
-
 app = dash.Dash()
 
 app.layout = html.Div(style={'backgroundColor': colors['background'],
@@ -129,7 +165,13 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
         }
     ),
 
-    html.Br(),
+    html.H3(
+        'Current Model Accuracy: 70.4%',
+        style={
+            'textAlign': 'center'
+        }
+
+    ),
 
     html.Div(style={'textAlign': 'center'}, children=[
 
@@ -141,7 +183,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                     'textAlign': 'center',
                     'fontSize': '40px'
 
-                    }
+                }
             ),
 
             html.Label('Select Weightclass',
@@ -219,7 +261,6 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 }
             ),
 
-
             html.Label('Select Weightclass',
 
                        style={
@@ -282,19 +323,29 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
         ]),
 
-        html.Div(style={'width': '20%', 'marginLeft': 'auto', 'marginRight': 'auto', 'textAlign': 'left'
+        html.Div(style={'width': '40%', 'marginLeft': 'auto', 'marginRight': 'auto', 'textAlign': 'left'
 
                         }, children=[
 
+            dcc.Graph(
+                id='fight-stats',
+                config={'displayModeBar': False,
+                        'staticPlot': True}
+
+            ),
+
+            html.Br(),
+
+            html.Br(),
+
             html.Center(
 
-                html.Label("Fight Stats",
-                           style={
-                               'textAlign': 'center',
-                               'fontSize': '50px'
-                           }
-                           )
+                html.Button('Predict', style={
 
+                    'fontSize': '32px',
+                    'backgroundColor': 'rgba(255,255,255,0.8)'
+
+                })
             )
 
         ]
@@ -309,6 +360,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
 ])
 
+
 # Decorators
 
 # Update f1-fighter amd f2-fighter based on input from f1-weightclass and f2-weightclass
@@ -321,7 +373,9 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
     [Input('f1-weightclass', 'value')]
 )
 def set_f1_fighter(weightclasses):
-    return [{'label': i, 'value': i} for i in fighters_db[fighters_db['WeightClass'] == weightclasses]['NAME'].sort_values()]
+    return [{'label': i, 'value': i} for i in
+            fighters_db[fighters_db['WeightClass'] == weightclasses]['NAME'].sort_values()]
+
 
 @app.callback(
     Output('f1-fighter', 'value'),
@@ -339,7 +393,9 @@ def set_f1_fighter_value(options):
     [Input('f2-weightclass', 'value')]
 )
 def set_f1_fighter(weightclasses):
-    return [{'label': i, 'value': i} for i in fighters_db[fighters_db['WeightClass'] == weightclasses]['NAME'].sort_values()]
+    return [{'label': i, 'value': i} for i in
+            fighters_db[fighters_db['WeightClass'] == weightclasses]['NAME'].sort_values()]
+
 
 @app.callback(
     Output('f2-fighter', 'value'),
@@ -371,6 +427,62 @@ def set_image_f2(fighter2):
         fighter2 = 'Aleksei Oliynyk'
 
     return get_fighter_url(fighter2)
+
+
+@app.callback(
+    Output('fight-stats', 'figure'),
+    [Input('f1-fighter', 'value'),
+     Input('f2-fighter', 'value')]
+)
+def update_graph(f1, f2):
+    f1_x = fighters_db_normalize[fighters_db_normalize['NAME'] == f1].iloc[0, :].values.tolist()[1:]
+    f2_x = fighters_db_normalize[fighters_db_normalize['NAME'] == f2].iloc[0, :].values.tolist()[1:]
+
+    trace1 = go.Bar(
+        y=col_y,
+        x=[x * -1 for x in f1_x],
+        name=f1,
+        orientation='h',
+        hoverinfo='none',
+        marker=dict(
+            color='rgba(102, 0, 0, 0.8)',
+            line=dict(
+                color='rgba(102, 0, 0, 1.0)',
+                width=3)
+        )
+    )
+    trace2 = go.Bar(
+        y=col_y,
+        x=f2_x,
+        name=f2,
+        orientation='h',
+        hoverinfo='none',
+        marker=dict(
+            color='rgba(0, 51, 102, 0.8)',
+            line=dict(
+                color='rgba(0, 51, 102, 1.0)',
+                width=3)
+        )
+    )
+
+    return {
+
+        'data': [trace1, trace2],
+        'layout': go.Layout(
+            barmode='overlay',
+            title='Fight Stats',
+            titlefont={
+                'size': 25
+            },
+            paper_bgcolor='rgba(255,255,255,0.7)',
+            plot_bgcolor='rgba(255,255,255,0)',
+            showlegend=False,
+            xaxis=dict(
+                showticklabels=False
+            )
+        )
+
+    }
 
 
 app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"})
