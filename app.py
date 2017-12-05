@@ -16,7 +16,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import search_google.api
-from dash.dependencies import Input, Output
+from dash.dependencies import Input, Output, State
 
 # Section 1: Data loading and Machine Learning
 # Make sure Machine Learning only run once
@@ -538,11 +538,11 @@ def update_graph(f1, f2):
 @app.callback(
 
     Output('f1-proba', 'children'),
-    [Input('button', 'n_clicks'),
-     Input('f1-fighter', 'value'),
-     Input('f2-fighter', 'value'),
-     Input('f1-odds', 'value'),
-     Input('f2-odds', 'value')]
+    [Input('button', 'n_clicks')],
+     state=[State('f1-fighter', 'value'),
+     State('f2-fighter', 'value'),
+     State('f1-odds', 'value'),
+     State('f2-odds', 'value')]
 
 )
 def update_f1_proba(nclicks, f1, f2, f1_odds, f2_odds):
@@ -567,11 +567,11 @@ def update_f1_proba(nclicks, f1, f2, f1_odds, f2_odds):
 @app.callback(
 
     Output('f2-proba', 'children'),
-    [Input('button', 'n_clicks'),
-     Input('f1-fighter', 'value'),
-     Input('f2-fighter', 'value'),
-     Input('f1-odds', 'value'),
-     Input('f2-odds', 'value')]
+    [Input('button', 'n_clicks')],
+     state=[State('f1-fighter', 'value'),
+     State('f2-fighter', 'value'),
+     State('f1-odds', 'value'),
+     State('f2-odds', 'value')]
 
 )
 def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
