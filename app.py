@@ -9,7 +9,7 @@ GitHub: www.github.com/jasonchanhku
 # Libraries used for Section 1
 import pandas as pd
 from sklearn.neural_network import MLPClassifier  # simple lightweight deep learning
-import plotly.plotly as py
+import numpy as np
 import plotly.graph_objs as go
 # Libraries used for Section 2
 import dash
@@ -132,6 +132,8 @@ def get_fighter_url(fighter):
 
     if fighter == 'Max Holloway':
         url = 'https://media.ufc.tv/fighter_images/Max_Holloway/HOLLOWAY_MAX_BELT.png'
+    elif fighter == 'Michael Bisping':
+        url = 'https://media.ufc.tv/fighter_images/Michael_Bisping/BISPING_MICHAEL.png'
 
     return url
 
@@ -168,7 +170,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
     html.H3(
         'Current Model Accuracy: 70.4%',
         style={
-            'textAlign': 'center'
+            'textAlign': 'center',
         }
 
     ),
@@ -338,7 +340,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
             html.Center(
 
-                html.Button('Predict', style={
+                html.Button('Predict', id='button', style={
 
                     'fontSize': '32px',
                     'backgroundColor': 'rgba(255,255,255,0.8)'
@@ -357,18 +359,18 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
             },
 
-                     children=[
+                children=[
 
-                         html.H2('Favourite', style=
+                    html.H2('Favourite', style=
 
-                         {'textAlign': 'center',
-                          'color': 'rgb(102, 0, 0)'}
+                    {'textAlign': 'center',
+                     'color': 'rgb(102, 0, 0)'}
 
                             ),
 
-                         html.H3('50.5%', style={'textAlign': 'center'})
+                    html.H3(children=['click \n predict'], id='f1-proba', style={'textAlign': 'center'})
 
-                     ]
+                ]
 
             ),
 
@@ -390,12 +392,11 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
                             ),
 
-                    html.H3('49.5%', style={'textAlign': 'center'})
+                    html.H3(children=['click \n predict'], id='f2-proba', style={'textAlign': 'center'})
 
                 ]
 
             )
-
 
         ]
 
@@ -521,7 +522,7 @@ def update_graph(f1, f2):
             barmode='overlay',
             title='Fight Stats',
             titlefont={
-                'size': 25
+                'size': 30
             },
             paper_bgcolor='rgba(255,255,255,0.7)',
             plot_bgcolor='rgba(255,255,255,0)',
@@ -532,6 +533,64 @@ def update_graph(f1, f2):
         )
 
     }
+
+
+@app.callback(
+
+    Output('f1-proba', 'children'),
+    [Input('button', 'n_clicks'),
+     Input('f1-fighter', 'value'),
+     Input('f2-fighter', 'value'),
+     Input('f1-odds', 'value'),
+     Input('f2-odds', 'value')]
+
+)
+def update_f1_proba(nclicks, f1, f2, f1_odds, f2_odds):
+
+    if nclicks > 0:
+        cols = ['SLPM', 'SAPM', 'STRD', 'TD']
+        y = fighters_db[fighters_db['NAME'] == f1][cols].append(
+            fighters_db[fighters_db['NAME'] == f2][cols], ignore_index=True)
+
+        if (f1_odds == 'Big Favourite') & (f2_odds == 'Big Underdog'):
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -5.5)
+        elif (f1_odds == 'Big Favourite') & (f2_odds == 'Slight Underdog'):
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -2.5)
+        elif (f1_odds == 'Slight Favourite') & (f2_odds == 'Big Underdog'):
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), 4.5)
+        else:
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -0.1)
+
+    return str(round(predict_outcome(delta_y)[0][0] * 100, 1)) + '%'
+
+
+@app.callback(
+
+    Output('f2-proba', 'children'),
+    [Input('button', 'n_clicks'),
+     Input('f1-fighter', 'value'),
+     Input('f2-fighter', 'value'),
+     Input('f1-odds', 'value'),
+     Input('f2-odds', 'value')]
+
+)
+def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
+
+    if nclicks > 0:
+        cols = ['SLPM', 'SAPM', 'STRD', 'TD']
+        y = fighters_db[fighters_db['NAME'] == f1][cols].append(
+            fighters_db[fighters_db['NAME'] == f2][cols], ignore_index=True)
+
+        if (f1_odds == 'Big Favourite') & (f2_odds == 'Big Underdog'):
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -5.5)
+        elif (f1_odds == 'Big Favourite') & (f2_odds == 'Slight Underdog'):
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -2.5)
+        elif (f1_odds == 'Slight Favourite') & (f2_odds == 'Big Underdog'):
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), 4.5)
+        else:
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -0.1)
+
+    return str(round(predict_outcome(delta_y)[0][1] * 100, 1)) + '%'
 
 
 app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"})
