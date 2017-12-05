@@ -155,7 +155,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                              'backgroundRepeat': 'no-repeat',
                              'backgroundPosition': 'center top',
                              'backgroundSize': 'auto',
-                             'height': '800px'
+                             'height': '850px'
                              }, children=[
 
     html.H1(
@@ -336,8 +336,6 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
             html.Br(),
 
-            html.Br(),
-
             html.Center(
 
                 html.Button('Predict', style={
@@ -346,7 +344,58 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                     'backgroundColor': 'rgba(255,255,255,0.8)'
 
                 })
+            ),
+
+            html.Br(),
+
+            html.Div(style={
+
+                'width': '35%',
+                'float': 'left',
+                'textAlign': 'left',
+                'backgroundColor': 'rgba(255,255,255,0.7)'
+
+            },
+
+                     children=[
+
+                         html.H2('Favourite', style=
+
+                         {'textAlign': 'center',
+                          'color': 'rgb(102, 0, 0)'}
+
+                            ),
+
+                         html.H3('50.5%', style={'textAlign': 'center'})
+
+                     ]
+
+            ),
+
+            html.Div(style={
+
+                'width': '35%',
+                'float': 'right',
+                'textAlign': 'left',
+                'backgroundColor': 'rgba(255,255,255,0.7)'
+
+            },
+
+                children=[
+
+                    html.H2('Underdog', style=
+
+                    {'textAlign': 'center',
+                     'color': 'rgb(0, 51, 102)'}
+
+                            ),
+
+                    html.H3('49.5%', style={'textAlign': 'center'})
+
+                ]
+
             )
+
 
         ]
 
