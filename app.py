@@ -557,7 +557,7 @@ def update_f1_proba(nclicks, f1, f2, f1_odds, f2_odds):
         elif (f1_odds == 'Big Favourite') & (f2_odds == 'Slight Underdog'):
             delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -2.5)
         elif (f1_odds == 'Slight Favourite') & (f2_odds == 'Big Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), 4.5)
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -1.5)
         else:
             delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -0.1)
 
@@ -586,7 +586,7 @@ def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
         elif (f1_odds == 'Big Favourite') & (f2_odds == 'Slight Underdog'):
             delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -2.5)
         elif (f1_odds == 'Slight Favourite') & (f2_odds == 'Big Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), 4.5)
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -1.5)
         else:
             delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -0.1)
 
