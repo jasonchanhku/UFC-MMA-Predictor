@@ -34,7 +34,8 @@ fighters_db = fighters_db[(fighters_db['Weight'] == 115) | (fighters_db['Weight'
                           | (fighters_db['Weight'] > 205)]
 
 inactive_fighters = ['Aleksander Emelianenko', 'AJ McKee', 'Aaron Ely', 'Alexandre Pantoja', 'Abongo Humphrey',
-                     'Achmed Labasanov', 'Alex Stiebling', 'Adam Meredith', 'Akihiro Gono', 'Adam Cella']
+                     'Achmed Labasanov', 'Alex Stiebling', 'Adam Meredith', 'Akihiro Gono', 'Adam Cella',
+                     'Aaron Wilkinson']
 
 fighters_db = fighters_db[-fighters_db['NAME'].isin(inactive_fighters)]
 
@@ -161,11 +162,12 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                              }, children=[
 
     html.H1(
-        "UFC MMA Predictor v1.0",
+        "UFC MMA Predictor",
         style={
             'textAlign': 'center'
         }
     ),
+
 
     html.H3(
         'Current Model Accuracy: 70.4%',
@@ -528,6 +530,7 @@ def update_graph(f1, f2):
             plot_bgcolor='rgba(255,255,255,0)',
             showlegend=False,
             xaxis=dict(
+                range=[-1, 1],
                 showticklabels=False
             )
         )
