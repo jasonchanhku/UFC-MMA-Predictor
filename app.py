@@ -33,11 +33,10 @@ fighters_db = fighters_db[(fighters_db['Weight'] == 115) | (fighters_db['Weight'
                           | (fighters_db['Weight'] == 185) | (fighters_db['Weight'] == 205)
                           | (fighters_db['Weight'] > 205)]
 
-inactive_fighters = ['Aleksander Emelianenko', 'AJ McKee', 'Aaron Ely', 'Alexandre Pantoja', 'Abongo Humphrey',
-                     'Achmed Labasanov', 'Alex Stiebling', 'Adam Meredith', 'Akihiro Gono', 'Adam Cella',
-                     'Aaron Wilkinson']
+active_fighters = pd.read_csv('/Users/jasonchan/PycharmProjects/UFC-MMA-Predictor/Datasets/active_fighters.csv',
+                              encoding='ISO-8859-1').drop(['Number'], axis=1)['Fighter'].tolist()
 
-fighters_db = fighters_db[-fighters_db['NAME'].isin(inactive_fighters)]
+fighters_db = fighters_db[fighters_db['NAME'].isin(active_fighters)]
 
 fighters = fighters_db['NAME']
 
@@ -92,12 +91,13 @@ fighters_db_normalize = fighters_db_normalize.rename(columns={
     'SLPM': 'Striking <br> Volume',
     'SAPM': 'Damage <br> Taken',
     'STRA': 'Striking <br> Accuracy',
-    'TDA': 'Wrestling',
+    'TDA': 'Takedown <br> Accuracy',
     'SUBA': 'Submission'
 
 })
 
-select_cols = ['NAME', 'Striking <br> Volume', 'Damage <br> Taken', 'Striking <br> Accuracy', 'Wrestling', 'Submission']
+select_cols = ['NAME', 'Striking <br> Volume', 'Damage <br> Taken', 'Striking <br> Accuracy', 'Takedown <br> Accuracy'
+    , 'Submission']
 
 fighters_db_normalize = fighters_db_normalize[select_cols]
 
@@ -408,7 +408,32 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
     html.Br(),
 
-    html.Br()
+    html.Br(),
+
+    html.Br(),
+
+    html.Br(),
+
+    html.Br(),
+
+    html.Br(),
+
+    html.Br(),
+
+    html.Br(),
+
+    html.Div(
+        [
+            dcc.Markdown(
+                '''
+                #### An Interactive Web App by Jason Chan Jin An
+                For more information and contact, please visit my 
+                [Github](https://github.com/jasonchanhku).
+                '''.replace('  ', '')
+            )
+        ],
+        style={'text-align': 'center', 'margin-bottom': '15px'}
+    )
 
 ])
 
