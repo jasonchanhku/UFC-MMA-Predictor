@@ -428,7 +428,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 '''
                 #### An Interactive Web App by Jason Chan Jin An
                 For more information and contact, please visit my 
-                [Github](https://github.com/jasonchanhku).
+                [Github](https://github.com/jasonchanhku) and [Jupyter Notebook Documentation](https://github.com/jasonchanhku/UFC-MMA-Predictor/blob/master/UFC%20MMA%20Predictor%20Workflow.ipynb).
                 '''.replace('  ', '')
             )
         ],
