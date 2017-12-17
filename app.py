@@ -150,7 +150,9 @@ size = {
     'font': '20px'
 }
 
-app = dash.Dash()
+app = dash.Dash(__name__)
+
+server = app.server
 
 app.layout = html.Div(style={'backgroundColor': colors['background'],
                              'backgroundImage': 'url(http://assets.fightland.com/content-images/'
