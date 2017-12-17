@@ -625,10 +625,6 @@ def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
 
 app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"})
 
-app.scripts.append_script({
-	‘external_url’: ‘https://cdn.rawgit.com/jasonchanhku/UFC-MMA-Predictor/f6830a25/gtag.js’
-})
-
 app.title = 'UFC MMA Predictor'
 
 
