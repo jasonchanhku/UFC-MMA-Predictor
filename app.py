@@ -10,6 +10,7 @@ GitHub: www.github.com/jasonchanhku
 import pandas as pd
 from sklearn.neural_network import MLPClassifier  # simple lightweight deep learning
 import numpy as np
+import os
 import plotly.graph_objs as go
 # Libraries used for Section 2
 import dash
