@@ -627,6 +627,12 @@ app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"
 
 app.title = 'UFC MMA Predictor'
 
+if 'DYNO' in os.environ:
+    app.scripts.config.serve_locally = False
+    app.scripts.append_script({
+        'external_url': 'https://cdn.rawgit.com/jasonchanhku/UFC-MMA-Predictor/f6830a25/gtag.js'
+    })
+
 
 if __name__ == "__main__":
     app.run_server(debug=True)
