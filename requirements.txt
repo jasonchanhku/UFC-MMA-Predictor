@@ -7,4 +7,5 @@ numpy==1.13.3
 pandas==0.21.0
 plotly==2.2.2
 scikit-learn==0.18.1
+scipy==0.18.1
 search-google==1.2.1
