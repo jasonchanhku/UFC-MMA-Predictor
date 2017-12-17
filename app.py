@@ -20,9 +20,9 @@ from dash.dependencies import Input, Output, State
 
 # Section 1: Data loading and Machine Learning.
 # Make sure Machine Learning only run once
-fights_db = pd.read_csv('https://raw.githubusercontent.com/jasonchanhku/UFC-MMA-Predictor/master/Datasets/Cleansed_Data.csv')
+fights_db = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/Cleansed_Data.csv')
 
-fighters_db = pd.read_csv('https://raw.githubusercontent.com/jasonchanhku/UFC-MMA-Predictor/master/Datasets/UFC_Fighters_Database.csv')
+fighters_db = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/UFC_Fighters_Database.csv')
 
 fighters_db = fighters_db[(fighters_db['TD'] != 0) & (fighters_db['Weight'] <= 265)]
 
@@ -33,7 +33,7 @@ fighters_db = fighters_db[(fighters_db['Weight'] == 115) | (fighters_db['Weight'
                           | (fighters_db['Weight'] == 185) | (fighters_db['Weight'] == 205)
                           | (fighters_db['Weight'] > 205)]
 
-active_fighters = pd.read_csv('https://raw.githubusercontent.com/jasonchanhku/UFC-MMA-Predictor/master/Datasets/active_fighters.csv',
+active_fighters = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/active_fighters.csv',
                               encoding='ISO-8859-1').drop(['Number'], axis=1)['Fighter'].tolist()
 
 fighters_db = fighters_db[fighters_db['NAME'].isin(active_fighters)]
