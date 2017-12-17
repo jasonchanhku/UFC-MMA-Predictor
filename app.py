@@ -18,7 +18,7 @@ import dash_html_components as html
 import search_google.api
 from dash.dependencies import Input, Output, State
 
-# Section 1: Data loading and Machine Learning
+# Section 1: Data loading and Machine Learning.
 # Make sure Machine Learning only run once
 fights_db = pd.read_csv('https://raw.githubusercontent.com/jasonchanhku/UFC-MMA-Predictor/master/Datasets/Cleansed_Data.csv')
 
