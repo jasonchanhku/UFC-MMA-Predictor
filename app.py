@@ -32,6 +32,7 @@ fighters_db = fighters_db[(fighters_db['Weight'] == 115) | (fighters_db['Weight'
                           | (fighters_db['Weight'] == 185) | (fighters_db['Weight'] == 205)
                           | (fighters_db['Weight'] > 205)]
 
+# only display active fighters
 active_fighters = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/active_fighters.csv',
                               encoding='ISO-8859-1').drop(['Number'], axis=1)['Fighter'].tolist()
 
