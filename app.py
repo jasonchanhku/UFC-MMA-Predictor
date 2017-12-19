@@ -25,8 +25,6 @@ fights_db = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor
 
 fighters_db = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/UFC_Fighters_Database.csv')
 
-fighters_db = fighters_db[(fighters_db['TD'] != 0) & (fighters_db['Weight'] <= 265)]
-
 fighters_db = fighters_db[(fighters_db['Weight'] == 115) | (fighters_db['Weight'] == 125)
                           | (fighters_db['Weight'] == 135) | (fighters_db['Weight'] == 140)
                           | (fighters_db['Weight'] == 145)
