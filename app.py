@@ -1,5 +1,5 @@
 """
-The UFC MMA Predictor Web App
+The UFC MMA Predictor Web App V2.0
 
 author: Jason Chan Jin An
 GitHub: www.github.com/jasonchanhku
