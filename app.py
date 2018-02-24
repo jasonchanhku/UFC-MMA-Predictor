@@ -227,7 +227,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
             html.Br(),
 
             html.Label(
-                'Select Odd Margin',
+                'Input Decimal Odds',
                 style={
                     'fontSize': size['font'],
                     'textAlign': 'center'
@@ -236,13 +236,12 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
 
             html.Center(
 
-                dcc.RadioItems(
+                dcc.Input(
                     id='f1-odds',
-                    options=[{'label': i, 'value': i} for i in ['Big Favourite', 'Slight Favourite']],
-                    value='Slight Favourite',
-                    labelStyle={'display': 'inline-block'}
-                    # inline block makes the buttons in one line horizontally rather than vertically
-                )
+                    placeholder='Enter odds (e.g 1.50)',
+                    type='number',
+                    value=''
+                ),
             ),
 
             html.Br(),
@@ -301,7 +300,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
             html.Br(),
 
             html.Label(
-                'Select Odd Margin',
+                'Input Decimal Odds',
                 style={
                     'fontSize': size['font'],
                     'textAlign': 'center'
@@ -309,12 +308,13 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
             ),
 
             html.Center(
-                dcc.RadioItems(
+
+                dcc.Input(
                     id='f2-odds',
-                    options=[{'label': i, 'value': i} for i in ['Big Underdog', 'Slight Underdog']],
-                    value='Slight Underdog',
-                    labelStyle={'display': 'inline-block'}
-                )
+                    placeholder='Enter odds (e.g 2.50)',
+                    type='number',
+                    value=''
+                ),
             ),
 
             html.Br(),
@@ -429,13 +429,57 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
             dcc.Markdown(
                 '''
                 #### An Interactive Web App by Jason Chan Jin An
-                For more information and contact, please visit my 
+                For more information and contact, please visit my [Website](https://jasonchanhku.github.io), 
                 [Github](https://github.com/jasonchanhku) and [Jupyter Notebook Documentation](https://github.com/jasonchanhku/UFC-MMA-Predictor/blob/master/UFC%20MMA%20Predictor%20Workflow.ipynb).
                 '''.replace('  ', '')
             )
         ],
         style={'text-align': 'center', 'margin-bottom': '15px'}
-    )
+    ),
+
+
+    html.Div(
+        [
+            dcc.Markdown(
+                '''
+                #### User Guide
+                
+                ##### 1. Know your fighters' weightclass
+                
+                Using this web app requires knowledge of the UFC fighters that belong to a specific weightclass. You may
+                find the full fighters database [here](http://www.ufc.com/fighter)                    
+                   
+                ##### 2. Know who's fighting who
+                
+                Upcoming scheduled fights can be found [here](http://www.sherdog.com/organizations/Ultimate-Fighting-Championship-UFC-2)
+                as well as fighters on fight cards
+                
+                ##### 3. Know who's the favourite and underdog (Decimal Odds)
+                
+                Bear in mind that the model this web app uses is trained on **Decimal Odds** instead of American Odds.
+                For more information on the differences, see [here](http://www.betmma.tips/mma_betting_help.php). To know
+                which fighter is the favourite or underdog, check [here](http://www.betmma.tips/mma_betting_favorites_vs_underdogs.php).
+                Note that the favourite fighter's odds are **always less than the underdog**. You will see Error if you
+                input otherwise.        
+                
+                ##### 4. Select weightclass, fighter, and input odds accordingly
+                
+                Hope for the best and win some money !
+                
+                ##### Glossary
+                
+                To learn the MMA and UFC lingo, click [here](http://www.ufc.com/discover/glossary/list)
+                
+                '''.replace('  ', '')
+            )
+        ],
+        style={'text-align': 'left', 'margin-bottom': '15px'}
+    ),
+
+    html.Br(),
+
+    html.Br()
+
 
 ])
 
@@ -582,16 +626,14 @@ def update_f1_proba(nclicks, f1, f2, f1_odds, f2_odds):
         y = fighters_db[fighters_db['NAME'] == f1][cols].append(
             fighters_db[fighters_db['NAME'] == f2][cols], ignore_index=True)
 
-        if (f1_odds == 'Big Favourite') & (f2_odds == 'Big Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -5.5)
-        elif (f1_odds == 'Big Favourite') & (f2_odds == 'Slight Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -2.5)
-        elif (f1_odds == 'Slight Favourite') & (f2_odds == 'Big Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -1.5)
+        # Error handling
+        if f1_odds < f2_odds:
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), float(f1_odds) - float(f2_odds))
+            delta_y = str(round(predict_outcome(delta_y)[0][0] * 100, 1)) + '%'
         else:
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -0.1)
+            delta_y = "Error"
 
-    return str(round(predict_outcome(delta_y)[0][0] * 100, 1)) + '%'
+    return delta_y
 
 
 @app.callback(
@@ -611,16 +653,14 @@ def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
         y = fighters_db[fighters_db['NAME'] == f1][cols].append(
             fighters_db[fighters_db['NAME'] == f2][cols], ignore_index=True)
 
-        if (f1_odds == 'Big Favourite') & (f2_odds == 'Big Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -5.5)
-        elif (f1_odds == 'Big Favourite') & (f2_odds == 'Slight Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -2.5)
-        elif (f1_odds == 'Slight Favourite') & (f2_odds == 'Big Underdog'):
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -1.5)
+        # Error handling
+        if f1_odds < f2_odds:
+            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), float(f1_odds) - float(f2_odds))
+            delta_y = str(round(predict_outcome(delta_y)[0][1] * 100, 1)) + '%'
         else:
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), -0.1)
+            delta_y = "Error"
 
-    return str(round(predict_outcome(delta_y)[0][1] * 100, 1)) + '%'
+    return delta_y
 
 
 app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"})
