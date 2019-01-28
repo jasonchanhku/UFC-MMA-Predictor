@@ -106,19 +106,19 @@ col_y = fighters_db_normalize.columns.tolist()[1:]
 
 #######################################################################################################################
 
-# Section 3: Dash web app
+# Section 3: Dash web app (removed keys)
 
 def get_fighter_url(fighter):
     buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': 'AIzaSyBP4iP-koxx0QuQHxDAPNoW_-VtvEGnUZk'
+        'developerKey': <insert here>
     }
 
     # Define cseargs for search
     cseargs = {
         'q': fighter + '' + 'Official Fighter Profile',
-        'cx': '016027444834784494660:90pbclyyt6w',
+        'cx': <insert here>,
         'num': 1,
         'imgSize': 'large',
         'searchType': 'image',
