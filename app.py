@@ -32,11 +32,11 @@ fighters_db = fighters_db[(fighters_db['Weight'] == 115) | (fighters_db['Weight'
                           | (fighters_db['Weight'] == 185) | (fighters_db['Weight'] == 205)
                           | (fighters_db['Weight'] > 205)]
 
-# only display active fighters
-active_fighters = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/active_fighters.csv',
-                              encoding='ISO-8859-1').drop(['Number'], axis=1)['Fighter'].tolist()
+# only display active fighters (removed due to fun simulations)
+#active_fighters = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/active_fighters.csv',
+                              #encoding='ISO-8859-1').drop(['Number'], axis=1)['Fighter'].tolist()
 
-fighters_db = fighters_db[fighters_db['NAME'].isin(active_fighters)]
+#fighters_db = fighters_db[fighters_db['NAME'].isin(active_fighters)]
 
 fighters = fighters_db['NAME']
 
@@ -108,21 +108,20 @@ col_y = fighters_db_normalize.columns.tolist()[1:]
 
 # Section 3: Dash web app
 
-
 def get_fighter_url(fighter):
     buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': 'AIzaSyAQACPWQ00cwV72F3YIOP70RqqkyZyBaUQ'
+        'developerKey': 'AIzaSyBP4iP-koxx0QuQHxDAPNoW_-VtvEGnUZk'
     }
 
     # Define cseargs for search
     cseargs = {
         'q': fighter + '' + 'Official Fighter Profile',
-        'cx': '007364733105595844420:eu9ova5tqdg',
+        'cx': '016027444834784494660:90pbclyyt6w',
         'num': 1,
+        'imgSize': 'large',
         'searchType': 'image',
-        'imgType': 'clipart',
         'fileType': 'png',
         'safe': 'off'
     }
@@ -130,11 +129,6 @@ def get_fighter_url(fighter):
     # Create a results object
     results = search_google.api.results(buildargs, cseargs)
     url = results.links[0]
-
-    if fighter == 'Max Holloway':
-        url = 'https://media.ufc.tv/fighter_images/Max_Holloway/HOLLOWAY_MAX_BELT.png'
-    elif fighter == 'Michael Bisping':
-        url = 'https://media.ufc.tv/fighter_images/Michael_Bisping/BISPING_MICHAEL.png'
 
     return url
 
@@ -322,7 +316,6 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
             html.Center(
 
                 html.Img(id='f2-image',
-                         src=get_fighter_url('Tony Ferguson'),
                          width='100%'
                          )
             )
@@ -525,7 +518,7 @@ def set_f1_fighter(weightclasses):
     [Input('f2-fighter', 'options')]
 )
 def set_f1_fighter_value(options):
-    return options[1]['value']
+    return options[2]['value']
 
 
 # Callback for change of picture
@@ -673,6 +666,5 @@ if 'DYNO' in os.environ:
         'external_url': 'https://cdn.rawgit.com/jasonchanhku/UFC-MMA-Predictor/f6830a25/gtag.js'
     })
 
-
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8080, host='0.0.0.0')
