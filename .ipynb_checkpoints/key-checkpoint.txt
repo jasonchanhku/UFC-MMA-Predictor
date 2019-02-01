@@ -1,0 +1,8 @@
+Developer Key: 'AIzaSyBP4iP-koxx0QuQHxDAPNoW_-VtvEGnUZk'
+CSE: '016027444834784494660:90pbclyyt6w'
+
+
+morph_api_url = "https://api.morph.io/jasonchanhku/ufc_fighters_db/data.json"
+
+# Keep this key secret!
+morph_api_key = "mF/o1gYK/7iCHIu5h5Sw"
