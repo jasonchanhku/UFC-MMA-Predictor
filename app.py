@@ -12,6 +12,7 @@ from sklearn.neural_network import MLPClassifier  # simple lightweight deep lear
 import numpy as np
 import os
 import plotly.graph_objs as go
+import requests
 # Libraries used for Section 2
 import dash
 import dash_core_components as dcc
@@ -23,20 +24,22 @@ from dash.dependencies import Input, Output, State
 # Make sure Machine Learning only run once
 fights_db = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/Cleansed_Data.csv')
 
-fighters_db = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/UFC_Fighters_Database.csv')
+# New data feed from morph.io
+# We're always asking for json because it's the easiest to deal with
+morph_api_url = "https://api.morph.io/jasonchanhku/ufc_fighters_db/data.json"
 
-fighters_db = fighters_db[(fighters_db['Weight'] == 115) | (fighters_db['Weight'] == 125)
-                          | (fighters_db['Weight'] == 135) | (fighters_db['Weight'] == 140)
-                          | (fighters_db['Weight'] == 145)
-                          | (fighters_db['Weight'] == 155) | (fighters_db['Weight'] == 170)
-                          | (fighters_db['Weight'] == 185) | (fighters_db['Weight'] == 205)
-                          | (fighters_db['Weight'] > 205)]
+# Keep this key secret!
+morph_api_key = "mF/o1gYK/7iCHIu5h5Sw"
 
-# only display active fighters (removed due to fun simulations)
-#active_fighters = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/active_fighters.csv',
-                              #encoding='ISO-8859-1').drop(['Number'], axis=1)['Fighter'].tolist()
+r = requests.get(morph_api_url, params={
+  'key': morph_api_key,
+  'query': "select * from data"
+})
 
-#fighters_db = fighters_db[fighters_db['NAME'].isin(active_fighters)]
+j = r.json()
+
+fighters_db = pd.DataFrame.from_dict(j)
+
 
 fighters = fighters_db['NAME']
 
@@ -72,7 +75,7 @@ def predict_outcome(data):
 # Section 2: Data Visualization Prep
 
 # Columns to normalize
-cols_norm = fighters_db.columns.tolist()[3:]
+cols_norm = ['REACH', 'SLPM', 'SAPM', 'STRA', 'STRD', 'TD', 'TDA', 'TDD', 'SUBA']
 
 
 def normalize(df):
@@ -112,13 +115,13 @@ def get_fighter_url(fighter):
     buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': <insert here>
+        'developerKey': 'AIzaSyBP4iP-koxx0QuQHxDAPNoW_-VtvEGnUZk'
     }
 
     # Define cseargs for search
     cseargs = {
         'q': fighter + '' + 'Official Fighter Profile',
-        'cx': <insert here>,
+        'cx': '016027444834784494660:90pbclyyt6w',
         'num': 1,
         'imgSize': 'large',
         'searchType': 'image',
@@ -424,6 +427,8 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 #### An Interactive Web App by Jason Chan Jin An
                 For more information and contact, please visit my [Website](https://jasonchanhku.github.io), 
                 [Github](https://github.com/jasonchanhku) and [Jupyter Notebook Documentation](https://github.com/jasonchanhku/UFC-MMA-Predictor/blob/master/UFC%20MMA%20Predictor%20Workflow.ipynb).
+                
+                Disclaimer: Please use this web app responsibly and by using it, I am not responsible for any losses made by decisions of this web app.
                 '''.replace('  ', '')
             )
         ],
@@ -453,7 +458,9 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 For more information on the differences, see [here](http://www.betmma.tips/mma_betting_help.php). To know
                 which fighter is the favourite or underdog, check [here](http://www.betmma.tips/mma_betting_favorites_vs_underdogs.php).
                 Note that the favourite fighter's odds are **always less than the underdog**. You will see Error if you
-                input otherwise.        
+                input otherwise.
+                
+                To find out the odds on the next UFC event, click [here](https://www.betmma.tips/next_ufc_event.php)
                 
                 ##### 4. Select weightclass, fighter, and input odds accordingly
                 
@@ -461,7 +468,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 
                 ##### Glossary
                 
-                To learn the MMA and UFC lingo, click [here](http://www.ufc.com/discover/glossary/list)
+                To learn the MMA and UFC lingo, click [here](http://se.ufc.com/discover/glossary/list)
                 
                 '''.replace('  ', '')
             )
@@ -517,8 +524,8 @@ def set_f1_fighter(weightclasses):
     Output('f2-fighter', 'value'),
     [Input('f2-fighter', 'options')]
 )
-def set_f1_fighter_value(options):
-    return options[2]['value']
+def set_f2_fighter_value(options):
+    return options[1]['value']
 
 
 # Callback for change of picture
@@ -621,7 +628,7 @@ def update_f1_proba(nclicks, f1, f2, f1_odds, f2_odds):
 
         # Error handling
         if f1_odds < f2_odds:
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), float(f1_odds) - float(f2_odds))
+            delta_y = np.append((y.loc[0] - y.loc[1]).values.reshape(1, -1), float(f1_odds) - float(f2_odds))
             delta_y = str(round(predict_outcome(delta_y)[0][0] * 100, 1)) + '%'
         else:
             delta_y = "Error"
@@ -648,7 +655,7 @@ def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
 
         # Error handling
         if f1_odds < f2_odds:
-            delta_y = np.append((y.loc[0] - y.loc[1]).reshape(1, -1), float(f1_odds) - float(f2_odds))
+            delta_y = np.append((y.loc[0] - y.loc[1]).values.reshape(1, -1), float(f1_odds) - float(f2_odds))
             delta_y = str(round(predict_outcome(delta_y)[0][1] * 100, 1)) + '%'
         else:
             delta_y = "Error"
@@ -667,4 +674,4 @@ if 'DYNO' in os.environ:
     })
 
 if __name__ == "__main__":
-    app.run_server(debug=True, port=8080, host='0.0.0.0')
+    app.run_server(debug=True)
