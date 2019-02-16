@@ -1,5 +1,13 @@
 """
-The UFC MMA Predictor Web App V2.0
+The UFC MMA Predictor Web App V3.0
+
+3.0 updates
+- automated the data update of fights and fighters
+- replaced outdated links in user guide
+
+3.1 TODO
+- think of how to separate machine learning from script
+- navigation bar of db browser and track record
 
 author: Jason Chan Jin An
 GitHub: www.github.com/jasonchanhku
@@ -22,14 +30,14 @@ from dash.dependencies import Input, Output, State
 
 # Section 1: Data loading and Machine Learning.
 # Make sure Machine Learning only run once
-fights_db = pd.read_csv('https://s3-ap-southeast-1.amazonaws.com/ufcmmapredictor/Cleansed_Data.csv')
 
-# New data feed from morph.io
+# New fighters db data feed from morph.io
 # We're always asking for json because it's the easiest to deal with
 morph_api_url = "https://api.morph.io/jasonchanhku/ufc_fighters_db/data.json"
 
 # Keep this key secret!
-morph_api_key = <insert here>
+# Keep this key secret!
+morph_api_key = "mF/o1gYK/7iCHIu5h5Sw"
 
 r = requests.get(morph_api_url, params={
   'key': morph_api_key,
@@ -40,6 +48,18 @@ j = r.json()
 
 fighters_db = pd.DataFrame.from_dict(j)
 
+# New fights db feed from morph.io
+# We're always asking for json because it's the easiest to deal with
+morph_api_url_1 = "https://api.morph.io/jasonchanhku/ufc_fights_db/data.json"
+
+r_1 = requests.get(morph_api_url_1, params={
+  'key': morph_api_key,
+  'query': "select * from data"
+})
+
+j_1 = r_1.json()
+
+fights_db = pd.DataFrame.from_dict(j_1)
 
 fighters = fighters_db['NAME']
 
@@ -115,13 +135,13 @@ def get_fighter_url(fighter):
     buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': <insert here>
+        'developerKey': 'AIzaSyBP4iP-koxx0QuQHxDAPNoW_-VtvEGnUZk'
     }
 
     # Define cseargs for search
     cseargs = {
         'q': fighter + '' + 'Official Fighter Profile',
-        'cx': <insert here>,
+        'cx': '016027444834784494660:90pbclyyt6w',
         'num': 1,
         'imgSize': 'large',
         'searchType': 'image',
@@ -442,17 +462,23 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 '''
                 #### User Guide
                 
-                ##### 1. Know your fighters' weightclass
+                ##### Data and prediction model
+                
+                This web app relies on multiple scrapers that runs **daily**. Hence, data is updated everyday and latest fighter                   and fight data is available immediately.
+                
+                The prediction model is always trained up to most recent fight card hence capturing any trend changes in the data.
+                
+                ##### Know your fighters' weightclass
                 
                 Using this web app requires knowledge of the UFC fighters that belong to a specific weightclass. You may
-                find the full fighters database [here](http://www.ufc.com/fighter)                    
+                find the full fighters roster [here](https://www.ufc.com/athletes)                    
                    
-                ##### 2. Know who's fighting who
+                ##### Know who's fighting who
                 
                 Upcoming scheduled fights can be found [here](http://www.sherdog.com/organizations/Ultimate-Fighting-Championship-UFC-2)
                 as well as fighters on fight cards
                 
-                ##### 3. Know who's the favourite and underdog (Decimal Odds)
+                ##### Know who's the favourite and underdog (Decimal Odds)
                 
                 Bear in mind that the model this web app uses is trained on **Decimal Odds** instead of American Odds.
                 For more information on the differences, see [here](http://www.betmma.tips/mma_betting_help.php). To know
@@ -462,7 +488,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 
                 To find out the odds on the next UFC event, click [here](https://www.betmma.tips/next_ufc_event.php)
                 
-                ##### 4. Select weightclass, fighter, and input odds accordingly
+                ##### Select weightclass, fighter, and input odds accordingly
                 
                 Hope for the best and win some money !
                 
