@@ -36,7 +36,7 @@ from dash.dependencies import Input, Output, State
 morph_api_url = "https://api.morph.io/jasonchanhku/ufc_fighters_db/data.json"
 
 # Keep this key secret!
-morph_api_key = <insert key>
+morph_api_key = "mF/o1gYK/7iCHIu5h5Sw"
 
 r = requests.get(morph_api_url, params={
   'key': morph_api_key,
@@ -134,13 +134,13 @@ def get_fighter_url(fighter):
     buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': <insert key>
+        'developerKey': 'AIzaSyBP4iP-koxx0QuQHxDAPNoW_-VtvEGnUZk'
     }
 
     # Define cseargs for search
     cseargs = {
         'q': fighter + '' + 'Official Fighter Profile',
-        'cx': <insert key>,
+        'cx': '016027444834784494660:90pbclyyt6w',
         'num': 1,
         'imgSize': 'large',
         'searchType': 'image',
@@ -255,7 +255,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 dcc.Input(
                     id='f1-odds',
                     placeholder='Enter odds (e.g 1.50)',
-                    type='number',
+                    type='text',
                     value=''
                 ),
             ),
@@ -328,7 +328,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 dcc.Input(
                     id='f2-odds',
                     placeholder='Enter odds (e.g 2.50)',
-                    type='number',
+                    type='text',
                     value=''
                 ),
             ),
@@ -650,13 +650,28 @@ def update_f1_proba(nclicks, f1, f2, f1_odds, f2_odds):
         cols = ['SLPM', 'SAPM', 'STRD', 'TD']
         y = fighters_db[fighters_db['NAME'] == f1][cols].append(
             fighters_db[fighters_db['NAME'] == f2][cols], ignore_index=True)
-
+        
+        try:
+            float(f1_odds)
+            float(f2_odds)
+        except:
+            return "input not a numeric decimal"
+        
+        if '.' in f1_odds and '.' in f2_odds:
+            f1_odds = float(f1_odds)
+            f2_odds = float(f2_odds)
+        else:
+            return "inputs must be decimal odds, not american odds"
+        
+        if f1_odds < 0 or f2_odds < 0:
+            return "decimal odds must be positive"
+        
         # Error handling
         if f1_odds < f2_odds:
             delta_y = np.append((y.loc[0] - y.loc[1]).values.reshape(1, -1), float(f1_odds) - float(f2_odds))
             delta_y = str(round(predict_outcome(delta_y)[0][0] * 100, 1)) + '%'
         else:
-            delta_y = "Error"
+            return "fav odds must be less than und"
 
     return delta_y
 
@@ -677,13 +692,30 @@ def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
         cols = ['SLPM', 'SAPM', 'STRD', 'TD']
         y = fighters_db[fighters_db['NAME'] == f1][cols].append(
             fighters_db[fighters_db['NAME'] == f2][cols], ignore_index=True)
-
+        
+        try:
+            float(f1_odds)
+            float(f2_odds)
+        except:
+            return "input not a numeric decimal"
+        
+        if '.' in f1_odds and '.' in f2_odds:
+            f1_odds = float(f1_odds)
+            f2_odds = float(f2_odds)
+        else:
+            return "inputs must be decimal odds, not american odds"
+        
+        if f1_odds < 0 or f2_odds < 0:
+            return "decimal odds must be positive"
+        
+        
+        
         # Error handling
         if f1_odds < f2_odds:
             delta_y = np.append((y.loc[0] - y.loc[1]).values.reshape(1, -1), float(f1_odds) - float(f2_odds))
             delta_y = str(round(predict_outcome(delta_y)[0][1] * 100, 1)) + '%'
         else:
-            delta_y = "Error"
+            delta_y = "fav odds must be less than und"
 
     return delta_y
 
@@ -698,5 +730,6 @@ if 'DYNO' in os.environ:
         'external_url': 'https://cdn.rawgit.com/jasonchanhku/UFC-MMA-Predictor/f6830a25/gtag.js'
     })
 
+# add host = "0.0.0.0" and port = "8080" in dev mode
 if __name__ == "__main__":
     app.run_server(debug=True)
