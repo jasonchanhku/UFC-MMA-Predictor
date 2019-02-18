@@ -36,7 +36,7 @@ from dash.dependencies import Input, Output, State
 morph_api_url = "https://api.morph.io/jasonchanhku/ufc_fighters_db/data.json"
 
 # Keep this key secret!
-morph_api_key = "mF/o1gYK/7iCHIu5h5Sw"
+morph_api_key = <insert key>
 
 r = requests.get(morph_api_url, params={
   'key': morph_api_key,
@@ -134,13 +134,13 @@ def get_fighter_url(fighter):
     buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': 'AIzaSyBP4iP-koxx0QuQHxDAPNoW_-VtvEGnUZk'
+        'developerKey': <insert key>
     }
 
     # Define cseargs for search
     cseargs = {
         'q': fighter + '' + 'Official Fighter Profile',
-        'cx': '016027444834784494660:90pbclyyt6w',
+        'cx': <insert key>,
         'num': 1,
         'imgSize': 'large',
         'searchType': 'image',
