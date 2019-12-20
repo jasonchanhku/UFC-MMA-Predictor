@@ -36,7 +36,7 @@ from dash.dependencies import Input, Output, State
 morph_api_url = "https://api.morph.io/jasonchanhku/ufc_fighters_db/data.json"
 
 # Keep this key secret!
-morph_api_key = <insert key>
+morph_api_key = "mF/o1gYK/7iCHIu5h5Sw"
 
 r = requests.get(morph_api_url, params={
   'key': morph_api_key,
@@ -59,6 +59,7 @@ r_1 = requests.get(morph_api_url_1, params={
 j_1 = r_1.json()
 
 fights_db = pd.DataFrame.from_dict(j_1)
+fights_db = fights_db.dropna()
 
 fighters = fighters_db['NAME']
 
@@ -134,13 +135,13 @@ def get_fighter_url(fighter):
     buildargs = {
         'serviceName': 'customsearch',
         'version': 'v1',
-        'developerKey': <insert key>
+        'developerKey': ''
     }
 
     # Define cseargs for search
     cseargs = {
         'q': fighter + '' + 'Official Fighter Profile',
-        'cx': <insert key>,
+        'cx': '',
         'num': 1,
         'imgSize': 'large',
         'searchType': 'image',
@@ -171,12 +172,11 @@ app = dash.Dash(__name__)
 server = app.server
 
 app.layout = html.Div(style={'backgroundColor': colors['background'],
-                             'backgroundImage': 'url(http://assets.fightland.com/content-images/'
-                                                'contentimage/51034/NOTORIOUS.jpg)',
+                             'backgroundImage': 'url(https://github.com/jasonchanhku/UFC-MMA-Predictor/blob/master/Pictures/NOTORIOUS.jpg?raw=true)',
                              'backgroundRepeat': 'no-repeat',
                              'backgroundPosition': 'center top',
                              'backgroundSize': 'auto',
-                             'height': '850px'
+                             'height': '950px'
                              }, children=[
 
     html.H1(
@@ -438,16 +438,24 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
     html.Br(),
 
     html.Br(),
+           
+    html.Br(),
 
+    html.Br(),
+    
+    html.Br(),
+           
+    html.Br(),
+           
     html.Div(
         [
             dcc.Markdown(
                 '''
-                #### An Interactive Web App by Jason Chan Jin An
+                #### An Interactive Web App by jasonchanhku
                 For more information and contact, please visit my [Website](https://jasonchanhku.github.io), 
                 [Github](https://github.com/jasonchanhku) and [Jupyter Notebook Documentation](https://github.com/jasonchanhku/UFC-MMA-Predictor/blob/master/UFC%20MMA%20Predictor%20Workflow.ipynb).
                 
-                Disclaimer: Please use this web app responsibly and by using it, I am not responsible for any losses made by decisions of this web app.
+                **Disclaimer:** Please use this web app responsibly and by using it, I am not responsible for any losses made by decisions of this web app.
                 '''.replace('  ', '')
             )
         ],
@@ -493,7 +501,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],
                 
                 ##### Glossary
                 
-                To learn the MMA and UFC lingo, click [here](http://se.ufc.com/discover/glossary/list)
+                To learn the MMA and UFC lingo, click [here](https://www.ufc.com/fighting-glossary)
                 
                 '''.replace('  ', '')
             )
@@ -562,8 +570,9 @@ def set_f2_fighter_value(options):
 def set_image_f1(fighter1):
     if fighter1 == 'Aleksei Oleinik':
         fighter1 = 'Aleksei Oliynyk'
-
-    return get_fighter_url(fighter1)
+        
+    #return get_fighter_url(fighter1)
+    return "https://github.com/jasonchanhku/UFC-MMA-Predictor/blob/master/Pictures/fighter_left.png?raw=true"
 
 
 @app.callback(
@@ -573,8 +582,10 @@ def set_image_f1(fighter1):
 def set_image_f2(fighter2):
     if fighter2 == 'Aleksei Oleinik':
         fighter2 = 'Aleksei Oliynyk'
-
-    return get_fighter_url(fighter2)
+        
+    #return get_fighter_url(fighter2)
+    
+    return "https://github.com/jasonchanhku/UFC-MMA-Predictor/blob/master/Pictures/fighter_right.png?raw=true"
 
 
 @app.callback(
@@ -720,7 +731,7 @@ def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
     return delta_y
 
 
-app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"})
+app.css.append_css({"external_url": "https://codepen.io/jasonchanhku/pen/dyPvjBq.css"})
 
 app.title = 'UFC MMA Predictor'
 
@@ -732,4 +743,4 @@ if 'DYNO' in os.environ:
 
 # add host = "0.0.0.0" and port = "8080" in dev mode
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8000)
