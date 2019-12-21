@@ -36,7 +36,7 @@ from dash.dependencies import Input, Output, State
 morph_api_url = "https://api.morph.io/jasonchanhku/ufc_fighters_db/data.json"
 
 # Keep this key secret!
-morph_api_key = <insert key here>
+morph_api_key = "mF/o1gYK/7iCHIu5h5Sw"
 
 r = requests.get(morph_api_url, params={
   'key': morph_api_key,
@@ -731,7 +731,7 @@ def update_f2_proba(nclicks, f1, f2, f1_odds, f2_odds):
     return delta_y
 
 
-app.css.append_css({"external_url": "https://codepen.io/jasonchanhku/pen/dyPvjBq.css"})
+app.css.append_css({"external_url": "https://ufcmmapredictor.s3-ap-southeast-1.amazonaws.com/ufcmmapredictor.css"})
 
 app.title = 'UFC MMA Predictor'
 
