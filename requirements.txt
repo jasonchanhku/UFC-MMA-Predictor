@@ -9,4 +9,4 @@ plotly==2.2.2
 scikit-learn==0.18.1
 scipy==0.18.1
 search-google==1.2.1
-requests==2.20.0
+requests==2.22.0
